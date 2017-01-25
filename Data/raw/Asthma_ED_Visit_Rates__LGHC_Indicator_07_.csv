@@ -1,0 +1,1803 @@
+LGHC Indicator Name,Geography,Year,Age Group,Strata,Strata Name,Numerator,Rate,LGHC Indicator ID,LGHC Target Rate
+Asthma ED Visit Rates,Alameda,2015,Under 18,Total Population,Under 18,3426,96.7,7,28
+Asthma ED Visit Rates,Amador,2015,Under 18,Total Population,Under 18,45,85.1,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Total Population,Under 18,308,68.7,7,28
+Asthma ED Visit Rates,Calaveras,2015,Under 18,Total Population,Under 18,46,63,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Total Population,Under 18,74050,80.6,7,28
+Asthma ED Visit Rates,Colusa,2015,Under 18,Total Population,Under 18,48,77,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Total Population,Under 18,2330,95.2,7,28
+Asthma ED Visit Rates,Del Norte,2015,Under 18,Total Population,Under 18,49,85.2,7,28
+Asthma ED Visit Rates,El Dorado,2015,Under 18,Total Population,Under 18,170,46.8,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Total Population,Under 18,4482,156,7,28
+Asthma ED Visit Rates,Glenn,2015,Under 18,Total Population,Under 18,39,51.8,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Total Population,Under 18,153,59.3,7,28
+Asthma ED Visit Rates,Imperial,2015,Under 18,Total Population,Under 18,737,140.1,7,28
+Asthma ED Visit Rates,Inyo,2015,Under 18,Total Population,Under 18,33,92,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Total Population,Under 18,2566,96.8,7,28
+Asthma ED Visit Rates,Kings,2015,Under 18,Total Population,Under 18,615,143.4,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Total Population,Under 18,115,90.6,7,28
+Asthma ED Visit Rates,Lassen,2015,Under 18,Total Population,Under 18,33,59.7,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Total Population,Under 18,20540,88.7,7,28
+Asthma ED Visit Rates,Madera,2015,Under 18,Total Population,Under 18,586,133,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Total Population,Under 18,167,33.5,7,28
+Asthma ED Visit Rates,Mariposa,2015,Under 18,Total Population,Under 18,10,,7,28
+Asthma ED Visit Rates,Mendocino,2015,Under 18,Total Population,Under 18,130,69,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Total Population,Under 18,1110,139.8,7,28
+Asthma ED Visit Rates,Modoc,2015,Under 18,Total Population,Under 18,19,100.1,7,28
+Asthma ED Visit Rates,Mono,2015,Under 18,Total Population,Under 18,16,52.7,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Total Population,Under 18,970,84.2,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Total Population,Under 18,190,62.5,7,28
+Asthma ED Visit Rates,Nevada,2015,Under 18,Total Population,Under 18,79,47.9,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Total Population,Under 18,4279,59.7,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Total Population,Under 18,337,41.5,7,28
+Asthma ED Visit Rates,Plumas,2015,Under 18,Total Population,Under 18,21,65.2,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Total Population,Under 18,3917,64.9,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Total Population,Under 18,3285,90.8,7,28
+Asthma ED Visit Rates,San Benito,2015,Under 18,Total Population,Under 18,115,76.6,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Total Population,Under 18,5019,87.7,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Total Population,Under 18,4616,62.1,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Total Population,Under 18,850,64.9,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Total Population,Under 18,1868,95.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2015,Under 18,Total Population,Under 18,321,65,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Total Population,Under 18,826,49.5,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Total Population,Under 18,689,70,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Total Population,Under 18,1976,44.1,7,28
+Asthma ED Visit Rates,Santa Cruz,2015,Under 18,Total Population,Under 18,343,60.8,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Total Population,Under 18,300,78.1,7,28
+Asthma ED Visit Rates,Siskiyou,2015,Under 18,Total Population,Under 18,43,50.4,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Total Population,Under 18,1141,119.4,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Total Population,Under 18,586,56.9,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Total Population,Under 18,1236,85.8,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Total Population,Under 18,121,47.5,7,28
+Asthma ED Visit Rates,Tehama,2015,Under 18,Total Population,Under 18,128,85.3,7,28
+Asthma ED Visit Rates,Trinity,2015,Under 18,Total Population,Under 18,7,,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Total Population,Under 18,1264,85.5,7,28
+Asthma ED Visit Rates,Tuolumne,2015,Under 18,Total Population,Under 18,54,60.9,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Total Population,Under 18,1271,62.7,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Total Population,Under 18,291,67.7,7,28
+Asthma ED Visit Rates,Yuba,2015,Under 18,Total Population,Under 18,131,62.5,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Race-Ethnicity,African-American,1121,285.7,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Race-Ethnicity,African-American,28,479.5,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Race-Ethnicity,African-American,13099,271.4,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Race-Ethnicity,African-American,676,315.7,7,28
+Asthma ED Visit Rates,El Dorado,2015,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Race-Ethnicity,African-American,463,340.7,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Race-Ethnicity,African-American,,,7,28
+Asthma ED Visit Rates,Imperial,2015,Under 18,Race-Ethnicity,African-American,17,288.1,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Race-Ethnicity,African-American,429,316.2,7,28
+Asthma ED Visit Rates,Kings,2015,Under 18,Race-Ethnicity,African-American,78,450.4,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Race-Ethnicity,African-American,,,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Race-Ethnicity,African-American,4516,277.5,7,28
+Asthma ED Visit Rates,Madera,2015,Under 18,Race-Ethnicity,African-American,34,539.9,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Race-Ethnicity,African-American,17,171.5,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Race-Ethnicity,African-American,98,551.4,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Race-Ethnicity,African-American,44,335.9,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Race-Ethnicity,African-American,,,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Race-Ethnicity,African-American,212,216.7,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Race-Ethnicity,African-American,21,240.7,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Race-Ethnicity,African-American,760,223.9,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Race-Ethnicity,African-American,1165,308.1,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Race-Ethnicity,African-American,1168,247,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Race-Ethnicity,African-American,587,181.9,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Race-Ethnicity,African-American,186,252,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Race-Ethnicity,African-American,491,335,7,28
+Asthma ED Visit Rates,San Luis Obispo,2015,Under 18,Race-Ethnicity,African-American,,,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Race-Ethnicity,African-American,38,107,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Race-Ethnicity,African-American,28,236.3,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Race-Ethnicity,African-American,103,102.9,7,28
+Asthma ED Visit Rates,Santa Cruz,2015,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Race-Ethnicity,African-American,7,,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Race-Ethnicity,African-American,424,374,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Race-Ethnicity,African-American,32,191.6,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Race-Ethnicity,African-American,147,465.4,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Race-Ethnicity,African-American,10,,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Race-Ethnicity,African-American,28,218.4,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Race-Ethnicity,African-American,74,318.1,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Race-Ethnicity,African-American,20,175,7,28
+Asthma ED Visit Rates,Yuba,2015,Under 18,Race-Ethnicity,African-American,11,,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,49,615.3,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,228,62.7,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,58.4,7,28
+Asthma ED Visit Rates,Inyo,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Mendocino,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,49.6,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,87.4,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,27,164.2,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,8,,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,340,36.3,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,3222,31.3,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,133,39.9,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,146,52.7,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,29,40,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,670,28.3,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,14,30.1,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,18,43.8,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,288,25,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,12,19.9,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,75,25.9,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,240,43.1,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,69,26.5,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,235,33,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,179,45.3,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,109,41,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,96,23.4,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,16,56.3,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,336,23.4,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,61,50.7,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,20,32.1,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,8,,7,28
+Asthma ED Visit Rates,Tehama,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,8,,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,28,24.5,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Race-Ethnicity,Asian/Pacific Islander,23,66.1,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Race-Ethnicity,Hispanic,2263,57.7,7,28
+Asthma ED Visit Rates,Amador,2015,Under 18,Race-Ethnicity,Hispanic,24,53.8,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Race-Ethnicity,Hispanic,121,33.5,7,28
+Asthma ED Visit Rates,Calaveras,2015,Under 18,Race-Ethnicity,Hispanic,21,37.7,7,28
+Asthma ED Visit Rates,Colusa,2015,Under 18,Race-Ethnicity,Hispanic,54,34.9,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Race-Ethnicity,Hispanic,1937,68.2,7,28
+Asthma ED Visit Rates,Del Norte,2015,Under 18,Race-Ethnicity,Hispanic,15,26.1,7,28
+Asthma ED Visit Rates,El Dorado,2015,Under 18,Race-Ethnicity,Hispanic,101,41.7,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Race-Ethnicity,Hispanic,4827,83.9,7,28
+Asthma ED Visit Rates,Glenn,2015,Under 18,Race-Ethnicity,Hispanic,39,33.9,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Race-Ethnicity,Hispanic,40,25.7,7,28
+Asthma ED Visit Rates,Imperial,2015,Under 18,Race-Ethnicity,Hispanic,1139,70.4,7,28
+Asthma ED Visit Rates,Inyo,2015,Under 18,Race-Ethnicity,Hispanic,23,47.7,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Race-Ethnicity,Hispanic,2694,53.4,7,28
+Asthma ED Visit Rates,Kings,2015,Under 18,Race-Ethnicity,Hispanic,592,70.7,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Race-Ethnicity,Hispanic,79,70,7,28
+Asthma ED Visit Rates,Lassen,2015,Under 18,Race-Ethnicity,Hispanic,9,,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Race-Ethnicity,Hispanic,25709,50,7,28
+Asthma ED Visit Rates,Madera,2015,Under 18,Race-Ethnicity,Hispanic,704,68.8,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Race-Ethnicity,Hispanic,118,27.2,7,28
+Asthma ED Visit Rates,Mariposa,2015,Under 18,Race-Ethnicity,Hispanic,6,,7,28
+Asthma ED Visit Rates,Mendocino,2015,Under 18,Race-Ethnicity,Hispanic,82,33.3,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Race-Ethnicity,Hispanic,1355,82.2,7,28
+Asthma ED Visit Rates,Mono,2015,Under 18,Race-Ethnicity,Hispanic,16,32,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Race-Ethnicity,Hispanic,1393,51,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Race-Ethnicity,Hispanic,168,32.4,7,28
+Asthma ED Visit Rates,Nevada,2015,Under 18,Race-Ethnicity,Hispanic,14,15.1,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Race-Ethnicity,Hispanic,4274,36.5,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Race-Ethnicity,Hispanic,137,23.5,7,28
+Asthma ED Visit Rates,Plumas,2015,Under 18,Race-Ethnicity,Hispanic,21,134.6,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Race-Ethnicity,Hispanic,4192,36.6,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Race-Ethnicity,Hispanic,2046,59.2,7,28
+Asthma ED Visit Rates,San Benito,2015,Under 18,Race-Ethnicity,Hispanic,183,49.6,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Race-Ethnicity,Hispanic,5105,45.3,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Race-Ethnicity,Hispanic,4392,37.8,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Race-Ethnicity,Hispanic,593,48.5,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Race-Ethnicity,Hispanic,1699,56.9,7,28
+Asthma ED Visit Rates,San Luis Obispo,2015,Under 18,Race-Ethnicity,Hispanic,236,35.3,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Race-Ethnicity,Hispanic,1154,58.3,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Race-Ethnicity,Hispanic,921,42.6,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Race-Ethnicity,Hispanic,2872,54.5,7,28
+Asthma ED Visit Rates,Santa Cruz,2015,Under 18,Race-Ethnicity,Hispanic,441,45.6,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Race-Ethnicity,Hispanic,64,33.5,7,28
+Asthma ED Visit Rates,Siskiyou,2015,Under 18,Race-Ethnicity,Hispanic,12,22.7,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Race-Ethnicity,Hispanic,656,59.3,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Race-Ethnicity,Hispanic,508,37,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Race-Ethnicity,Hispanic,1296,53.1,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Race-Ethnicity,Hispanic,91,27.9,7,28
+Asthma ED Visit Rates,Tehama,2015,Under 18,Race-Ethnicity,Hispanic,77,50.4,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Race-Ethnicity,Hispanic,1273,38.1,7,28
+Asthma ED Visit Rates,Tuolumne,2015,Under 18,Race-Ethnicity,Hispanic,15,22.5,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Race-Ethnicity,Hispanic,1443,37.4,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Race-Ethnicity,Hispanic,313,48.7,7,28
+Asthma ED Visit Rates,Yuba,2015,Under 18,Race-Ethnicity,Hispanic,62,29.2,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Race-Ethnicity,White,290,36.8,7,28
+Asthma ED Visit Rates,Amador,2015,Under 18,Race-Ethnicity,White,33,89.7,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Race-Ethnicity,White,199,74.4,7,28
+Asthma ED Visit Rates,Calaveras,2015,Under 18,Race-Ethnicity,White,34,61.5,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Race-Ethnicity,White,13560,55.3,7,28
+Asthma ED Visit Rates,Colusa,2015,Under 18,Race-Ethnicity,White,14,96.1,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Race-Ethnicity,White,409,48.9,7,28
+Asthma ED Visit Rates,Del Norte,2015,Under 18,Race-Ethnicity,White,32,106.3,7,28
+Asthma ED Visit Rates,El Dorado,2015,Under 18,Race-Ethnicity,White,77,31.8,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Race-Ethnicity,White,731,129,7,28
+Asthma ED Visit Rates,Glenn,2015,Under 18,Race-Ethnicity,White,16,53.8,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Race-Ethnicity,White,99,63.1,7,28
+Asthma ED Visit Rates,Imperial,2015,Under 18,Race-Ethnicity,White,58,123.3,7,28
+Asthma ED Visit Rates,Inyo,2015,Under 18,Race-Ethnicity,White,9,,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Race-Ethnicity,White,534,74.3,7,28
+Asthma ED Visit Rates,Kings,2015,Under 18,Race-Ethnicity,White,164,147.5,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Race-Ethnicity,White,73,101.7,7,28
+Asthma ED Visit Rates,Lassen,2015,Under 18,Race-Ethnicity,White,24,59.3,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Race-Ethnicity,White,1877,48.8,7,28
+Asthma ED Visit Rates,Madera,2015,Under 18,Race-Ethnicity,White,88,95.5,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Race-Ethnicity,White,72,24.9,7,28
+Asthma ED Visit Rates,Mariposa,2015,Under 18,Race-Ethnicity,White,7,,7,28
+Asthma ED Visit Rates,Mendocino,2015,Under 18,Race-Ethnicity,White,68,77,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Race-Ethnicity,White,223,125.3,7,28
+Asthma ED Visit Rates,Modoc,2015,Under 18,Race-Ethnicity,White,13,99.5,7,28
+Asthma ED Visit Rates,Mono,2015,Under 18,Race-Ethnicity,White,6,,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Race-Ethnicity,White,91,55,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Race-Ethnicity,White,65,59.6,7,28
+Asthma ED Visit Rates,Nevada,2015,Under 18,Race-Ethnicity,White,72,59.3,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Race-Ethnicity,White,1068,51,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Race-Ethnicity,White,223,44,7,28
+Asthma ED Visit Rates,Plumas,2015,Under 18,Race-Ethnicity,White,20,86.5,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Race-Ethnicity,White,924,58.1,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Race-Ethnicity,White,754,59.1,7,28
+Asthma ED Visit Rates,San Benito,2015,Under 18,Race-Ethnicity,White,29,105.3,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Race-Ethnicity,White,953,73,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Race-Ethnicity,White,913,36.2,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Race-Ethnicity,White,156,35.1,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Race-Ethnicity,White,330,73.5,7,28
+Asthma ED Visit Rates,San Luis Obispo,2015,Under 18,Race-Ethnicity,White,141,53.4,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Race-Ethnicity,White,198,37.3,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Race-Ethnicity,White,141,54,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Race-Ethnicity,White,335,33.4,7,28
+Asthma ED Visit Rates,Santa Cruz,2015,Under 18,Race-Ethnicity,White,63,29.7,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Race-Ethnicity,White,221,81.3,7,28
+Asthma ED Visit Rates,Siskiyou,2015,Under 18,Race-Ethnicity,White,30,54.6,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Race-Ethnicity,White,248,89,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Race-Ethnicity,White,231,48.2,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Race-Ethnicity,White,392,81.6,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Race-Ethnicity,White,54,56,7,28
+Asthma ED Visit Rates,Tehama,2015,Under 18,Race-Ethnicity,White,79,93.4,7,28
+Asthma ED Visit Rates,Trinity,2015,Under 18,Race-Ethnicity,White,7,,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Race-Ethnicity,White,124,40.8,7,28
+Asthma ED Visit Rates,Tuolumne,2015,Under 18,Race-Ethnicity,White,42,64.6,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Race-Ethnicity,White,336,52.8,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Race-Ethnicity,White,96,60.9,7,28
+Asthma ED Visit Rates,Yuba,2015,Under 18,Race-Ethnicity,White,73,73.7,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Sex,Female,1326,78,7,28
+Asthma ED Visit Rates,Amador,2015,Under 18,Sex,Female,16,60.4,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Sex,Female,124,56.3,7,28
+Asthma ED Visit Rates,Calaveras,2015,Under 18,Sex,Female,19,55.5,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Sex,Female,26802,60.2,7,28
+Asthma ED Visit Rates,Colusa,2015,Under 18,Sex,Female,14,47,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Sex,Female,906,75.6,7,28
+Asthma ED Visit Rates,Del Norte,2015,Under 18,Sex,Female,24,86,7,28
+Asthma ED Visit Rates,El Dorado,2015,Under 18,Sex,Female,78,43.3,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Sex,Female,1720,123.5,7,28
+Asthma ED Visit Rates,Glenn,2015,Under 18,Sex,Female,14,38.5,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Sex,Female,65,52.4,7,28
+Asthma ED Visit Rates,Imperial,2015,Under 18,Sex,Female,289,112.9,7,28
+Asthma ED Visit Rates,Inyo,2015,Under 18,Sex,Female,12,68.4,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Sex,Female,887,69,7,28
+Asthma ED Visit Rates,Kings,2015,Under 18,Sex,Female,196,96.2,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Sex,Female,46,74.9,7,28
+Asthma ED Visit Rates,Lassen,2015,Under 18,Sex,Female,11,,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Sex,Female,7124,63.3,7,28
+Asthma ED Visit Rates,Madera,2015,Under 18,Sex,Female,233,109.4,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Sex,Female,54,22.4,7,28
+Asthma ED Visit Rates,Mariposa,2015,Under 18,Sex,Female,38,41.6,7,28
+Asthma ED Visit Rates,Mendocino,2015,Under 18,Sex,Female,413,107.8,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Sex,Female,7,,7,28
+Asthma ED Visit Rates,Mono,2015,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Sex,Female,332,60,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Sex,Female,78,52.6,7,28
+Asthma ED Visit Rates,Nevada,2015,Under 18,Sex,Female,23,27.4,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Sex,Female,1489,43,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Sex,Female,139,34.6,7,28
+Asthma ED Visit Rates,Plumas,2015,Under 18,Sex,Female,7,,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Sex,Female,1444,48.8,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Sex,Female,1224,70,7,28
+Asthma ED Visit Rates,San Benito,2015,Under 18,Sex,Female,36,49.2,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Sex,Female,1764,63.4,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Sex,Female,1718,48,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Sex,Female,334,52.3,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Sex,Female,681,71.5,7,28
+Asthma ED Visit Rates,San Luis Obispo,2015,Under 18,Sex,Female,119,49.4,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Sex,Female,319,39.9,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Sex,Female,273,57,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Sex,Female,695,32.3,7,28
+Asthma ED Visit Rates,Santa Cruz,2015,Under 18,Sex,Female,133,48.9,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Sex,Female,125,67.5,7,28
+Asthma ED Visit Rates,Siskiyou,2015,Under 18,Sex,Female,14,34.3,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Sex,Female,461,99.7,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Sex,Female,219,43.9,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Sex,Female,416,59.4,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Sex,Female,43,34.6,7,28
+Asthma ED Visit Rates,Tehama,2015,Under 18,Sex,Female,51,69.8,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Sex,Female,396,55.4,7,28
+Asthma ED Visit Rates,Tuolumne,2015,Under 18,Sex,Female,22,49.8,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Sex,Female,466,47.2,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Sex,Female,104,48.6,7,28
+Asthma ED Visit Rates,Yuba,2015,Under 18,Sex,Female,43,43.9,7,28
+Asthma ED Visit Rates,Alameda,2015,Under 18,Sex,Male,2100,113.9,7,28
+Asthma ED Visit Rates,Amador,2015,Under 18,Sex,Male,29,111.9,7,28
+Asthma ED Visit Rates,Butte,2015,Under 18,Sex,Male,184,80.6,7,28
+Asthma ED Visit Rates,Calaveras,2015,Under 18,Sex,Male,27,70.4,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Sex,Male,47247,99.7,7,28
+Asthma ED Visit Rates,Colusa,2015,Under 18,Sex,Male,34,104.4,7,28
+Asthma ED Visit Rates,Contra Costa,2015,Under 18,Sex,Male,1424,113.5,7,28
+Asthma ED Visit Rates,Del Norte,2015,Under 18,Sex,Male,25,85.5,7,28
+Asthma ED Visit Rates,El Dorado,2015,Under 18,Sex,Male,92,50.1,7,28
+Asthma ED Visit Rates,Fresno,2015,Under 18,Sex,Male,2762,186.1,7,28
+Asthma ED Visit Rates,Glenn,2015,Under 18,Sex,Male,25,62.9,7,28
+Asthma ED Visit Rates,Humboldt,2015,Under 18,Sex,Male,88,65.9,7,28
+Asthma ED Visit Rates,Imperial,2015,Under 18,Sex,Male,448,166,7,28
+Asthma ED Visit Rates,Inyo,2015,Under 18,Sex,Male,21,111.3,7,28
+Asthma ED Visit Rates,Kern,2015,Under 18,Sex,Male,1679,123.2,7,28
+Asthma ED Visit Rates,Kings,2015,Under 18,Sex,Male,419,187.8,7,28
+Asthma ED Visit Rates,Lake,2015,Under 18,Sex,Male,69,105.1,7,28
+Asthma ED Visit Rates,Lassen,2015,Under 18,Sex,Male,22,76.6,7,28
+Asthma ED Visit Rates,Los Angeles,2015,Under 18,Sex,Male,13416,112.5,7,28
+Asthma ED Visit Rates,Madera,2015,Under 18,Sex,Male,353,155.7,7,28
+Asthma ED Visit Rates,Marin,2015,Under 18,Sex,Male,113,44,7,28
+Asthma ED Visit Rates,Mariposa,2015,Under 18,Sex,Male,92,93.9,7,28
+Asthma ED Visit Rates,Mendocino,2015,Under 18,Sex,Male,697,169.8,7,28
+Asthma ED Visit Rates,Merced,2015,Under 18,Sex,Male,12,126.2,7,28
+Asthma ED Visit Rates,Modoc,2015,Under 18,Sex,Male,7,,7,28
+Asthma ED Visit Rates,Monterey,2015,Under 18,Sex,Male,638,106.5,7,28
+Asthma ED Visit Rates,Napa,2015,Under 18,Sex,Male,112,71.7,7,28
+Asthma ED Visit Rates,Nevada,2015,Under 18,Sex,Male,56,66.8,7,28
+Asthma ED Visit Rates,Orange,2015,Under 18,Sex,Male,2790,75.3,7,28
+Asthma ED Visit Rates,Placer,2015,Under 18,Sex,Male,198,47.9,7,28
+Asthma ED Visit Rates,Plumas,2015,Under 18,Sex,Male,14,85.2,7,28
+Asthma ED Visit Rates,Riverside,2015,Under 18,Sex,Male,2473,80,7,28
+Asthma ED Visit Rates,Sacramento,2015,Under 18,Sex,Male,2061,110.1,7,28
+Asthma ED Visit Rates,San Benito,2015,Under 18,Sex,Male,79,102.5,7,28
+Asthma ED Visit Rates,San Bernardino,2015,Under 18,Sex,Male,3255,110.5,7,28
+Asthma ED Visit Rates,San Diego,2015,Under 18,Sex,Male,2898,75.3,7,28
+Asthma ED Visit Rates,San Francisco,2015,Under 18,Sex,Male,516,76.8,7,28
+Asthma ED Visit Rates,San Joaquin,2015,Under 18,Sex,Male,1187,117.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2015,Under 18,Sex,Male,202,79.7,7,28
+Asthma ED Visit Rates,San Mateo,2015,Under 18,Sex,Male,507,58.3,7,28
+Asthma ED Visit Rates,Santa Barbara,2015,Under 18,Sex,Male,416,82.1,7,28
+Asthma ED Visit Rates,Santa Clara,2015,Under 18,Sex,Male,1281,55.2,7,28
+Asthma ED Visit Rates,Santa Cruz,2015,Under 18,Sex,Male,209,71.6,7,28
+Asthma ED Visit Rates,Shasta,2015,Under 18,Sex,Male,175,88.2,7,28
+Asthma ED Visit Rates,Siskiyou,2015,Under 18,Sex,Male,29,65.1,7,28
+Asthma ED Visit Rates,Solano,2015,Under 18,Sex,Male,680,137.4,7,28
+Asthma ED Visit Rates,Sonoma,2015,Under 18,Sex,Male,367,69,7,28
+Asthma ED Visit Rates,Stanislaus,2015,Under 18,Sex,Male,820,110.9,7,28
+Asthma ED Visit Rates,Sutter,2015,Under 18,Sex,Male,78,59.8,7,28
+Asthma ED Visit Rates,Tehama,2015,Under 18,Sex,Male,77,99.7,7,28
+Asthma ED Visit Rates,Tulare,2015,Under 18,Sex,Male,868,113.7,7,28
+Asthma ED Visit Rates,Tuolumne,2015,Under 18,Sex,Male,32,72.9,7,28
+Asthma ED Visit Rates,Ventura,2015,Under 18,Sex,Male,805,77.2,7,28
+Asthma ED Visit Rates,Yolo,2015,Under 18,Sex,Male,187,85.8,7,28
+Asthma ED Visit Rates,Yuba,2015,Under 18,Sex,Male,88,78.8,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Total Population,Under 18,3590,101.8,7,28
+Asthma ED Visit Rates,Amador,2014,Under 18,Total Population,Under 18,46,81.1,7,28
+Asthma ED Visit Rates,Butte,2014,Under 18,Total Population,Under 18,298,66.3,7,28
+Asthma ED Visit Rates,Calaveras,2014,Under 18,Total Population,Under 18,66,87.3,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Total Population,Under 18,73881,80.7,7,28
+Asthma ED Visit Rates,Colusa,2014,Under 18,Total Population,Under 18,39,63.7,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Total Population,Under 18,2371,96.1,7,28
+Asthma ED Visit Rates,Del Norte,2014,Under 18,Total Population,Under 18,46,81.4,7,28
+Asthma ED Visit Rates,El Dorado,2014,Under 18,Total Population,Under 18,201,54,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Total Population,Under 18,4368,154.5,7,28
+Asthma ED Visit Rates,Glenn,2014,Under 18,Total Population,Under 18,41,53.5,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Total Population,Under 18,161,62.1,7,28
+Asthma ED Visit Rates,Imperial,2014,Under 18,Total Population,Under 18,771,149.6,7,28
+Asthma ED Visit Rates,Inyo,2014,Under 18,Total Population,Under 18,34,94.3,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Total Population,Under 18,2549,98.7,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Total Population,Under 18,587,138.8,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Total Population,Under 18,114,89.3,7,28
+Asthma ED Visit Rates,Lassen,2014,Under 18,Total Population,Under 18,37,65.4,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Total Population,Under 18,20767,89.7,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Total Population,Under 18,602,138.8,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Total Population,Under 18,219,43.4,7,28
+Asthma ED Visit Rates,Mariposa,2014,Under 18,Total Population,Under 18,9,,7,28
+Asthma ED Visit Rates,Mendocino,2014,Under 18,Total Population,Under 18,141,74.9,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Total Population,Under 18,1048,132.6,7,28
+Asthma ED Visit Rates,Modoc,2014,Under 18,Total Population,Under 18,15,74.9,7,28
+Asthma ED Visit Rates,Mono,2014,Under 18,Total Population,Under 18,11,,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Total Population,Under 18,931,81,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Total Population,Under 18,196,64.5,7,28
+Asthma ED Visit Rates,Nevada,2014,Under 18,Total Population,Under 18,66,39.1,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Total Population,Under 18,4044,56.7,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Total Population,Under 18,330,40.3,7,28
+Asthma ED Visit Rates,Plumas,2014,Under 18,Total Population,Under 18,23,70.6,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Total Population,Under 18,3947,65.6,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Total Population,Under 18,3239,89.7,7,28
+Asthma ED Visit Rates,San Benito,2014,Under 18,Total Population,Under 18,117,77,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Total Population,Under 18,5171,90.4,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Total Population,Under 18,4571,61.8,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Total Population,Under 18,860,68.3,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Total Population,Under 18,1781,90.9,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Total Population,Under 18,271,54.7,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Total Population,Under 18,867,51.9,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Total Population,Under 18,673,68.8,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Total Population,Under 18,1853,41.5,7,28
+Asthma ED Visit Rates,Santa Cruz,2014,Under 18,Total Population,Under 18,375,67,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Total Population,Under 18,312,81.3,7,28
+Asthma ED Visit Rates,Siskiyou,2014,Under 18,Total Population,Under 18,46,53,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Total Population,Under 18,1095,113.9,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Total Population,Under 18,572,55.2,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Total Population,Under 18,1359,94.4,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Total Population,Under 18,125,49.3,7,28
+Asthma ED Visit Rates,Tehama,2014,Under 18,Total Population,Under 18,113,75.7,7,28
+Asthma ED Visit Rates,Trinity,2014,Under 18,Total Population,Under 18,15,70.3,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Total Population,Under 18,1126,77.2,7,28
+Asthma ED Visit Rates,Tuolumne,2014,Under 18,Total Population,Under 18,68,76.2,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Total Population,Under 18,1250,61.6,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Total Population,Under 18,268,61.5,7,28
+Asthma ED Visit Rates,Yuba,2014,Under 18,Total Population,Under 18,85,40.6,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Race-Ethnicity,African-American,1263,320.2,7,28
+Asthma ED Visit Rates,Butte,2014,Under 18,Race-Ethnicity,African-American,28,450.3,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Race-Ethnicity,African-American,13547,278.8,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Race-Ethnicity,African-American,732,336,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Race-Ethnicity,African-American,7,,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Race-Ethnicity,African-American,510,377,7,28
+Asthma ED Visit Rates,Imperial,2014,Under 18,Race-Ethnicity,African-American,11,,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Race-Ethnicity,African-American,466,351.5,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Race-Ethnicity,African-American,66,384.3,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Race-Ethnicity,African-American,9,,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Race-Ethnicity,African-American,4571,277.1,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Race-Ethnicity,African-American,26,365.8,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Race-Ethnicity,African-American,27,258.1,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Race-Ethnicity,African-American,91,497.2,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Race-Ethnicity,African-American,29,217.9,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Race-Ethnicity,African-American,,,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Race-Ethnicity,African-American,188,191.6,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Race-Ethnicity,African-American,19,216.9,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Race-Ethnicity,African-American,767,225.1,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Race-Ethnicity,African-American,1127,297.5,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Race-Ethnicity,African-American,1369,289.9,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Race-Ethnicity,African-American,601,182.4,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Race-Ethnicity,African-American,196,268.1,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Race-Ethnicity,African-American,447,310.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Race-Ethnicity,African-American,9,,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Race-Ethnicity,African-American,35,100,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Race-Ethnicity,African-American,32,268.2,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Race-Ethnicity,African-American,116,121,7,28
+Asthma ED Visit Rates,Santa Cruz,2014,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Race-Ethnicity,African-American,,,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Race-Ethnicity,African-American,435,372,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Race-Ethnicity,African-American,37,227.7,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Race-Ethnicity,African-American,145,454.2,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Race-Ethnicity,African-American,7,,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Race-Ethnicity,African-American,29,210.1,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Race-Ethnicity,African-American,56,237.5,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Race-Ethnicity,African-American,29,250.1,7,28
+Asthma ED Visit Rates,Yuba,2014,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,49,613.7,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,223,61.6,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,8,,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Inyo,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,17,49.8,7,28
+Asthma ED Visit Rates,Mendocino,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,19,208,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,46.9,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,14,88,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Race-Ethnicity,American Indian/Alaskan Native,,,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,317,34.5,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,3133,31,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,140,42.7,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,130,47.9,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,25,34,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,10,,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,8,,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,650,28.3,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,18,43.3,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,15,36.9,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,9,,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,291,25.7,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,21,36.5,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,58,20.7,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,219,39.8,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,63,23.7,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,250,35.7,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,156,41.5,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,97,37.4,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,117,29.2,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,335,23.4,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,8,,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,66,55.6,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,12,34.6,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,14,23.6,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,32,28.5,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Race-Ethnicity,Asian/Pacific Islander,9,,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Race-Ethnicity,Hispanic,1177,103.3,7,28
+Asthma ED Visit Rates,Butte,2014,Under 18,Race-Ethnicity,Hispanic,59,58.8,7,28
+Asthma ED Visit Rates,Calaveras,2014,Under 18,Race-Ethnicity,Hispanic,7,,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Race-Ethnicity,Hispanic,38913,81.9,7,28
+Asthma ED Visit Rates,Colusa,2014,Under 18,Race-Ethnicity,Hispanic,26,58.5,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Race-Ethnicity,Hispanic,926,105.5,7,28
+Asthma ED Visit Rates,Del Norte,2014,Under 18,Race-Ethnicity,Hispanic,8,,7,28
+Asthma ED Visit Rates,El Dorado,2014,Under 18,Race-Ethnicity,Hispanic,36,45.2,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Race-Ethnicity,Hispanic,2909,164,7,28
+Asthma ED Visit Rates,Glenn,2014,Under 18,Race-Ethnicity,Hispanic,19,46.2,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Race-Ethnicity,Hispanic,20,43.9,7,28
+Asthma ED Visit Rates,Imperial,2014,Under 18,Race-Ethnicity,Hispanic,687,151.2,7,28
+Asthma ED Visit Rates,Inyo,2014,Under 18,Race-Ethnicity,Hispanic,14,104.1,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Race-Ethnicity,Hispanic,1389,86.9,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Race-Ethnicity,Hispanic,320,121.6,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Race-Ethnicity,Hispanic,18,44.4,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Race-Ethnicity,Hispanic,12741,87.5,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Race-Ethnicity,Hispanic,467,145.9,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Race-Ethnicity,Hispanic,77,59.6,7,28
+Asthma ED Visit Rates,Mendocino,2014,Under 18,Race-Ethnicity,Hispanic,49,64.3,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Race-Ethnicity,Hispanic,710,134.1,7,28
+Asthma ED Visit Rates,Mono,2014,Under 18,Race-Ethnicity,Hispanic,6,,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Race-Ethnicity,Hispanic,763,86.9,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Race-Ethnicity,Hispanic,101,64.3,7,28
+Asthma ED Visit Rates,Nevada,2014,Under 18,Race-Ethnicity,Hispanic,9,,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Race-Ethnicity,Hispanic,2264,65.6,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Race-Ethnicity,Hispanic,55,31.1,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Race-Ethnicity,Hispanic,2010,56.3,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Race-Ethnicity,Hispanic,865,78.6,7,28
+Asthma ED Visit Rates,San Benito,2014,Under 18,Race-Ethnicity,Hispanic,88,76.6,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Race-Ethnicity,Hispanic,2435,69.9,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Race-Ethnicity,Hispanic,2364,70,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Race-Ethnicity,Hispanic,251,92,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Race-Ethnicity,Hispanic,802,80.3,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Race-Ethnicity,Hispanic,99,53,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Race-Ethnicity,Hispanic,401,70.6,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Race-Ethnicity,Hispanic,474,74.3,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Race-Ethnicity,Hispanic,982,59.4,7,28
+Asthma ED Visit Rates,Santa Cruz,2014,Under 18,Race-Ethnicity,Hispanic,283,94.3,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Race-Ethnicity,Hispanic,26,47.4,7,28
+Asthma ED Visit Rates,Siskiyou,2014,Under 18,Race-Ethnicity,Hispanic,9,,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Race-Ethnicity,Hispanic,283,83.1,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Race-Ethnicity,Hispanic,260,58.9,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Race-Ethnicity,Hispanic,689,85,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Race-Ethnicity,Hispanic,65,64,7,28
+Asthma ED Visit Rates,Tehama,2014,Under 18,Race-Ethnicity,Hispanic,35,65.6,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Race-Ethnicity,Hispanic,672,62.5,7,28
+Asthma ED Visit Rates,Tuolumne,2014,Under 18,Race-Ethnicity,Hispanic,11,,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Race-Ethnicity,Hispanic,771,66.9,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Race-Ethnicity,Hispanic,141,72.4,7,28
+Asthma ED Visit Rates,Yuba,2014,Under 18,Race-Ethnicity,Hispanic,25,34.4,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Race-Ethnicity,White,306,38.3,7,28
+Asthma ED Visit Rates,Amador,2014,Under 18,Race-Ethnicity,White,39,98.3,7,28
+Asthma ED Visit Rates,Butte,2014,Under 18,Race-Ethnicity,White,193,72.1,7,28
+Asthma ED Visit Rates,Calaveras,2014,Under 18,Race-Ethnicity,White,56,99.4,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Race-Ethnicity,White,13872,56.5,7,28
+Asthma ED Visit Rates,Colusa,2014,Under 18,Race-Ethnicity,White,11,,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Race-Ethnicity,White,359,41.9,7,28
+Asthma ED Visit Rates,Del Norte,2014,Under 18,Race-Ethnicity,White,34,112.9,7,28
+Asthma ED Visit Rates,El Dorado,2014,Under 18,Race-Ethnicity,White,114,45.9,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Race-Ethnicity,White,758,137.3,7,28
+Asthma ED Visit Rates,Glenn,2014,Under 18,Race-Ethnicity,White,20,66.9,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Race-Ethnicity,White,108,67.8,7,28
+Asthma ED Visit Rates,Imperial,2014,Under 18,Race-Ethnicity,White,58,136.4,7,28
+Asthma ED Visit Rates,Inyo,2014,Under 18,Race-Ethnicity,White,13,82.8,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Race-Ethnicity,White,597,86.2,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Race-Ethnicity,White,168,156.7,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Race-Ethnicity,White,74,101.5,7,28
+Asthma ED Visit Rates,Lassen,2014,Under 18,Race-Ethnicity,White,31,75,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Race-Ethnicity,White,1901,49,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Race-Ethnicity,White,101,113.8,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Race-Ethnicity,White,92,30.2,7,28
+Asthma ED Visit Rates,Mariposa,2014,Under 18,Race-Ethnicity,White,6,,7,28
+Asthma ED Visit Rates,Mendocino,2014,Under 18,Race-Ethnicity,White,57,63.2,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Race-Ethnicity,White,217,121.9,7,28
+Asthma ED Visit Rates,Modoc,2014,Under 18,Race-Ethnicity,White,10,,7,28
+Asthma ED Visit Rates,Mono,2014,Under 18,Race-Ethnicity,White,5,,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Race-Ethnicity,White,84,47.6,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Race-Ethnicity,White,65,59,7,28
+Asthma ED Visit Rates,Nevada,2014,Under 18,Race-Ethnicity,White,49,39.8,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Race-Ethnicity,White,1086,51.6,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Race-Ethnicity,White,230,44.7,7,28
+Asthma ED Visit Rates,Plumas,2014,Under 18,Race-Ethnicity,White,17,72.4,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Race-Ethnicity,White,939,59.6,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Race-Ethnicity,White,807,63.6,7,28
+Asthma ED Visit Rates,San Benito,2014,Under 18,Race-Ethnicity,White,25,87.4,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Race-Ethnicity,White,1000,77.3,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Race-Ethnicity,White,922,36.9,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Race-Ethnicity,White,150,35,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Race-Ethnicity,White,318,71.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Race-Ethnicity,White,141,52.5,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Race-Ethnicity,White,188,35.6,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Race-Ethnicity,White,144,54.2,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Race-Ethnicity,White,298,29.5,7,28
+Asthma ED Visit Rates,Santa Cruz,2014,Under 18,Race-Ethnicity,White,81,38.1,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Race-Ethnicity,White,237,87.7,7,28
+Asthma ED Visit Rates,Siskiyou,2014,Under 18,Race-Ethnicity,White,30,52.8,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Race-Ethnicity,White,242,87.1,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Race-Ethnicity,White,242,50,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Race-Ethnicity,White,454,94.3,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Race-Ethnicity,White,38,39.4,7,28
+Asthma ED Visit Rates,Tehama,2014,Under 18,Race-Ethnicity,White,73,85.4,7,28
+Asthma ED Visit Rates,Trinity,2014,Under 18,Race-Ethnicity,White,14,89.4,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Race-Ethnicity,White,136,45.6,7,28
+Asthma ED Visit Rates,Tuolumne,2014,Under 18,Race-Ethnicity,White,53,80.8,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Race-Ethnicity,White,350,53.7,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Race-Ethnicity,White,76,47.3,7,28
+Asthma ED Visit Rates,Yuba,2014,Under 18,Race-Ethnicity,White,54,54.4,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Sex,Female,1318,77.6,7,28
+Asthma ED Visit Rates,Amador,2014,Under 18,Sex,Female,20,70.2,7,28
+Asthma ED Visit Rates,Butte,2014,Under 18,Sex,Female,121,54.9,7,28
+Asthma ED Visit Rates,Calaveras,2014,Under 18,Sex,Female,26,69.4,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Sex,Female,27005,60.7,7,28
+Asthma ED Visit Rates,Colusa,2014,Under 18,Sex,Female,12,40.2,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Sex,Female,939,77.4,7,28
+Asthma ED Visit Rates,Del Norte,2014,Under 18,Sex,Female,21,78.6,7,28
+Asthma ED Visit Rates,El Dorado,2014,Under 18,Sex,Female,90,48,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Sex,Female,1664,121,7,28
+Asthma ED Visit Rates,Glenn,2014,Under 18,Sex,Female,16,44,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Sex,Female,67,52.9,7,28
+Asthma ED Visit Rates,Imperial,2014,Under 18,Sex,Female,260,103.7,7,28
+Asthma ED Visit Rates,Inyo,2014,Under 18,Sex,Female,10,,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Sex,Female,959,76.6,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Sex,Female,184,90.3,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Sex,Female,39,63.8,7,28
+Asthma ED Visit Rates,Lassen,2014,Under 18,Sex,Female,14,49.3,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Sex,Female,7415,65.8,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Sex,Female,231,110.4,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Sex,Female,85,33.9,7,28
+Asthma ED Visit Rates,Mariposa,2014,Under 18,Sex,Female,54,59.4,7,28
+Asthma ED Visit Rates,Mendocino,2014,Under 18,Sex,Female,344,90.2,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Sex,Female,8,,7,28
+Asthma ED Visit Rates,Mono,2014,Under 18,Sex,Female,6,,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Sex,Female,361,65.2,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Sex,Female,76,51,7,28
+Asthma ED Visit Rates,Nevada,2014,Under 18,Sex,Female,29,35.4,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Sex,Female,1454,42,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Sex,Female,137,33.5,7,28
+Asthma ED Visit Rates,Plumas,2014,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Sex,Female,1432,48.5,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Sex,Female,1182,67.6,7,28
+Asthma ED Visit Rates,San Benito,2014,Under 18,Sex,Female,47,63.4,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Sex,Female,1851,66.5,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Sex,Female,1653,46.3,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Sex,Female,343,56.8,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Sex,Female,638,67,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Sex,Female,105,43.3,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Sex,Female,344,42.9,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Sex,Female,275,57.8,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Sex,Female,651,30.3,7,28
+Asthma ED Visit Rates,Santa Cruz,2014,Under 18,Sex,Female,140,51.8,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Sex,Female,126,68.1,7,28
+Asthma ED Visit Rates,Siskiyou,2014,Under 18,Sex,Female,20,47.6,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Sex,Female,401,86,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Sex,Female,205,40.6,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Sex,Female,485,69.3,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Sex,Female,39,31.6,7,28
+Asthma ED Visit Rates,Tehama,2014,Under 18,Sex,Female,42,57.4,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Sex,Female,367,51.9,7,28
+Asthma ED Visit Rates,Tuolumne,2014,Under 18,Sex,Female,37,84.8,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Sex,Female,499,50.3,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Sex,Female,113,52.2,7,28
+Asthma ED Visit Rates,Yuba,2014,Under 18,Sex,Female,29,29.3,7,28
+Asthma ED Visit Rates,Alameda,2014,Under 18,Sex,Male,2272,124.2,7,28
+Asthma ED Visit Rates,Amador,2014,Under 18,Sex,Male,26,89.2,7,28
+Asthma ED Visit Rates,Butte,2014,Under 18,Sex,Male,177,77.4,7,28
+Asthma ED Visit Rates,Calaveras,2014,Under 18,Sex,Male,40,103.2,7,28
+Asthma ED Visit Rates,California,2014,Under 18,Sex,Male,46876,99.5,7,28
+Asthma ED Visit Rates,Colusa,2014,Under 18,Sex,Male,27,84.5,7,28
+Asthma ED Visit Rates,Contra Costa,2014,Under 18,Sex,Male,1432,113.7,7,28
+Asthma ED Visit Rates,Del Norte,2014,Under 18,Sex,Male,25,86.5,7,28
+Asthma ED Visit Rates,El Dorado,2014,Under 18,Sex,Male,111,59.7,7,28
+Asthma ED Visit Rates,Fresno,2014,Under 18,Sex,Male,2704,186.1,7,28
+Asthma ED Visit Rates,Glenn,2014,Under 18,Sex,Male,25,63.1,7,28
+Asthma ED Visit Rates,Humboldt,2014,Under 18,Sex,Male,94,70.2,7,28
+Asthma ED Visit Rates,Imperial,2014,Under 18,Sex,Male,511,193.4,7,28
+Asthma ED Visit Rates,Inyo,2014,Under 18,Sex,Male,24,127.8,7,28
+Asthma ED Visit Rates,Kern,2014,Under 18,Sex,Male,1590,119.6,7,28
+Asthma ED Visit Rates,Kings,2014,Under 18,Sex,Male,403,184.5,7,28
+Asthma ED Visit Rates,Lake,2014,Under 18,Sex,Male,75,112.9,7,28
+Asthma ED Visit Rates,Lassen,2014,Under 18,Sex,Male,23,79.5,7,28
+Asthma ED Visit Rates,Los Angeles,2014,Under 18,Sex,Male,13352,112.3,7,28
+Asthma ED Visit Rates,Madera,2014,Under 18,Sex,Male,371,165.8,7,28
+Asthma ED Visit Rates,Marin,2014,Under 18,Sex,Male,134,52.1,7,28
+Asthma ED Visit Rates,Mariposa,2014,Under 18,Sex,Male,87,89.7,7,28
+Asthma ED Visit Rates,Mendocino,2014,Under 18,Sex,Male,704,172.5,7,28
+Asthma ED Visit Rates,Merced,2014,Under 18,Sex,Male,7,,7,28
+Asthma ED Visit Rates,Modoc,2014,Under 18,Sex,Male,5,,7,28
+Asthma ED Visit Rates,Monterey,2014,Under 18,Sex,Male,570,95.7,7,28
+Asthma ED Visit Rates,Napa,2014,Under 18,Sex,Male,120,77.2,7,28
+Asthma ED Visit Rates,Nevada,2014,Under 18,Sex,Male,37,42.6,7,28
+Asthma ED Visit Rates,Orange,2014,Under 18,Sex,Male,2590,70.5,7,28
+Asthma ED Visit Rates,Placer,2014,Under 18,Sex,Male,193,46.6,7,28
+Asthma ED Visit Rates,Plumas,2014,Under 18,Sex,Male,14,83.9,7,28
+Asthma ED Visit Rates,Riverside,2014,Under 18,Sex,Male,2515,81.7,7,28
+Asthma ED Visit Rates,Sacramento,2014,Under 18,Sex,Male,2057,110.3,7,28
+Asthma ED Visit Rates,San Benito,2014,Under 18,Sex,Male,70,90.8,7,28
+Asthma ED Visit Rates,San Bernardino,2014,Under 18,Sex,Male,3320,112.9,7,28
+Asthma ED Visit Rates,San Diego,2014,Under 18,Sex,Male,2918,76.2,7,28
+Asthma ED Visit Rates,San Francisco,2014,Under 18,Sex,Male,517,79,7,28
+Asthma ED Visit Rates,San Joaquin,2014,Under 18,Sex,Male,1143,113.5,7,28
+Asthma ED Visit Rates,San Luis Obispo,2014,Under 18,Sex,Male,166,65.6,7,28
+Asthma ED Visit Rates,San Mateo,2014,Under 18,Sex,Male,523,60.3,7,28
+Asthma ED Visit Rates,Santa Barbara,2014,Under 18,Sex,Male,398,79.2,7,28
+Asthma ED Visit Rates,Santa Clara,2014,Under 18,Sex,Male,1202,52.1,7,28
+Asthma ED Visit Rates,Santa Cruz,2014,Under 18,Sex,Male,235,81.2,7,28
+Asthma ED Visit Rates,Shasta,2014,Under 18,Sex,Male,186,93.5,7,28
+Asthma ED Visit Rates,Siskiyou,2014,Under 18,Sex,Male,26,57.6,7,28
+Asthma ED Visit Rates,Solano,2014,Under 18,Sex,Male,694,139.6,7,28
+Asthma ED Visit Rates,Sonoma,2014,Under 18,Sex,Male,367,68.8,7,28
+Asthma ED Visit Rates,Stanislaus,2014,Under 18,Sex,Male,874,118,7,28
+Asthma ED Visit Rates,Sutter,2014,Under 18,Sex,Male,86,66.2,7,28
+Asthma ED Visit Rates,Tehama,2014,Under 18,Sex,Male,71,92.9,7,28
+Asthma ED Visit Rates,Tulare,2014,Under 18,Sex,Male,759,101,7,28
+Asthma ED Visit Rates,Tuolumne,2014,Under 18,Sex,Male,31,68.9,7,28
+Asthma ED Visit Rates,Ventura,2014,Under 18,Sex,Male,751,72.2,7,28
+Asthma ED Visit Rates,Yolo,2014,Under 18,Sex,Male,155,70.7,7,28
+Asthma ED Visit Rates,Yuba,2014,Under 18,Sex,Male,56,50.7,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Total Population,Under 18,3269,92.6,7,28
+Asthma ED Visit Rates,Amador,2013,Under 18,Total Population,Under 18,52,91.9,7,28
+Asthma ED Visit Rates,Butte,2013,Under 18,Total Population,Under 18,275,61.5,7,28
+Asthma ED Visit Rates,Calaveras,2013,Under 18,Total Population,Under 18,60,78.7,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Total Population,Under 18,70842,77.3,7,28
+Asthma ED Visit Rates,Colusa,2013,Under 18,Total Population,Under 18,38,62.5,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Total Population,Under 18,2251,91.5,7,28
+Asthma ED Visit Rates,Del Norte,2013,Under 18,Total Population,Under 18,48,85.1,7,28
+Asthma ED Visit Rates,El Dorado,2013,Under 18,Total Population,Under 18,135,37.7,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Total Population,Under 18,3814,134.4,7,28
+Asthma ED Visit Rates,Glenn,2013,Under 18,Total Population,Under 18,33,43.5,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Total Population,Under 18,205,79.3,7,28
+Asthma ED Visit Rates,Imperial,2013,Under 18,Total Population,Under 18,709,136.3,7,28
+Asthma ED Visit Rates,Inyo,2013,Under 18,Total Population,Under 18,30,82.5,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Total Population,Under 18,2394,92.3,7,28
+Asthma ED Visit Rates,Kings,2013,Under 18,Total Population,Under 18,558,131.9,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Total Population,Under 18,96,75.1,7,28
+Asthma ED Visit Rates,Lassen,2013,Under 18,Total Population,Under 18,37,67.3,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Total Population,Under 18,20386,87.9,7,28
+Asthma ED Visit Rates,Madera,2013,Under 18,Total Population,Under 18,492,113.3,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Total Population,Under 18,183,36.4,7,28
+Asthma ED Visit Rates,Mariposa,2013,Under 18,Total Population,Under 18,18,61.9,7,28
+Asthma ED Visit Rates,Mendocino,2013,Under 18,Total Population,Under 18,104,55.2,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Total Population,Under 18,965,122.1,7,28
+Asthma ED Visit Rates,Modoc,2013,Under 18,Total Population,Under 18,10,51.5,7,28
+Asthma ED Visit Rates,Mono,2013,Under 18,Total Population,Under 18,9,29.5,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Total Population,Under 18,989,85.6,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Total Population,Under 18,161,53.2,7,28
+Asthma ED Visit Rates,Nevada,2013,Under 18,Total Population,Under 18,61,37.7,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Total Population,Under 18,3901,54.6,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Total Population,Under 18,332,40.9,7,28
+Asthma ED Visit Rates,Plumas,2013,Under 18,Total Population,Under 18,29,89.3,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Total Population,Under 18,3824,63.7,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Total Population,Under 18,3035,84,7,28
+Asthma ED Visit Rates,San Benito,2013,Under 18,Total Population,Under 18,117,77.8,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Total Population,Under 18,5278,92.3,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Total Population,Under 18,4816,65,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Total Population,Under 18,810,62.3,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Total Population,Under 18,1691,86.4,7,28
+Asthma ED Visit Rates,San Luis Obispo,2013,Under 18,Total Population,Under 18,229,46.4,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Total Population,Under 18,770,46.1,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Total Population,Under 18,664,67.6,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Total Population,Under 18,1806,40.5,7,28
+Asthma ED Visit Rates,Santa Cruz,2013,Under 18,Total Population,Under 18,386,68.7,7,28
+Asthma ED Visit Rates,Shasta,2013,Under 18,Total Population,Under 18,281,73.4,7,28
+Asthma ED Visit Rates,Siskiyou,2013,Under 18,Total Population,Under 18,44,50.9,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Total Population,Under 18,966,100.5,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Total Population,Under 18,560,54.2,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Total Population,Under 18,1154,80.3,7,28
+Asthma ED Visit Rates,Sutter,2013,Under 18,Total Population,Under 18,77,30.3,7,28
+Asthma ED Visit Rates,Tehama,2013,Under 18,Total Population,Under 18,86,57.1,7,28
+Asthma ED Visit Rates,Trinity,2013,Under 18,Total Population,Under 18,5,,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Total Population,Under 18,1097,75,7,28
+Asthma ED Visit Rates,Tuolumne,2013,Under 18,Total Population,Under 18,72,80.8,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Total Population,Under 18,1082,53.3,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Total Population,Under 18,249,57.2,7,28
+Asthma ED Visit Rates,Yuba,2013,Under 18,Total Population,Under 18,97,46.7,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Race-Ethnicity,African-American,1089,276.1,7,28
+Asthma ED Visit Rates,Butte,2013,Under 18,Race-Ethnicity,African-American,19,308.9,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Race-Ethnicity,African-American,12709,261.5,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Race-Ethnicity,African-American,659,303.8,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Race-Ethnicity,African-American,362,266.7,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Race-Ethnicity,African-American,10,,7,28
+Asthma ED Visit Rates,Imperial,2013,Under 18,Race-Ethnicity,African-American,16,281.4,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Race-Ethnicity,African-American,476,360.7,7,28
+Asthma ED Visit Rates,Kings,2013,Under 18,Race-Ethnicity,African-American,53,303.7,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Race-Ethnicity,African-American,8,,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Race-Ethnicity,African-American,4380,265.3,7,28
+Asthma ED Visit Rates,Madera,2013,Under 18,Race-Ethnicity,African-American,32,455.7,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Race-Ethnicity,African-American,18,186,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Race-Ethnicity,African-American,79,452.4,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Race-Ethnicity,African-American,39,284.9,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Race-Ethnicity,African-American,8,,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Race-Ethnicity,African-American,170,173.8,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Race-Ethnicity,African-American,15,170.8,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Race-Ethnicity,African-American,737,220,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Race-Ethnicity,African-American,1044,274.8,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Race-Ethnicity,African-American,1403,295.8,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Race-Ethnicity,African-American,566,172.1,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Race-Ethnicity,African-American,173,236,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Race-Ethnicity,African-American,440,304.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2013,Under 18,Race-Ethnicity,African-American,8,,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Race-Ethnicity,African-American,46,131,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Race-Ethnicity,African-American,29,252.5,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Race-Ethnicity,African-American,118,123.5,7,28
+Asthma ED Visit Rates,Shasta,2013,Under 18,Race-Ethnicity,African-American,18,478.5,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Race-Ethnicity,African-American,376,319.5,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Race-Ethnicity,African-American,33,196.2,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Race-Ethnicity,African-American,150,475.4,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Race-Ethnicity,African-American,33,253,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Race-Ethnicity,African-American,53,227.4,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Race-Ethnicity,African-American,14,122.2,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,176,48.6,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,55.4,7,28
+Asthma ED Visit Rates,Inyo,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,19,54.7,7,28
+Asthma ED Visit Rates,Mendocino,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,12,126,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,8,,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,313,34,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,2907,28.7,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,131,39.5,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,121,44.4,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,26,35.6,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,621,27.1,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,13,29.2,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,10,,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,267,23.6,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,21,35.4,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,63,22.5,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,182,32.8,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,73,27.6,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,228,32.6,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,133,35.8,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,125,48,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,84,20.7,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,13,42.7,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,291,20.3,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,57,49.1,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,21,35.5,7,28
+Asthma ED Visit Rates,Sutter,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,10,,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,24,21,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Race-Ethnicity,Asian/Pacific Islander,12,31.6,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Race-Ethnicity,Hispanic,1060,93.3,7,28
+Asthma ED Visit Rates,Butte,2013,Under 18,Race-Ethnicity,Hispanic,47,46.5,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Race-Ethnicity,Hispanic,37054,77.9,7,28
+Asthma ED Visit Rates,Colusa,2013,Under 18,Race-Ethnicity,Hispanic,21,48.2,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Race-Ethnicity,Hispanic,822,93.7,7,28
+Asthma ED Visit Rates,Del Norte,2013,Under 18,Race-Ethnicity,Hispanic,12,87.5,7,28
+Asthma ED Visit Rates,El Dorado,2013,Under 18,Race-Ethnicity,Hispanic,40,51.7,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Race-Ethnicity,Hispanic,2527,141.9,7,28
+Asthma ED Visit Rates,Glenn,2013,Under 18,Race-Ethnicity,Hispanic,15,36.8,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Race-Ethnicity,Hispanic,37,78.7,7,28
+Asthma ED Visit Rates,Imperial,2013,Under 18,Race-Ethnicity,Hispanic,586,127.8,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Race-Ethnicity,Hispanic,1284,79.7,7,28
+Asthma ED Visit Rates,Kings,2013,Under 18,Race-Ethnicity,Hispanic,330,126.1,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Race-Ethnicity,Hispanic,13,31.8,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Race-Ethnicity,Hispanic,12498,85.7,7,28
+Asthma ED Visit Rates,Madera,2013,Under 18,Race-Ethnicity,Hispanic,372,116.2,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Race-Ethnicity,Hispanic,61,47.5,7,28
+Asthma ED Visit Rates,Mendocino,2013,Under 18,Race-Ethnicity,Hispanic,36,46.9,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Race-Ethnicity,Hispanic,632,119.5,7,28
+Asthma ED Visit Rates,Mono,2013,Under 18,Race-Ethnicity,Hispanic,6,,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Race-Ethnicity,Hispanic,807,90.8,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Race-Ethnicity,Hispanic,94,59.8,7,28
+Asthma ED Visit Rates,Nevada,2013,Under 18,Race-Ethnicity,Hispanic,5,,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Race-Ethnicity,Hispanic,2075,59.9,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Race-Ethnicity,Hispanic,62,34.7,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Race-Ethnicity,Hispanic,1927,54.2,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Race-Ethnicity,Hispanic,815,74.4,7,28
+Asthma ED Visit Rates,San Benito,2013,Under 18,Race-Ethnicity,Hispanic,83,73.2,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Race-Ethnicity,Hispanic,2507,72.2,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Race-Ethnicity,Hispanic,2550,75.4,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Race-Ethnicity,Hispanic,194,68.1,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Race-Ethnicity,Hispanic,696,69.9,7,28
+Asthma ED Visit Rates,San Luis Obispo,2013,Under 18,Race-Ethnicity,Hispanic,93,49.9,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Race-Ethnicity,Hispanic,392,69.2,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Race-Ethnicity,Hispanic,446,69.5,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Race-Ethnicity,Hispanic,946,57.2,7,28
+Asthma ED Visit Rates,Santa Cruz,2013,Under 18,Race-Ethnicity,Hispanic,281,92.8,7,28
+Asthma ED Visit Rates,Shasta,2013,Under 18,Race-Ethnicity,Hispanic,27,47,7,28
+Asthma ED Visit Rates,Siskiyou,2013,Under 18,Race-Ethnicity,Hispanic,8,,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Race-Ethnicity,Hispanic,243,70.9,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Race-Ethnicity,Hispanic,278,63.3,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Race-Ethnicity,Hispanic,569,70.5,7,28
+Asthma ED Visit Rates,Sutter,2013,Under 18,Race-Ethnicity,Hispanic,27,26,7,28
+Asthma ED Visit Rates,Tehama,2013,Under 18,Race-Ethnicity,Hispanic,23,41.4,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Race-Ethnicity,Hispanic,690,64.1,7,28
+Asthma ED Visit Rates,Tuolumne,2013,Under 18,Race-Ethnicity,Hispanic,10,,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Race-Ethnicity,Hispanic,634,54.8,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Race-Ethnicity,Hispanic,119,60.6,7,28
+Asthma ED Visit Rates,Yuba,2013,Under 18,Race-Ethnicity,Hispanic,28,38.8,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Race-Ethnicity,White,350,44.2,7,28
+Asthma ED Visit Rates,Amador,2013,Under 18,Race-Ethnicity,White,47,119.4,7,28
+Asthma ED Visit Rates,Butte,2013,Under 18,Race-Ethnicity,White,196,73.4,7,28
+Asthma ED Visit Rates,Calaveras,2013,Under 18,Race-Ethnicity,White,51,87.9,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Race-Ethnicity,White,13912,56.6,7,28
+Asthma ED Visit Rates,Colusa,2013,Under 18,Race-Ethnicity,White,16,111.8,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Race-Ethnicity,White,419,49.2,7,28
+Asthma ED Visit Rates,Del Norte,2013,Under 18,Race-Ethnicity,White,31,102.9,7,28
+Asthma ED Visit Rates,El Dorado,2013,Under 18,Race-Ethnicity,White,90,37,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Race-Ethnicity,White,754,135.8,7,28
+Asthma ED Visit Rates,Glenn,2013,Under 18,Race-Ethnicity,White,16,54.2,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Race-Ethnicity,White,137,86.5,7,28
+Asthma ED Visit Rates,Imperial,2013,Under 18,Race-Ethnicity,White,92,215.7,7,28
+Asthma ED Visit Rates,Inyo,2013,Under 18,Race-Ethnicity,White,11,,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Race-Ethnicity,White,528,75.7,7,28
+Asthma ED Visit Rates,Kings,2013,Under 18,Race-Ethnicity,White,143,132.2,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Race-Ethnicity,White,65,89.4,7,28
+Asthma ED Visit Rates,Lassen,2013,Under 18,Race-Ethnicity,White,29,73.4,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Race-Ethnicity,White,1968,50.8,7,28
+Asthma ED Visit Rates,Madera,2013,Under 18,Race-Ethnicity,White,86,96.4,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Race-Ethnicity,White,84,28.2,7,28
+Asthma ED Visit Rates,Mariposa,2013,Under 18,Race-Ethnicity,White,14,67,7,28
+Asthma ED Visit Rates,Mendocino,2013,Under 18,Race-Ethnicity,White,50,55.4,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Race-Ethnicity,White,233,129.7,7,28
+Asthma ED Visit Rates,Modoc,2013,Under 18,Race-Ethnicity,White,10,,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Race-Ethnicity,White,94,53.7,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Race-Ethnicity,White,44,40.1,7,28
+Asthma ED Visit Rates,Nevada,2013,Under 18,Race-Ethnicity,White,53,44.7,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Race-Ethnicity,White,1112,52.6,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Race-Ethnicity,White,221,43.2,7,28
+Asthma ED Visit Rates,Plumas,2013,Under 18,Race-Ethnicity,White,25,107,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Race-Ethnicity,White,931,59.2,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Race-Ethnicity,White,715,56.4,7,28
+Asthma ED Visit Rates,San Benito,2013,Under 18,Race-Ethnicity,White,32,110.4,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Race-Ethnicity,White,1018,78.7,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Race-Ethnicity,White,993,39.5,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Race-Ethnicity,White,202,45.9,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Race-Ethnicity,White,340,75.8,7,28
+Asthma ED Visit Rates,San Luis Obispo,2013,Under 18,Race-Ethnicity,White,113,42.4,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Race-Ethnicity,White,151,28.6,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Race-Ethnicity,White,169,64.2,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Race-Ethnicity,White,314,31.1,7,28
+Asthma ED Visit Rates,Santa Cruz,2013,Under 18,Race-Ethnicity,White,96,44.9,7,28
+Asthma ED Visit Rates,Shasta,2013,Under 18,Race-Ethnicity,White,212,78.5,7,28
+Asthma ED Visit Rates,Siskiyou,2013,Under 18,Race-Ethnicity,White,29,52.3,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Race-Ethnicity,White,221,78.8,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Race-Ethnicity,White,224,46.7,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Race-Ethnicity,White,374,78.3,7,28
+Asthma ED Visit Rates,Sutter,2013,Under 18,Race-Ethnicity,White,36,38.5,7,28
+Asthma ED Visit Rates,Tehama,2013,Under 18,Race-Ethnicity,White,51,59.4,7,28
+Asthma ED Visit Rates,Trinity,2013,Under 18,Race-Ethnicity,White,5,,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Race-Ethnicity,White,187,61.9,7,28
+Asthma ED Visit Rates,Tuolumne,2013,Under 18,Race-Ethnicity,White,42,65.6,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Race-Ethnicity,White,345,53.3,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Race-Ethnicity,White,79,49.8,7,28
+Asthma ED Visit Rates,Yuba,2013,Under 18,Race-Ethnicity,White,59,62.3,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Sex,Female,1244,73.3,7,28
+Asthma ED Visit Rates,Amador,2013,Under 18,Sex,Female,21,73,7,28
+Asthma ED Visit Rates,Butte,2013,Under 18,Sex,Female,115,52.3,7,28
+Asthma ED Visit Rates,Calaveras,2013,Under 18,Sex,Female,21,58.9,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Sex,Female,25613,57.6,7,28
+Asthma ED Visit Rates,Colusa,2013,Under 18,Sex,Female,11,,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Sex,Female,850,70.1,7,28
+Asthma ED Visit Rates,Del Norte,2013,Under 18,Sex,Female,27,98,7,28
+Asthma ED Visit Rates,El Dorado,2013,Under 18,Sex,Female,53,29.7,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Sex,Female,1403,101.8,7,28
+Asthma ED Visit Rates,Glenn,2013,Under 18,Sex,Female,11,,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Sex,Female,84,67.1,7,28
+Asthma ED Visit Rates,Imperial,2013,Under 18,Sex,Female,254,100.8,7,28
+Asthma ED Visit Rates,Inyo,2013,Under 18,Sex,Female,10,,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Sex,Female,914,72.7,7,28
+Asthma ED Visit Rates,Kings,2013,Under 18,Sex,Female,183,91,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Sex,Female,39,63.4,7,28
+Asthma ED Visit Rates,Lassen,2013,Under 18,Sex,Female,13,46.5,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Sex,Female,7117,63.1,7,28
+Asthma ED Visit Rates,Madera,2013,Under 18,Sex,Female,169,80.6,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Sex,Female,69,28.1,7,28
+Asthma ED Visit Rates,Mariposa,2013,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Mendocino,2013,Under 18,Sex,Female,39,43,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Sex,Female,352,91.9,7,28
+Asthma ED Visit Rates,Mono,2013,Under 18,Sex,Female,5,,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Sex,Female,361,65.5,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Sex,Female,61,41.1,7,28
+Asthma ED Visit Rates,Nevada,2013,Under 18,Sex,Female,15,19.3,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Sex,Female,1423,41,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Sex,Female,115,28.6,7,28
+Asthma ED Visit Rates,Plumas,2013,Under 18,Sex,Female,12,75.2,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Sex,Female,1401,47.5,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Sex,Female,1146,65.6,7,28
+Asthma ED Visit Rates,San Benito,2013,Under 18,Sex,Female,42,55.8,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Sex,Female,1810,65.1,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Sex,Female,1750,49,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Sex,Female,293,46.7,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Sex,Female,627,66,7,28
+Asthma ED Visit Rates,San Luis Obispo,2013,Under 18,Sex,Female,96,39.9,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Sex,Female,297,37,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Sex,Female,267,55.7,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Sex,Female,643,29.9,7,28
+Asthma ED Visit Rates,Santa Cruz,2013,Under 18,Sex,Female,165,60.8,7,28
+Asthma ED Visit Rates,Shasta,2013,Under 18,Sex,Female,101,54.8,7,28
+Asthma ED Visit Rates,Siskiyou,2013,Under 18,Sex,Female,19,46,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Sex,Female,347,74.1,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Sex,Female,223,44.4,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Sex,Female,401,57.4,7,28
+Asthma ED Visit Rates,Sutter,2013,Under 18,Sex,Female,25,20.1,7,28
+Asthma ED Visit Rates,Tehama,2013,Under 18,Sex,Female,35,47.7,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Sex,Female,360,50.9,7,28
+Asthma ED Visit Rates,Tuolumne,2013,Under 18,Sex,Female,41,93.9,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Sex,Female,396,39.9,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Sex,Female,88,40.7,7,28
+Asthma ED Visit Rates,Yuba,2013,Under 18,Sex,Female,32,32.3,7,28
+Asthma ED Visit Rates,Alameda,2013,Under 18,Sex,Male,2025,110.6,7,28
+Asthma ED Visit Rates,Amador,2013,Under 18,Sex,Male,31,112.9,7,28
+Asthma ED Visit Rates,Butte,2013,Under 18,Sex,Male,160,70.1,7,28
+Asthma ED Visit Rates,Calaveras,2013,Under 18,Sex,Male,39,98,7,28
+Asthma ED Visit Rates,California,2013,Under 18,Sex,Male,45228,95.8,7,28
+Asthma ED Visit Rates,Colusa,2013,Under 18,Sex,Male,27,84.3,7,28
+Asthma ED Visit Rates,Contra Costa,2013,Under 18,Sex,Male,1401,111.4,7,28
+Asthma ED Visit Rates,Del Norte,2013,Under 18,Sex,Male,21,73.5,7,28
+Asthma ED Visit Rates,El Dorado,2013,Under 18,Sex,Male,82,45.1,7,28
+Asthma ED Visit Rates,Fresno,2013,Under 18,Sex,Male,2411,165,7,28
+Asthma ED Visit Rates,Glenn,2013,Under 18,Sex,Male,22,56.4,7,28
+Asthma ED Visit Rates,Humboldt,2013,Under 18,Sex,Male,121,90.6,7,28
+Asthma ED Visit Rates,Imperial,2013,Under 18,Sex,Male,455,170.2,7,28
+Asthma ED Visit Rates,Inyo,2013,Under 18,Sex,Male,20,107,7,28
+Asthma ED Visit Rates,Kern,2013,Under 18,Sex,Male,1480,110.7,7,28
+Asthma ED Visit Rates,Kings,2013,Under 18,Sex,Male,375,170.4,7,28
+Asthma ED Visit Rates,Lake,2013,Under 18,Sex,Male,57,85.8,7,28
+Asthma ED Visit Rates,Lassen,2013,Under 18,Sex,Male,24,86.6,7,28
+Asthma ED Visit Rates,Los Angeles,2013,Under 18,Sex,Male,13269,111.3,7,28
+Asthma ED Visit Rates,Madera,2013,Under 18,Sex,Male,323,144.2,7,28
+Asthma ED Visit Rates,Marin,2013,Under 18,Sex,Male,114,44.3,7,28
+Asthma ED Visit Rates,Mariposa,2013,Under 18,Sex,Male,9,,7,28
+Asthma ED Visit Rates,Mendocino,2013,Under 18,Sex,Male,65,66.3,7,28
+Asthma ED Visit Rates,Merced,2013,Under 18,Sex,Male,613,150.4,7,28
+Asthma ED Visit Rates,Modoc,2013,Under 18,Sex,Male,6,,7,28
+Asthma ED Visit Rates,Monterey,2013,Under 18,Sex,Male,628,104.3,7,28
+Asthma ED Visit Rates,Napa,2013,Under 18,Sex,Male,100,64.2,7,28
+Asthma ED Visit Rates,Nevada,2013,Under 18,Sex,Male,46,54.8,7,28
+Asthma ED Visit Rates,Orange,2013,Under 18,Sex,Male,2478,67.4,7,28
+Asthma ED Visit Rates,Placer,2013,Under 18,Sex,Male,217,52.4,7,28
+Asthma ED Visit Rates,Plumas,2013,Under 18,Sex,Male,17,103.7,7,28
+Asthma ED Visit Rates,Riverside,2013,Under 18,Sex,Male,2422,78.9,7,28
+Asthma ED Visit Rates,Sacramento,2013,Under 18,Sex,Male,1889,101.3,7,28
+Asthma ED Visit Rates,San Benito,2013,Under 18,Sex,Male,75,97.6,7,28
+Asthma ED Visit Rates,San Bernardino,2013,Under 18,Sex,Male,3468,117.9,7,28
+Asthma ED Visit Rates,San Diego,2013,Under 18,Sex,Male,3066,80,7,28
+Asthma ED Visit Rates,San Francisco,2013,Under 18,Sex,Male,517,77.1,7,28
+Asthma ED Visit Rates,San Joaquin,2013,Under 18,Sex,Male,1064,105.5,7,28
+Asthma ED Visit Rates,San Luis Obispo,2013,Under 18,Sex,Male,133,52.7,7,28
+Asthma ED Visit Rates,San Mateo,2013,Under 18,Sex,Male,473,54.7,7,28
+Asthma ED Visit Rates,Santa Barbara,2013,Under 18,Sex,Male,397,78.9,7,28
+Asthma ED Visit Rates,Santa Clara,2013,Under 18,Sex,Male,1163,50.3,7,28
+Asthma ED Visit Rates,Santa Cruz,2013,Under 18,Sex,Male,221,76.3,7,28
+Asthma ED Visit Rates,Shasta,2013,Under 18,Sex,Male,180,90.8,7,28
+Asthma ED Visit Rates,Siskiyou,2013,Under 18,Sex,Male,25,55.4,7,28
+Asthma ED Visit Rates,Solano,2013,Under 18,Sex,Male,619,124.9,7,28
+Asthma ED Visit Rates,Sonoma,2013,Under 18,Sex,Male,337,63.2,7,28
+Asthma ED Visit Rates,Stanislaus,2013,Under 18,Sex,Male,753,102,7,28
+Asthma ED Visit Rates,Sutter,2013,Under 18,Sex,Male,52,40,7,28
+Asthma ED Visit Rates,Tehama,2013,Under 18,Sex,Male,51,65.6,7,28
+Asthma ED Visit Rates,Tulare,2013,Under 18,Sex,Male,737,97.6,7,28
+Asthma ED Visit Rates,Tuolumne,2013,Under 18,Sex,Male,31,68.5,7,28
+Asthma ED Visit Rates,Ventura,2013,Under 18,Sex,Male,686,66,7,28
+Asthma ED Visit Rates,Yolo,2013,Under 18,Sex,Male,161,73.6,7,28
+Asthma ED Visit Rates,Yuba,2013,Under 18,Sex,Male,65,59.6,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Total Population,Under 18,2952,84.6,7,28
+Asthma ED Visit Rates,Amador,2012,Under 18,Total Population,Under 18,50,88,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Total Population,Under 18,252,54.8,7,28
+Asthma ED Visit Rates,Calaveras,2012,Under 18,Total Population,Under 18,36,46.5,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Total Population,Under 18,72682,79.4,7,28
+Asthma ED Visit Rates,Colusa,2012,Under 18,Total Population,Under 18,29,47.5,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Total Population,Under 18,2623,104.1,7,28
+Asthma ED Visit Rates,Del Norte,2012,Under 18,Total Population,Under 18,48,81.4,7,28
+Asthma ED Visit Rates,El Dorado,2012,Under 18,Total Population,Under 18,168,44.2,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Total Population,Under 18,3758,134.1,7,28
+Asthma ED Visit Rates,Glenn,2012,Under 18,Total Population,Under 18,32,41.5,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Total Population,Under 18,221,82.8,7,28
+Asthma ED Visit Rates,Imperial,2012,Under 18,Total Population,Under 18,762,152.5,7,28
+Asthma ED Visit Rates,Inyo,2012,Under 18,Total Population,Under 18,32,86.7,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Total Population,Under 18,2462,96.5,7,28
+Asthma ED Visit Rates,Kings,2012,Under 18,Total Population,Under 18,587,140.1,7,28
+Asthma ED Visit Rates,Lake,2012,Under 18,Total Population,Under 18,109,83.8,7,28
+Asthma ED Visit Rates,Lassen,2012,Under 18,Total Population,Under 18,30,53.6,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Total Population,Under 18,20781,89.5,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Total Population,Under 18,662,155.5,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Total Population,Under 18,196,37.8,7,28
+Asthma ED Visit Rates,Mariposa,2012,Under 18,Total Population,Under 18,21,73.2,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Total Population,Under 18,141,73.8,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Total Population,Under 18,979,122.7,7,28
+Asthma ED Visit Rates,Modoc,2012,Under 18,Total Population,Under 18,13,68.6,7,28
+Asthma ED Visit Rates,Mono,2012,Under 18,Total Population,Under 18,8,,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Total Population,Under 18,894,78.3,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Total Population,Under 18,158,51.6,7,28
+Asthma ED Visit Rates,Nevada,2012,Under 18,Total Population,Under 18,96,55.5,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Total Population,Under 18,4098,57.4,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Total Population,Under 18,306,37,7,28
+Asthma ED Visit Rates,Plumas,2012,Under 18,Total Population,Under 18,27,82.5,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Total Population,Under 18,4028,66.9,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Total Population,Under 18,2875,79.6,7,28
+Asthma ED Visit Rates,San Benito,2012,Under 18,Total Population,Under 18,109,70,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Total Population,Under 18,5563,97,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Total Population,Under 18,5160,70.8,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Total Population,Under 18,830,68.6,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Total Population,Under 18,1550,78.6,7,28
+Asthma ED Visit Rates,San Luis Obispo,2012,Under 18,Total Population,Under 18,276,55.3,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Total Population,Under 18,824,49.8,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Total Population,Under 18,694,70.9,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Total Population,Under 18,1898,42.9,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Total Population,Under 18,424,76,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Total Population,Under 18,267,68.8,7,28
+Asthma ED Visit Rates,Siskiyou,2012,Under 18,Total Population,Under 18,42,47,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Total Population,Under 18,1063,109.3,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Total Population,Under 18,600,57.6,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Total Population,Under 18,1086,75.4,7,28
+Asthma ED Visit Rates,Sutter,2012,Under 18,Total Population,Under 18,81,31.7,7,28
+Asthma ED Visit Rates,Tehama,2012,Under 18,Total Population,Under 18,105,68,7,28
+Asthma ED Visit Rates,Trinity,2012,Under 18,Total Population,Under 18,8,,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Total Population,Under 18,1064,73.4,7,28
+Asthma ED Visit Rates,Tuolumne,2012,Under 18,Total Population,Under 18,75,82,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Total Population,Under 18,1210,59.4,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Total Population,Under 18,251,56.5,7,28
+Asthma ED Visit Rates,Yuba,2012,Under 18,Total Population,Under 18,64,30.6,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Race-Ethnicity,African-American,950,237.7,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Race-Ethnicity,African-American,22,330.2,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Race-Ethnicity,African-American,13222,267.7,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Race-Ethnicity,African-American,729,320.9,7,28
+Asthma ED Visit Rates,El Dorado,2012,Under 18,Race-Ethnicity,African-American,13,530.6,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Race-Ethnicity,African-American,390,288.9,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Race-Ethnicity,African-American,11,,7,28
+Asthma ED Visit Rates,Imperial,2012,Under 18,Race-Ethnicity,African-American,16,308.2,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Race-Ethnicity,African-American,481,375.4,7,28
+Asthma ED Visit Rates,Kings,2012,Under 18,Race-Ethnicity,African-American,61,361.4,7,28
+Asthma ED Visit Rates,Lake,2012,Under 18,Race-Ethnicity,African-American,9,,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Race-Ethnicity,African-American,4705,275.7,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Race-Ethnicity,African-American,36,541.3,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Race-Ethnicity,African-American,24,237.3,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Race-Ethnicity,African-American,108,524.3,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Race-Ethnicity,African-American,33,226.3,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Race-Ethnicity,African-American,8,,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Race-Ethnicity,African-American,198,201.8,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Race-Ethnicity,African-American,15,172,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Race-Ethnicity,African-American,823,239.7,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Race-Ethnicity,African-American,930,245.6,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Race-Ethnicity,African-American,1473,309.9,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Race-Ethnicity,African-American,701,204.8,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Race-Ethnicity,African-American,161,224,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Race-Ethnicity,African-American,373,265.3,7,28
+Asthma ED Visit Rates,San Luis Obispo,2012,Under 18,Race-Ethnicity,African-American,11,,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Race-Ethnicity,African-American,43,127.2,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Race-Ethnicity,African-American,30,258.7,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Race-Ethnicity,African-American,125,135.5,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Race-Ethnicity,African-American,6,,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Race-Ethnicity,African-American,14,321.2,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Race-Ethnicity,African-American,402,327.1,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Race-Ethnicity,African-American,45,288.8,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Race-Ethnicity,African-American,125,394.5,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Race-Ethnicity,African-American,30,220.8,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Race-Ethnicity,African-American,51,209.7,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Race-Ethnicity,African-American,33,292,7,28
+Asthma ED Visit Rates,Yuba,2012,Under 18,Race-Ethnicity,African-American,7,,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,134,37.5,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,13,64,7,28
+Asthma ED Visit Rates,Inyo,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,16,45.8,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,8,,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,288,31.9,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,3063,31,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,136,41.1,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,102,40.2,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,23,31.2,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,691,31.2,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,12,45.9,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,14,33.7,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,267,24,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,16,25.9,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,73,26.1,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,186,34.4,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,69,26.3,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,277,40.7,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,140,39.3,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,102,40,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,132,34,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,10,,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,279,19.7,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,6,,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,87,74.9,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,13,39.3,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,26,43.7,7,28
+Asthma ED Visit Rates,Tehama,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,8,,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,33,28.8,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Race-Ethnicity,Asian/Pacific Islander,9,,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Race-Ethnicity,Hispanic,906,79.2,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Race-Ethnicity,Hispanic,36,32.1,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Race-Ethnicity,Hispanic,37029,78,7,28
+Asthma ED Visit Rates,Colusa,2012,Under 18,Race-Ethnicity,Hispanic,18,41,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Race-Ethnicity,Hispanic,974,109.9,7,28
+Asthma ED Visit Rates,Del Norte,2012,Under 18,Race-Ethnicity,Hispanic,10,,7,28
+Asthma ED Visit Rates,El Dorado,2012,Under 18,Race-Ethnicity,Hispanic,33,41.8,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Race-Ethnicity,Hispanic,2469,139.1,7,28
+Asthma ED Visit Rates,Glenn,2012,Under 18,Race-Ethnicity,Hispanic,14,34.1,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Race-Ethnicity,Hispanic,24,50.8,7,28
+Asthma ED Visit Rates,Imperial,2012,Under 18,Race-Ethnicity,Hispanic,583,131.7,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Race-Ethnicity,Hispanic,1295,81.5,7,28
+Asthma ED Visit Rates,Kings,2012,Under 18,Race-Ethnicity,Hispanic,337,128.6,7,28
+Asthma ED Visit Rates,Lake,2012,Under 18,Race-Ethnicity,Hispanic,18,43.9,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Race-Ethnicity,Hispanic,12380,85,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Race-Ethnicity,Hispanic,485,155.1,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Race-Ethnicity,Hispanic,65,50.5,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Race-Ethnicity,Hispanic,44,57.8,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Race-Ethnicity,Hispanic,617,115.5,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Race-Ethnicity,Hispanic,715,82.9,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Race-Ethnicity,Hispanic,81,52.1,7,28
+Asthma ED Visit Rates,Nevada,2012,Under 18,Race-Ethnicity,Hispanic,14,46.2,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Race-Ethnicity,Hispanic,2191,64,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Race-Ethnicity,Hispanic,47,26.1,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Race-Ethnicity,Hispanic,2026,56.5,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Race-Ethnicity,Hispanic,734,65.9,7,28
+Asthma ED Visit Rates,San Benito,2012,Under 18,Race-Ethnicity,Hispanic,74,64.4,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Race-Ethnicity,Hispanic,2535,72.1,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Race-Ethnicity,Hispanic,2534,75.7,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Race-Ethnicity,Hispanic,202,74.2,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Race-Ethnicity,Hispanic,628,62.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2012,Under 18,Race-Ethnicity,Hispanic,101,54.6,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Race-Ethnicity,Hispanic,361,63.2,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Race-Ethnicity,Hispanic,480,76,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Race-Ethnicity,Hispanic,1012,61.7,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Race-Ethnicity,Hispanic,277,93.3,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Race-Ethnicity,Hispanic,13,20.4,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Race-Ethnicity,Hispanic,268,77.8,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Race-Ethnicity,Hispanic,258,57.9,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Race-Ethnicity,Hispanic,547,67.3,7,28
+Asthma ED Visit Rates,Sutter,2012,Under 18,Race-Ethnicity,Hispanic,34,32.9,7,28
+Asthma ED Visit Rates,Tehama,2012,Under 18,Race-Ethnicity,Hispanic,31,56.5,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Race-Ethnicity,Hispanic,659,61.5,7,28
+Asthma ED Visit Rates,Tuolumne,2012,Under 18,Race-Ethnicity,Hispanic,10,,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Race-Ethnicity,Hispanic,723,63.5,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Race-Ethnicity,Hispanic,106,52.7,7,28
+Asthma ED Visit Rates,Yuba,2012,Under 18,Race-Ethnicity,Hispanic,24,31.3,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Race-Ethnicity,White,417,53.8,7,28
+Asthma ED Visit Rates,Amador,2012,Under 18,Race-Ethnicity,White,44,111,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Race-Ethnicity,White,179,66.4,7,28
+Asthma ED Visit Rates,Calaveras,2012,Under 18,Race-Ethnicity,White,30,52.1,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Race-Ethnicity,White,15016,60.9,7,28
+Asthma ED Visit Rates,Colusa,2012,Under 18,Race-Ethnicity,White,6,,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Race-Ethnicity,White,515,58.5,7,28
+Asthma ED Visit Rates,Del Norte,2012,Under 18,Race-Ethnicity,White,33,105.4,7,28
+Asthma ED Visit Rates,El Dorado,2012,Under 18,Race-Ethnicity,White,117,44.3,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Race-Ethnicity,White,741,137.4,7,28
+Asthma ED Visit Rates,Glenn,2012,Under 18,Race-Ethnicity,White,17,55.7,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Race-Ethnicity,White,155,94.1,7,28
+Asthma ED Visit Rates,Imperial,2012,Under 18,Race-Ethnicity,White,144,368.3,7,28
+Asthma ED Visit Rates,Inyo,2012,Under 18,Race-Ethnicity,White,13,82.6,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Race-Ethnicity,White,569,83.8,7,28
+Asthma ED Visit Rates,Kings,2012,Under 18,Race-Ethnicity,White,179,168.8,7,28
+Asthma ED Visit Rates,Lake,2012,Under 18,Race-Ethnicity,White,80,108.7,7,28
+Asthma ED Visit Rates,Lassen,2012,Under 18,Race-Ethnicity,White,25,61.6,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Race-Ethnicity,White,2129,54,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Race-Ethnicity,White,134,153.3,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Race-Ethnicity,White,84,26.7,7,28
+Asthma ED Visit Rates,Mariposa,2012,Under 18,Race-Ethnicity,White,17,80.4,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Race-Ethnicity,White,77,85.1,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Race-Ethnicity,White,232,128.8,7,28
+Asthma ED Visit Rates,Modoc,2012,Under 18,Race-Ethnicity,White,12,88.3,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Race-Ethnicity,White,101,55,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Race-Ethnicity,White,59,52.4,7,28
+Asthma ED Visit Rates,Nevada,2012,Under 18,Race-Ethnicity,White,76,57.8,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Race-Ethnicity,White,1203,55.4,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Race-Ethnicity,White,211,40.6,7,28
+Asthma ED Visit Rates,Plumas,2012,Under 18,Race-Ethnicity,White,23,96,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Race-Ethnicity,White,918,59,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Race-Ethnicity,White,720,56.6,7,28
+Asthma ED Visit Rates,San Benito,2012,Under 18,Race-Ethnicity,White,25,75.9,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Race-Ethnicity,White,1164,92,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Race-Ethnicity,White,1104,45.4,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Race-Ethnicity,White,219,57.4,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Race-Ethnicity,White,351,77.3,7,28
+Asthma ED Visit Rates,San Luis Obispo,2012,Under 18,Race-Ethnicity,White,150,54.6,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Race-Ethnicity,White,182,34.1,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Race-Ethnicity,White,163,60.4,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Race-Ethnicity,White,345,33.8,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Race-Ethnicity,White,130,59.4,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Race-Ethnicity,White,221,81,7,28
+Asthma ED Visit Rates,Siskiyou,2012,Under 18,Race-Ethnicity,White,29,50.1,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Race-Ethnicity,White,241,85.4,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Race-Ethnicity,White,268,54.9,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Race-Ethnicity,White,337,70.6,7,28
+Asthma ED Visit Rates,Sutter,2012,Under 18,Race-Ethnicity,White,39,40,7,28
+Asthma ED Visit Rates,Tehama,2012,Under 18,Race-Ethnicity,White,60,68.5,7,28
+Asthma ED Visit Rates,Trinity,2012,Under 18,Race-Ethnicity,White,7,,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Race-Ethnicity,White,178,60.1,7,28
+Asthma ED Visit Rates,Tuolumne,2012,Under 18,Race-Ethnicity,White,62,91.4,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Race-Ethnicity,White,366,54.9,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Race-Ethnicity,White,84,51.2,7,28
+Asthma ED Visit Rates,Yuba,2012,Under 18,Race-Ethnicity,White,27,28.2,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Sex,Female,1079,63.9,7,28
+Asthma ED Visit Rates,Amador,2012,Under 18,Sex,Female,14,48.9,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Sex,Female,103,45.5,7,28
+Asthma ED Visit Rates,Calaveras,2012,Under 18,Sex,Female,12,28.9,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Sex,Female,25979,58.2,7,28
+Asthma ED Visit Rates,Colusa,2012,Under 18,Sex,Female,14,48.4,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Sex,Female,1004,81.1,7,28
+Asthma ED Visit Rates,Del Norte,2012,Under 18,Sex,Female,15,52.1,7,28
+Asthma ED Visit Rates,El Dorado,2012,Under 18,Sex,Female,78,40.7,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Sex,Female,1346,98.6,7,28
+Asthma ED Visit Rates,Glenn,2012,Under 18,Sex,Female,18,48.2,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Sex,Female,90,69.5,7,28
+Asthma ED Visit Rates,Imperial,2012,Under 18,Sex,Female,258,105.8,7,28
+Asthma ED Visit Rates,Inyo,2012,Under 18,Sex,Female,8,,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Sex,Female,880,70.7,7,28
+Asthma ED Visit Rates,Kings,2012,Under 18,Sex,Female,213,105.9,7,28
+Asthma ED Visit Rates,Lake,2012,Under 18,Sex,Female,42,67.6,7,28
+Asthma ED Visit Rates,Lassen,2012,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Sex,Female,7216,63.5,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Sex,Female,242,117.1,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Sex,Female,64,25.4,7,28
+Asthma ED Visit Rates,Mariposa,2012,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Sex,Female,60,65,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Sex,Female,356,91.6,7,28
+Asthma ED Visit Rates,Modoc,2012,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Mono,2012,Under 18,Sex,Female,5,,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Sex,Female,334,60.5,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Sex,Female,48,31.6,7,28
+Asthma ED Visit Rates,Nevada,2012,Under 18,Sex,Female,37,41.9,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Sex,Female,1454,41.7,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Sex,Female,123,30.3,7,28
+Asthma ED Visit Rates,Plumas,2012,Under 18,Sex,Female,6,,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Sex,Female,1405,47.4,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Sex,Female,1032,58.6,7,28
+Asthma ED Visit Rates,San Benito,2012,Under 18,Sex,Female,50,64.3,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Sex,Female,1940,69.2,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Sex,Female,1911,53.9,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Sex,Female,274,46.9,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Sex,Female,540,56.1,7,28
+Asthma ED Visit Rates,San Luis Obispo,2012,Under 18,Sex,Female,108,43.9,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Sex,Female,316,39.3,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Sex,Female,270,56.4,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Sex,Female,663,31,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Sex,Female,170,62.6,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Sex,Female,110,58.1,7,28
+Asthma ED Visit Rates,Siskiyou,2012,Under 18,Sex,Female,17,39.9,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Sex,Female,406,85.7,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Sex,Female,224,44.1,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Sex,Female,406,57.8,7,28
+Asthma ED Visit Rates,Sutter,2012,Under 18,Sex,Female,26,21,7,28
+Asthma ED Visit Rates,Tehama,2012,Under 18,Sex,Female,40,52.6,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Sex,Female,362,51.4,7,28
+Asthma ED Visit Rates,Tuolumne,2012,Under 18,Sex,Female,36,79.9,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Sex,Female,405,40.4,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Sex,Female,90,41,7,28
+Asthma ED Visit Rates,Yuba,2012,Under 18,Sex,Female,26,26,7,28
+Asthma ED Visit Rates,Alameda,2012,Under 18,Sex,Male,1873,104,7,28
+Asthma ED Visit Rates,Amador,2012,Under 18,Sex,Male,36,128.7,7,28
+Asthma ED Visit Rates,Butte,2012,Under 18,Sex,Male,149,63.8,7,28
+Asthma ED Visit Rates,Calaveras,2012,Under 18,Sex,Male,24,62.1,7,28
+Asthma ED Visit Rates,California,2012,Under 18,Sex,Male,46703,99.7,7,28
+Asthma ED Visit Rates,Colusa,2012,Under 18,Sex,Male,15,46.9,7,28
+Asthma ED Visit Rates,Contra Costa,2012,Under 18,Sex,Male,1619,126,7,28
+Asthma ED Visit Rates,Del Norte,2012,Under 18,Sex,Male,33,109.6,7,28
+Asthma ED Visit Rates,El Dorado,2012,Under 18,Sex,Male,90,47.4,7,28
+Asthma ED Visit Rates,Fresno,2012,Under 18,Sex,Male,2412,167.8,7,28
+Asthma ED Visit Rates,Glenn,2012,Under 18,Sex,Male,14,35.1,7,28
+Asthma ED Visit Rates,Humboldt,2012,Under 18,Sex,Male,131,95.4,7,28
+Asthma ED Visit Rates,Imperial,2012,Under 18,Sex,Male,504,197.6,7,28
+Asthma ED Visit Rates,Inyo,2012,Under 18,Sex,Male,24,126.1,7,28
+Asthma ED Visit Rates,Kern,2012,Under 18,Sex,Male,1582,121.3,7,28
+Asthma ED Visit Rates,Kings,2012,Under 18,Sex,Male,374,172.6,7,28
+Asthma ED Visit Rates,Lake,2012,Under 18,Sex,Male,67,98.7,7,28
+Asthma ED Visit Rates,Lassen,2012,Under 18,Sex,Male,21,74.9,7,28
+Asthma ED Visit Rates,Los Angeles,2012,Under 18,Sex,Male,13565,114.3,7,28
+Asthma ED Visit Rates,Madera,2012,Under 18,Sex,Male,420,192.1,7,28
+Asthma ED Visit Rates,Marin,2012,Under 18,Sex,Male,132,49.5,7,28
+Asthma ED Visit Rates,Mariposa,2012,Under 18,Sex,Male,12,83.1,7,28
+Asthma ED Visit Rates,Mendocino,2012,Under 18,Sex,Male,81,81.9,7,28
+Asthma ED Visit Rates,Merced,2012,Under 18,Sex,Male,623,152.2,7,28
+Asthma ED Visit Rates,Monterey,2012,Under 18,Sex,Male,560,95,7,28
+Asthma ED Visit Rates,Napa,2012,Under 18,Sex,Male,110,70.7,7,28
+Asthma ED Visit Rates,Nevada,2012,Under 18,Sex,Male,59,67.9,7,28
+Asthma ED Visit Rates,Orange,2012,Under 18,Sex,Male,2644,72.2,7,28
+Asthma ED Visit Rates,Placer,2012,Under 18,Sex,Male,183,43.2,7,28
+Asthma ED Visit Rates,Plumas,2012,Under 18,Sex,Male,21,127.6,7,28
+Asthma ED Visit Rates,Riverside,2012,Under 18,Sex,Male,2623,85.5,7,28
+Asthma ED Visit Rates,Sacramento,2012,Under 18,Sex,Male,1843,99.4,7,28
+Asthma ED Visit Rates,San Benito,2012,Under 18,Sex,Male,59,75.4,7,28
+Asthma ED Visit Rates,San Bernardino,2012,Under 18,Sex,Male,3623,123.4,7,28
+Asthma ED Visit Rates,San Diego,2012,Under 18,Sex,Male,3249,86.9,7,28
+Asthma ED Visit Rates,San Francisco,2012,Under 18,Sex,Male,556,89.4,7,28
+Asthma ED Visit Rates,San Joaquin,2012,Under 18,Sex,Male,1010,99.9,7,28
+Asthma ED Visit Rates,San Luis Obispo,2012,Under 18,Sex,Male,168,66.3,7,28
+Asthma ED Visit Rates,San Mateo,2012,Under 18,Sex,Male,508,59.8,7,28
+Asthma ED Visit Rates,Santa Barbara,2012,Under 18,Sex,Male,424,84.8,7,28
+Asthma ED Visit Rates,Santa Clara,2012,Under 18,Sex,Male,1235,54.1,7,28
+Asthma ED Visit Rates,Santa Cruz,2012,Under 18,Sex,Male,254,88.7,7,28
+Asthma ED Visit Rates,Shasta,2012,Under 18,Sex,Male,157,79,7,28
+Asthma ED Visit Rates,Siskiyou,2012,Under 18,Sex,Male,25,54.3,7,28
+Asthma ED Visit Rates,Solano,2012,Under 18,Sex,Male,657,131.5,7,28
+Asthma ED Visit Rates,Sonoma,2012,Under 18,Sex,Male,376,70.4,7,28
+Asthma ED Visit Rates,Stanislaus,2012,Under 18,Sex,Male,680,92.2,7,28
+Asthma ED Visit Rates,Sutter,2012,Under 18,Sex,Male,55,42.1,7,28
+Asthma ED Visit Rates,Tehama,2012,Under 18,Sex,Male,65,82.6,7,28
+Asthma ED Visit Rates,Trinity,2012,Under 18,Sex,Male,5,,7,28
+Asthma ED Visit Rates,Tulare,2012,Under 18,Sex,Male,702,94.3,7,28
+Asthma ED Visit Rates,Tuolumne,2012,Under 18,Sex,Male,39,83.9,7,28
+Asthma ED Visit Rates,Ventura,2012,Under 18,Sex,Male,805,77.4,7,28
+Asthma ED Visit Rates,Yolo,2012,Under 18,Sex,Male,161,71.4,7,28
+Asthma ED Visit Rates,Yuba,2012,Under 18,Sex,Male,38,34.4,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Total Population,Under 18,2629,75.9,7,28
+Asthma ED Visit Rates,Amador,2011,Under 18,Total Population,Under 18,53,91.7,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Total Population,Under 18,295,63.8,7,28
+Asthma ED Visit Rates,Calaveras,2011,Under 18,Total Population,Under 18,67,84.1,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Total Population,Under 18,69617,75.8,7,28
+Asthma ED Visit Rates,Colusa,2011,Under 18,Total Population,Under 18,32,49.4,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Total Population,Under 18,2379,93.2,7,28
+Asthma ED Visit Rates,Del Norte,2011,Under 18,Total Population,Under 18,55,90,7,28
+Asthma ED Visit Rates,El Dorado,2011,Under 18,Total Population,Under 18,160,40.4,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Total Population,Under 18,3553,126.1,7,28
+Asthma ED Visit Rates,Glenn,2011,Under 18,Total Population,Under 18,42,53.1,7,28
+Asthma ED Visit Rates,Humboldt,2011,Under 18,Total Population,Under 18,177,65,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Total Population,Under 18,725,143.4,7,28
+Asthma ED Visit Rates,Inyo,2011,Under 18,Total Population,Under 18,31,79.9,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Total Population,Under 18,2091,82.1,7,28
+Asthma ED Visit Rates,Kings,2011,Under 18,Total Population,Under 18,595,138.3,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Total Population,Under 18,123,91.8,7,28
+Asthma ED Visit Rates,Lassen,2011,Under 18,Total Population,Under 18,29,49.8,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Total Population,Under 18,20328,87.2,7,28
+Asthma ED Visit Rates,Madera,2011,Under 18,Total Population,Under 18,613,142.2,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Total Population,Under 18,227,43.2,7,28
+Asthma ED Visit Rates,Mariposa,2011,Under 18,Total Population,Under 18,25,85.3,7,28
+Asthma ED Visit Rates,Mendocino,2011,Under 18,Total Population,Under 18,141,73.6,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Total Population,Under 18,891,110.7,7,28
+Asthma ED Visit Rates,Modoc,2011,Under 18,Total Population,Under 18,9,,7,28
+Asthma ED Visit Rates,Mono,2011,Under 18,Total Population,Under 18,6,,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Total Population,Under 18,955,84.1,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Total Population,Under 18,145,47.1,7,28
+Asthma ED Visit Rates,Nevada,2011,Under 18,Total Population,Under 18,118,66.3,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Total Population,Under 18,3585,50,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Total Population,Under 18,313,37.1,7,28
+Asthma ED Visit Rates,Plumas,2011,Under 18,Total Population,Under 18,30,89.9,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Total Population,Under 18,4013,66,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Total Population,Under 18,2895,79.8,7,28
+Asthma ED Visit Rates,San Benito,2011,Under 18,Total Population,Under 18,156,100.3,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Total Population,Under 18,5198,89.6,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Total Population,Under 18,4755,65.2,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Total Population,Under 18,777,66.8,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Total Population,Under 18,1579,79.5,7,28
+Asthma ED Visit Rates,San Luis Obispo,2011,Under 18,Total Population,Under 18,267,53.3,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Total Population,Under 18,871,53.1,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Total Population,Under 18,547,55.7,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Total Population,Under 18,1895,43.1,7,28
+Asthma ED Visit Rates,Santa Cruz,2011,Under 18,Total Population,Under 18,367,66.1,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Total Population,Under 18,284,73.2,7,28
+Asthma ED Visit Rates,Sierra,2011,Under 18,Total Population,Under 18,5,,7,28
+Asthma ED Visit Rates,Siskiyou,2011,Under 18,Total Population,Under 18,42,46.8,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Total Population,Under 18,1056,107.4,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Total Population,Under 18,633,60.5,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Total Population,Under 18,1028,70.9,7,28
+Asthma ED Visit Rates,Sutter,2011,Under 18,Total Population,Under 18,77,30.2,7,28
+Asthma ED Visit Rates,Tehama,2011,Under 18,Total Population,Under 18,81,51,7,28
+Asthma ED Visit Rates,Trinity,2011,Under 18,Total Population,Under 18,18,75.8,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Total Population,Under 18,1076,74.1,7,28
+Asthma ED Visit Rates,Tuolumne,2011,Under 18,Total Population,Under 18,73,78.6,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Total Population,Under 18,1164,56.5,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Total Population,Under 18,227,49.9,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Total Population,Under 18,111,52.8,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Race-Ethnicity,African-American,780,195.1,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Race-Ethnicity,African-American,20,285,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Race-Ethnicity,African-American,12244,244.3,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Race-Ethnicity,African-American,667,285.4,7,28
+Asthma ED Visit Rates,El Dorado,2011,Under 18,Race-Ethnicity,African-American,8,,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Race-Ethnicity,African-American,322,238.5,7,28
+Asthma ED Visit Rates,Humboldt,2011,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Race-Ethnicity,African-American,10,,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Race-Ethnicity,African-American,377,292.4,7,28
+Asthma ED Visit Rates,Kings,2011,Under 18,Race-Ethnicity,African-American,64,376.3,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Race-Ethnicity,African-American,15,932.6,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Race-Ethnicity,African-American,4470,256.1,7,28
+Asthma ED Visit Rates,Madera,2011,Under 18,Race-Ethnicity,African-American,31,456.1,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Race-Ethnicity,African-American,21,190.8,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Race-Ethnicity,African-American,91,417.4,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Race-Ethnicity,African-American,40,257.1,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Race-Ethnicity,African-American,8,,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Race-Ethnicity,African-American,188,191.6,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Race-Ethnicity,African-American,14,142.4,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Race-Ethnicity,African-American,776,223.8,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Race-Ethnicity,African-American,920,241,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Race-Ethnicity,African-American,1359,283.5,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Race-Ethnicity,African-American,654,188.3,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Race-Ethnicity,African-American,154,209.1,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Race-Ethnicity,African-American,347,244,7,28
+Asthma ED Visit Rates,San Luis Obispo,2011,Under 18,Race-Ethnicity,African-American,12,226.5,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Race-Ethnicity,African-American,48,144,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Race-Ethnicity,African-American,20,168.2,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Race-Ethnicity,African-American,140,153.7,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Race-Ethnicity,African-American,15,342.6,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Race-Ethnicity,African-American,416,330,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Race-Ethnicity,African-American,44,281.2,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Race-Ethnicity,African-American,88,277.3,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Race-Ethnicity,African-American,42,277.7,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Race-Ethnicity,African-American,48,193.3,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Race-Ethnicity,African-American,9,,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Race-Ethnicity,African-American,5,,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,159,44,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Inyo,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,10,,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,6,,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,20,56.8,7,28
+Asthma ED Visit Rates,Mendocino,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,8,,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,11,,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,10,,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,9,,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,7,,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Siskiyou,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Race-Ethnicity,American Indian/Alaskan Native,5,,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,312,35,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,2970,30.1,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,154,46.2,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,104,40.8,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,13,17.2,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,604,27.3,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,9,,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,15,36.8,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,7,,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,273,24.5,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,9,,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,42,14.3,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,192,35.7,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,77,28.3,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,246,36.4,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,158,44.6,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,85,33,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,131,34.5,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,308,21.9,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,66,57,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,20,56.5,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,23,39.5,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,8,,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,45,39,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,11,,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Race-Ethnicity,Asian/Pacific Islander,5,,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Race-Ethnicity,Hispanic,756,66.5,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Race-Ethnicity,Hispanic,69,61.8,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Race-Ethnicity,Hispanic,35182,74,7,28
+Asthma ED Visit Rates,Colusa,2011,Under 18,Race-Ethnicity,Hispanic,14,30.5,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Race-Ethnicity,Hispanic,851,96.1,7,28
+Asthma ED Visit Rates,Del Norte,2011,Under 18,Race-Ethnicity,Hispanic,,129.6,7,28
+Asthma ED Visit Rates,El Dorado,2011,Under 18,Race-Ethnicity,Hispanic,16,18.9,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Race-Ethnicity,Hispanic,2338,130.8,7,28
+Asthma ED Visit Rates,Glenn,2011,Under 18,Race-Ethnicity,Hispanic,23,55.8,7,28
+Asthma ED Visit Rates,Humboldt,2011,Under 18,Race-Ethnicity,Hispanic,17,36,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Race-Ethnicity,Hispanic,638,142.5,7,28
+Asthma ED Visit Rates,Inyo,2011,Under 18,Race-Ethnicity,Hispanic,9,,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Race-Ethnicity,Hispanic,1062,66.9,7,28
+Asthma ED Visit Rates,Kings,2011,Under 18,Race-Ethnicity,Hispanic,334,123,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Race-Ethnicity,Hispanic,23,54.6,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Race-Ethnicity,Hispanic,12072,82.8,7,28
+Asthma ED Visit Rates,Madera,2011,Under 18,Race-Ethnicity,Hispanic,466,148.1,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Race-Ethnicity,Hispanic,87,71.6,7,28
+Asthma ED Visit Rates,Mendocino,2011,Under 18,Race-Ethnicity,Hispanic,54,69.9,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Race-Ethnicity,Hispanic,538,99.3,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Race-Ethnicity,Hispanic,745,87.9,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Race-Ethnicity,Hispanic,73,47.4,7,28
+Asthma ED Visit Rates,Nevada,2011,Under 18,Race-Ethnicity,Hispanic,13,42.7,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Race-Ethnicity,Hispanic,1917,56.1,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Race-Ethnicity,Hispanic,50,28.3,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Race-Ethnicity,Hispanic,2012,55.5,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Race-Ethnicity,Hispanic,689,61,7,28
+Asthma ED Visit Rates,San Benito,2011,Under 18,Race-Ethnicity,Hispanic,113,100.2,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Race-Ethnicity,Hispanic,2323,65.2,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Race-Ethnicity,Hispanic,2296,68.8,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Race-Ethnicity,Hispanic,177,66.3,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Race-Ethnicity,Hispanic,682,66.8,7,28
+Asthma ED Visit Rates,San Luis Obispo,2011,Under 18,Race-Ethnicity,Hispanic,84,46.1,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Race-Ethnicity,Hispanic,386,67.5,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Race-Ethnicity,Hispanic,360,57.4,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Race-Ethnicity,Hispanic,1016,62.6,7,28
+Asthma ED Visit Rates,Santa Cruz,2011,Under 18,Race-Ethnicity,Hispanic,258,88.2,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Race-Ethnicity,Hispanic,20,34.2,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Race-Ethnicity,Hispanic,254,71.5,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Race-Ethnicity,Hispanic,284,64.2,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Race-Ethnicity,Hispanic,496,60.7,7,28
+Asthma ED Visit Rates,Sutter,2011,Under 18,Race-Ethnicity,Hispanic,33,31.6,7,28
+Asthma ED Visit Rates,Tehama,2011,Under 18,Race-Ethnicity,Hispanic,17,30.1,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Race-Ethnicity,Hispanic,648,59.9,7,28
+Asthma ED Visit Rates,Tuolumne,2011,Under 18,Race-Ethnicity,Hispanic,7,,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Race-Ethnicity,Hispanic,666,58.4,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Race-Ethnicity,Hispanic,106,51.8,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Race-Ethnicity,Hispanic,37,48.2,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Race-Ethnicity,White,401,52.1,7,28
+Asthma ED Visit Rates,Amador,2011,Under 18,Race-Ethnicity,White,46,113.1,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Race-Ethnicity,White,190,69.5,7,28
+Asthma ED Visit Rates,Calaveras,2011,Under 18,Race-Ethnicity,White,55,94.7,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Race-Ethnicity,White,14905,59.9,7,28
+Asthma ED Visit Rates,Colusa,2011,Under 18,Race-Ethnicity,White,16,108.6,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Race-Ethnicity,White,513,56.6,7,28
+Asthma ED Visit Rates,Del Norte,2011,Under 18,Race-Ethnicity,White,29,88.5,7,28
+Asthma ED Visit Rates,El Dorado,2011,Under 18,Race-Ethnicity,White,125,45.6,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Race-Ethnicity,White,655,119.7,7,28
+Asthma ED Visit Rates,Glenn,2011,Under 18,Race-Ethnicity,White,19,60.4,7,28
+Asthma ED Visit Rates,Humboldt,2011,Under 18,Race-Ethnicity,White,135,80,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Race-Ethnicity,White,56,140.7,7,28
+Asthma ED Visit Rates,Inyo,2011,Under 18,Race-Ethnicity,White,11,,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Race-Ethnicity,White,497,73.5,7,28
+Asthma ED Visit Rates,Kings,2011,Under 18,Race-Ethnicity,White,167,155.5,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Race-Ethnicity,White,77,100,7,28
+Asthma ED Visit Rates,Lassen,2011,Under 18,Race-Ethnicity,White,24,58,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Race-Ethnicity,White,2292,57.3,7,28
+Asthma ED Visit Rates,Madera,2011,Under 18,Race-Ethnicity,White,106,115.4,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Race-Ethnicity,White,100,30.3,7,28
+Asthma ED Visit Rates,Mariposa,2011,Under 18,Race-Ethnicity,White,20,91.4,7,28
+Asthma ED Visit Rates,Mendocino,2011,Under 18,Race-Ethnicity,White,76,82.2,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Race-Ethnicity,White,234,136.2,7,28
+Asthma ED Visit Rates,Modoc,2011,Under 18,Race-Ethnicity,White,7,,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Race-Ethnicity,White,98,51.7,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Race-Ethnicity,White,50,42.8,7,28
+Asthma ED Visit Rates,Nevada,2011,Under 18,Race-Ethnicity,White,98,72.8,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Race-Ethnicity,White,995,45,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Race-Ethnicity,White,224,41.3,7,28
+Asthma ED Visit Rates,Plumas,2011,Under 18,Race-Ethnicity,White,25,102.7,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Race-Ethnicity,White,1004,64,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Race-Ethnicity,White,794,62.3,7,28
+Asthma ED Visit Rates,San Benito,2011,Under 18,Race-Ethnicity,White,35,100.6,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Race-Ethnicity,White,1199,94.1,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Race-Ethnicity,White,1061,43.4,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Race-Ethnicity,White,200,56.4,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Race-Ethnicity,White,361,79.4,7,28
+Asthma ED Visit Rates,San Luis Obispo,2011,Under 18,Race-Ethnicity,White,152,55,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Race-Ethnicity,White,197,37.3,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Race-Ethnicity,White,154,55.2,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Race-Ethnicity,White,308,30,7,28
+Asthma ED Visit Rates,Santa Cruz,2011,Under 18,Race-Ethnicity,White,88,39.5,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Race-Ethnicity,White,233,84.9,7,28
+Asthma ED Visit Rates,Sierra,2011,Under 18,Race-Ethnicity,White,5,,7,28
+Asthma ED Visit Rates,Siskiyou,2011,Under 18,Race-Ethnicity,White,32,54.5,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Race-Ethnicity,White,253,89.6,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Race-Ethnicity,White,263,53.4,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Race-Ethnicity,White,362,74.8,7,28
+Asthma ED Visit Rates,Sutter,2011,Under 18,Race-Ethnicity,White,36,36.5,7,28
+Asthma ED Visit Rates,Tehama,2011,Under 18,Race-Ethnicity,White,59,65.1,7,28
+Asthma ED Visit Rates,Trinity,2011,Under 18,Race-Ethnicity,White,14,80.1,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Race-Ethnicity,White,169,57.5,7,28
+Asthma ED Visit Rates,Tuolumne,2011,Under 18,Race-Ethnicity,White,64,92.3,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Race-Ethnicity,White,373,53.7,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Race-Ethnicity,White,84,49.6,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Race-Ethnicity,White,61,64.4,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Sex,Female,990,58.8,7,28
+Asthma ED Visit Rates,Amador,2011,Under 18,Sex,Female,19,67.3,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Sex,Female,122,53.4,7,28
+Asthma ED Visit Rates,Calaveras,2011,Under 18,Sex,Female,26,65.4,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Sex,Female,25133,55.9,7,28
+Asthma ED Visit Rates,Colusa,2011,Under 18,Sex,Female,5,,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Sex,Female,888,70.7,7,28
+Asthma ED Visit Rates,Del Norte,2011,Under 18,Sex,Female,28,91,7,28
+Asthma ED Visit Rates,El Dorado,2011,Under 18,Sex,Female,64,32.9,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Sex,Female,1334,96.9,7,28
+Asthma ED Visit Rates,Glenn,2011,Under 18,Sex,Female,11,,7,28
+Asthma ED Visit Rates,Humboldt,2011,Under 18,Sex,Female,66,50.1,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Sex,Female,251,101.1,7,28
+Asthma ED Visit Rates,Inyo,2011,Under 18,Sex,Female,18,94.9,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Sex,Female,805,64.6,7,28
+Asthma ED Visit Rates,Kings,2011,Under 18,Sex,Female,230,111.3,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Sex,Female,53,81.6,7,28
+Asthma ED Visit Rates,Lassen,2011,Under 18,Sex,Female,8,,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Sex,Female,7233,63.3,7,28
+Asthma ED Visit Rates,Madera,2011,Under 18,Sex,Female,247,117.3,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Sex,Female,81,31.7,7,28
+Asthma ED Visit Rates,Mariposa,2011,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Mendocino,2011,Under 18,Sex,Female,54,58.5,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Sex,Female,305,77.8,7,28
+Asthma ED Visit Rates,Mono,2011,Under 18,Sex,Female,5,,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Sex,Female,337,61.8,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Sex,Female,55,36.9,7,28
+Asthma ED Visit Rates,Nevada,2011,Under 18,Sex,Female,33,36.8,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Sex,Female,1253,35.7,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Sex,Female,146,34.9,7,28
+Asthma ED Visit Rates,Plumas,2011,Under 18,Sex,Female,12,72.9,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Sex,Female,1459,48.5,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Sex,Female,1034,58.4,7,28
+Asthma ED Visit Rates,San Benito,2011,Under 18,Sex,Female,63,81.1,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Sex,Female,1803,63.4,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Sex,Female,1678,47.2,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Sex,Female,294,51.1,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Sex,Female,528,54.5,7,28
+Asthma ED Visit Rates,San Luis Obispo,2011,Under 18,Sex,Female,96,39,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Sex,Female,353,44.2,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Sex,Female,210,43.5,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Sex,Female,646,30.3,7,28
+Asthma ED Visit Rates,Santa Cruz,2011,Under 18,Sex,Female,142,52.4,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Sex,Female,101,53.1,7,28
+Asthma ED Visit Rates,Siskiyou,2011,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Sex,Female,416,86.6,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Sex,Female,226,44.3,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Sex,Female,377,53.2,7,28
+Asthma ED Visit Rates,Sutter,2011,Under 18,Sex,Female,21,16.8,7,28
+Asthma ED Visit Rates,Tehama,2011,Under 18,Sex,Female,30,38.8,7,28
+Asthma ED Visit Rates,Trinity,2011,Under 18,Sex,Female,9,,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Sex,Female,387,54.6,7,28
+Asthma ED Visit Rates,Tuolumne,2011,Under 18,Sex,Female,41,90.7,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Sex,Female,398,39.3,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Sex,Female,79,35.2,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Sex,Female,40,40.1,7,28
+Asthma ED Visit Rates,Alameda,2011,Under 18,Sex,Male,1639,92,7,28
+Asthma ED Visit Rates,Amador,2011,Under 18,Sex,Male,34,117.7,7,28
+Asthma ED Visit Rates,Butte,2011,Under 18,Sex,Male,173,74,7,28
+Asthma ED Visit Rates,Calaveras,2011,Under 18,Sex,Male,41,102.6,7,28
+Asthma ED Visit Rates,California,2011,Under 18,Sex,Male,44483,94.8,7,28
+Asthma ED Visit Rates,Colusa,2011,Under 18,Sex,Male,27,78.8,7,28
+Asthma ED Visit Rates,Contra Costa,2011,Under 18,Sex,Male,1491,114.8,7,28
+Asthma ED Visit Rates,Del Norte,2011,Under 18,Sex,Male,27,88.5,7,28
+Asthma ED Visit Rates,El Dorado,2011,Under 18,Sex,Male,96,47.5,7,28
+Asthma ED Visit Rates,Fresno,2011,Under 18,Sex,Male,2219,153.9,7,28
+Asthma ED Visit Rates,Glenn,2011,Under 18,Sex,Male,31,75.5,7,28
+Asthma ED Visit Rates,Humboldt,2011,Under 18,Sex,Male,111,79.4,7,28
+Asthma ED Visit Rates,Imperial,2011,Under 18,Sex,Male,474,184.2,7,28
+Asthma ED Visit Rates,Inyo,2011,Under 18,Sex,Male,13,65.2,7,28
+Asthma ED Visit Rates,Kern,2011,Under 18,Sex,Male,1286,98.8,7,28
+Asthma ED Visit Rates,Kings,2011,Under 18,Sex,Male,365,164.3,7,28
+Asthma ED Visit Rates,Lake,2011,Under 18,Sex,Male,70,101.5,7,28
+Asthma ED Visit Rates,Lassen,2011,Under 18,Sex,Male,21,69.6,7,28
+Asthma ED Visit Rates,Los Angeles,2011,Under 18,Sex,Male,13095,110,7,28
+Asthma ED Visit Rates,Madera,2011,Under 18,Sex,Male,366,165.8,7,28
+Asthma ED Visit Rates,Marin,2011,Under 18,Sex,Male,146,54.2,7,28
+Asthma ED Visit Rates,Mariposa,2011,Under 18,Sex,Male,16,107.8,7,28
+Asthma ED Visit Rates,Mendocino,2011,Under 18,Sex,Male,87,87.2,7,28
+Asthma ED Visit Rates,Merced,2011,Under 18,Sex,Male,586,141.8,7,28
+Asthma ED Visit Rates,Modoc,2011,Under 18,Sex,Male,6,,7,28
+Asthma ED Visit Rates,Monterey,2011,Under 18,Sex,Male,618,105.2,7,28
+Asthma ED Visit Rates,Napa,2011,Under 18,Sex,Male,90,56.8,7,28
+Asthma ED Visit Rates,Nevada,2011,Under 18,Sex,Male,85,94,7,28
+Asthma ED Visit Rates,Orange,2011,Under 18,Sex,Male,2331,63.5,7,28
+Asthma ED Visit Rates,Placer,2011,Under 18,Sex,Male,167,39.2,7,28
+Asthma ED Visit Rates,Plumas,2011,Under 18,Sex,Male,18,106.4,7,28
+Asthma ED Visit Rates,Riverside,2011,Under 18,Sex,Male,2554,82.7,7,28
+Asthma ED Visit Rates,Sacramento,2011,Under 18,Sex,Male,1861,100.3,7,28
+Asthma ED Visit Rates,San Benito,2011,Under 18,Sex,Male,93,118,7,28
+Asthma ED Visit Rates,San Bernardino,2011,Under 18,Sex,Male,3395,114.5,7,28
+Asthma ED Visit Rates,San Diego,2011,Under 18,Sex,Male,3077,82.4,7,28
+Asthma ED Visit Rates,San Francisco,2011,Under 18,Sex,Male,483,82.1,7,28
+Asthma ED Visit Rates,San Joaquin,2011,Under 18,Sex,Male,1051,103.4,7,28
+Asthma ED Visit Rates,San Luis Obispo,2011,Under 18,Sex,Male,171,67.2,7,28
+Asthma ED Visit Rates,San Mateo,2011,Under 18,Sex,Male,518,61.5,7,28
+Asthma ED Visit Rates,Santa Barbara,2011,Under 18,Sex,Male,337,67.4,7,28
+Asthma ED Visit Rates,Santa Clara,2011,Under 18,Sex,Male,1249,55.2,7,28
+Asthma ED Visit Rates,Santa Cruz,2011,Under 18,Sex,Male,225,79.2,7,28
+Asthma ED Visit Rates,Shasta,2011,Under 18,Sex,Male,183,92.3,7,28
+Asthma ED Visit Rates,Siskiyou,2011,Under 18,Sex,Male,33,69.9,7,28
+Asthma ED Visit Rates,Solano,2011,Under 18,Sex,Male,640,126.9,7,28
+Asthma ED Visit Rates,Sonoma,2011,Under 18,Sex,Male,407,75.9,7,28
+Asthma ED Visit Rates,Stanislaus,2011,Under 18,Sex,Male,651,87.9,7,28
+Asthma ED Visit Rates,Sutter,2011,Under 18,Sex,Male,56,43.1,7,28
+Asthma ED Visit Rates,Tehama,2011,Under 18,Sex,Male,51,62.7,7,28
+Asthma ED Visit Rates,Trinity,2011,Under 18,Sex,Male,9,,7,28
+Asthma ED Visit Rates,Tulare,2011,Under 18,Sex,Male,689,92.6,7,28
+Asthma ED Visit Rates,Tuolumne,2011,Under 18,Sex,Male,32,66.9,7,28
+Asthma ED Visit Rates,Ventura,2011,Under 18,Sex,Male,766,73.1,7,28
+Asthma ED Visit Rates,Yolo,2011,Under 18,Sex,Male,148,64.1,7,28
+Asthma ED Visit Rates,Yuba,2011,Under 18,Sex,Male,71,64.4,7,28
+Asthma ED Visit Rates,California,2015,Under 18,Race-Ethnicity,Hispanic,39642,83.2,7,28
