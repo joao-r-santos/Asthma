@@ -1,6 +1,5 @@
-County,Number of ER visits,Rate of ER visists
+County,Number of ER visits,Rate of ER visits
 Alameda,3426,96.7
-Alpine,,
 Amador,45,85.1
 Butte,308,68.7
 Calaveras,46,63
@@ -44,7 +43,6 @@ Santa Barbara,689,70
 Santa Clara,1976,44.1
 Santa Cruz,343,60.8
 Shasta,300,78.1
-Sierra,,
 Siskiyou,43,50.4
 Solano,1141,119.4
 Sonoma,586,56.9

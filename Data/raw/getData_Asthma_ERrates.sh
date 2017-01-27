@@ -6,4 +6,4 @@ YEAR="2015"
 OUTFILE="Asthma_EDVisitRates_${YEAR}.csv"
 
 echo 'County,Number of ER visits,Rate of ER visists' > $OUTFILE
-grep ",$YEAR," $FILENAME | grep ',Total Population,' | cut -d',' -f2,7,8 >> $OUTFILE
+grep ",$YEAR," $FILENAME | grep ',Total Population,' | cut -d',' -f2,7,8 | sed '/California/d' >> $OUTFILE
