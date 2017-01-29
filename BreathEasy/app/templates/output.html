@@ -1,0 +1,66 @@
+{% extends "base_template.html" %}
+{% block content %}
+  <div class="container">
+
+    <div class="starter-template">
+      <h2>Output Page</h2>
+      <p>Enter a county in California</p>
+    </div>
+
+    <div class = "container">
+
+      <form  action="/output" method="GET">
+        <div class="form-group">
+          <label for="county_name">County:</label>
+          <input type="text" id="county_name" name='county_name' placeholder="e.g. Los Angeles">
+        </div>
+
+        <div>
+          <button type="submit" class="btn btn-default btn-lg">Submit</button>
+        </div>
+
+      </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+
+  </div><!-- /.container -->
+
+
+  <div class="container">
+    <div class="starter-template">
+      <h3>Results:</h3>
+      <p class="lead">Below is the result of your query.<br> You just took user input and looked up the information. Now we need to expand the functionality!</p>
+    </div>
+
+    <!--
+    <table class="table table-hover">
+      <tr><th>index</th><th>Attendant</th><th>Birth Month</th></tr>
+      {% for birth in births %}
+      <tr><td>{{ birth['index'] }}</td><td>{{ birth['attendant']}}</td><td> {{ birth['birth_month'] }}</td></tr>
+      {% endfor %}
+    </table>
+    -->
+
+
+  </div><!-- /.container -->
+
+  <div class="container">
+    <div class="starter-template">
+      <h3>Print Result:</h3>
+      <p class="lead">We've taken the input and compared with our list of counties.</p>
+      {% if result %}
+        <p>The county is {{result}}.</p>
+      {% else %}
+        <p>There is no such county.<br>Try again.</p>
+      {% endif %}
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+
+
+  </div><!-- /.container -->
+
+{% endblock %}
