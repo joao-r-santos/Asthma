@@ -1,0 +1,14 @@
+EMXP - Extreme maximum precipitation for the period.
+EMSN - Extreme maximum snowfall for the period.
+EMXT - Extreme maximum temperature for the period.
+DSND - Number days with snow depth > 1 inch(25.4mm) for the period.
+SNOW - Snowfall
+PRCP - Precipitation
+HDSD - Heating Degree Days Season to Date
+CDSD - Cooling Degree Days Season to Date
+EMNT - Extreme minimum temperature for the period.
+TMAX - Maximum temperature
+DSNW - Number days with snow depth > 1 inch.
+EMSD - Extreme maximum snow depth for the period.
+TAVG - Average Temperature.
+TMIN - Minimum temperature
