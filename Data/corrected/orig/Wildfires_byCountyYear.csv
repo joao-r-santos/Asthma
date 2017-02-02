@@ -1,0 +1,871 @@
+County,Year,Total number of acres burned
+Alameda,2015,3458
+Alpine,2015,0
+Amador,2015,70892
+Butte,2015,16
+Calaveras,2015,293
+Colusa,2015,79
+Contra Costa,2015,363
+Del Norte,2015,6
+El Dorado,2015,376
+Fresno,2015,393
+Glenn,2015,3
+Humboldt,2015,3655
+Imperial,2015,0
+Inyo,2015,7002
+Kern,2015,0
+Kings,2015,2
+Lake,2015,171849
+Lassen,2015,215
+Los Angeles,2015,0
+Madera,2015,1151
+Marin,2015,0
+Mariposa,2015,113
+Mendocino,2015,364
+Merced,2015,3789
+Modoc,2015,184
+Mono,2015,0
+Monterey,2015,1206
+Napa,2015,8173
+Nevada,2015,2496
+Orange,2015,0
+Placer,2015,199
+Plumas,2015,2
+Riverside,2015,1256
+Sacramento,2015,606
+San Benito,2015,769
+San Bernardino,2015,53
+San Diego,2015,229
+San Francisco,2015,0
+San Joaquin,2015,140
+San Luis Obispo,2015,4463
+San Mateo,2015,37
+Santa Barbara,2015,0
+Santa Clara,2015,183
+Santa Cruz,2015,10
+Shasta,2015,768
+Sierra,2015,1
+Siskiyou,2015,516
+Solano,2015,191
+Sonoma,2015,129
+Stanislaus,2015,180
+Sutter,2015,0
+Tehama,2015,539
+Trinity,2015,3439
+Tulare,2015,740
+Tuolumne,2015,568
+Ventura,2015,0
+Yolo,2015,114
+Yuba,2015,72
+Alameda,2014,130
+Alpine,2014,0
+Amador,2014,179
+Butte,2014,559
+Calaveras,2014,322
+Colusa,2014,16
+Contra Costa,2014,210
+Del Norte,2014,14
+El Dorado,2014,102085
+Fresno,2014,242
+Glenn,2014,1
+Humboldt,2014,596
+Imperial,2014,0
+Inyo,2014,137
+Kern,2014,0
+Kings,2014,6
+Lake,2014,343
+Lassen,2014,13220
+Los Angeles,2014,0
+Madera,2014,998
+Marin,2014,0
+Mariposa,2014,527
+Mendocino,2014,13207
+Merced,2014,39
+Modoc,2014,18
+Mono,2014,0
+Monterey,2014,374
+Napa,2014,10956
+Nevada,2014,212
+Orange,2014,0
+Placer,2014,552
+Plumas,2014,0
+Riverside,2014,372
+Sacramento,2014,94
+San Benito,2014,24
+San Bernardino,2014,37
+San Diego,2014,927
+San Francisco,2014,0
+San Joaquin,2014,81
+San Luis Obispo,2014,112
+San Mateo,2014,9
+Santa Barbara,2014,0
+Santa Clara,2014,269
+Santa Cruz,2014,15
+Shasta,2014,12918
+Sierra,2014,0
+Siskiyou,2014,292
+Solano,2014,94
+Sonoma,2014,82
+Stanislaus,2014,417
+Sutter,2014,0
+Tehama,2014,343
+Trinity,2014,466
+Tulare,2014,321
+Tuolumne,2014,725
+Ventura,2014,0
+Yolo,2014,400
+Yuba,2014,126
+Alameda,2013,843
+Alpine,2013,0
+Amador,2013,221
+Butte,2013,3416
+Calaveras,2013,211
+Colusa,2013,11
+Contra Costa,2013,3971
+Del Norte,2013,15
+El Dorado,2013,586
+Fresno,2013,509
+Glenn,2013,224
+Humboldt,2013,335
+Imperial,2013,0
+Inyo,2013,438
+Kern,2013,0
+Kings,2013,6
+Lake,2013,870
+Lassen,2013,181
+Los Angeles,2013,0
+Madera,2013,1153
+Marin,2013,0
+Mariposa,2013,132
+Mendocino,2013,696
+Merced,2013,286
+Modoc,2013,629
+Mono,2013,0
+Monterey,2013,202
+Napa,2013,447
+Nevada,2013,131
+Orange,2013,0
+Placer,2013,175
+Plumas,2013,2
+Riverside,2013,49460
+Sacramento,2013,83
+San Benito,2013,466
+San Bernardino,2013,666
+San Diego,2013,13319
+San Francisco,2013,0
+San Joaquin,2013,476
+San Luis Obispo,2013,407
+San Mateo,2013,13
+Santa Barbara,2013,0
+Santa Clara,2013,148
+Santa Cruz,2013,45
+Shasta,2013,8696
+Sierra,2013,4
+Siskiyou,2013,135
+Solano,2013,166
+Sonoma,2013,4189
+Stanislaus,2013,272
+Sutter,2013,1
+Tehama,2013,19064
+Trinity,2013,23
+Tulare,2013,529
+Tuolumne,2013,203
+Ventura,2013,0
+Yolo,2013,189
+Yuba,2013,229
+Alameda,2012,115
+Alpine,2012,0
+Amador,2012,102
+Butte,2012,311
+Calaveras,2012,569
+Colusa,2012,4285
+Contra Costa,2012,145
+Del Norte,2012,122
+El Dorado,2012,297
+Fresno,2012,574
+Glenn,2012,5
+Humboldt,2012,216
+Imperial,2012,0
+Inyo,2012,21
+Kern,2012,0
+Kings,2012,52
+Lake,2012,8355
+Lassen,2012,298
+Los Angeles,2012,0
+Madera,2012,188
+Marin,2012,0
+Mariposa,2012,1750
+Mendocino,2012,5333
+Merced,2012,456
+Modoc,2012,13
+Mono,2012,0
+Monterey,2012,2817
+Napa,2012,236
+Nevada,2012,72
+Orange,2012,0
+Placer,2012,2724
+Plumas,2012,101
+Riverside,2012,6256
+Sacramento,2012,89
+San Benito,2012,55
+San Bernardino,2012,1466
+San Diego,2012,35213
+San Francisco,2012,0
+San Joaquin,2012,291
+San Luis Obispo,2012,1121
+San Mateo,2012,20
+Santa Barbara,2012,0
+Santa Clara,2012,26
+Santa Cruz,2012,122
+Shasta,2012,2134
+Sierra,2012,2
+Siskiyou,2012,592
+Solano,2012,235
+Sonoma,2012,123
+Stanislaus,2012,89
+Sutter,2012,0
+Tehama,2012,30285
+Trinity,2012,20
+Tulare,2012,187
+Tuolumne,2012,1174
+Ventura,2012,0
+Yolo,2012,20182
+Yuba,2012,117
+Alameda,2011,1507
+Alpine,2011,0
+Amador,2011,115
+Butte,2011,276
+Calaveras,2011,1146
+Colusa,2011,77
+Contra Costa,2011,474
+Del Norte,2011,3
+El Dorado,2011,109
+Fresno,2011,1318
+Glenn,2011,2
+Humboldt,2011,695
+Imperial,2011,0
+Inyo,2011,6551
+Kern,2011,0
+Kings,2011,48
+Lake,2011,83
+Lassen,2011,59
+Los Angeles,2011,0
+Madera,2011,702
+Marin,2011,0
+Mariposa,2011,112
+Mendocino,2011,766
+Merced,2011,1397
+Modoc,2011,33
+Mono,2011,0
+Monterey,2011,1801
+Napa,2011,619
+Nevada,2011,44
+Orange,2011,0
+Placer,2011,58
+Plumas,2011,4
+Riverside,2011,2318
+Sacramento,2011,60
+San Benito,2011,119
+San Bernardino,2011,1992
+San Diego,2011,17439
+San Francisco,2011,0
+San Joaquin,2011,339
+San Luis Obispo,2011,2391
+San Mateo,2011,6
+Santa Barbara,2011,0
+Santa Clara,2011,113
+Santa Cruz,2011,20
+Shasta,2011,347
+Sierra,2011,14
+Siskiyou,2011,104
+Solano,2011,749
+Sonoma,2011,69
+Stanislaus,2011,2210
+Sutter,2011,357
+Tehama,2011,325
+Trinity,2011,70
+Tulare,2011,3454
+Tuolumne,2011,335
+Ventura,2011,0
+Yolo,2011,207
+Yuba,2011,852
+Alameda,2010,850
+Alpine,2010,0
+Amador,2010,42
+Butte,2010,190
+Calaveras,2010,229
+Colusa,2010,7
+Contra Costa,2010,409
+Del Norte,2010,22
+El Dorado,2010,133
+Fresno,2010,360
+Glenn,2010,8
+Humboldt,2010,250
+Imperial,2010,0
+Inyo,2010,3
+Kern,2010,0
+Kings,2010,0
+Lake,2010,506
+Lassen,2010,332
+Los Angeles,2010,0
+Madera,2010,156
+Marin,2010,0
+Mariposa,2010,175
+Mendocino,2010,235
+Merced,2010,3059
+Modoc,2010,86
+Mono,2010,0
+Monterey,2010,403
+Napa,2010,171
+Nevada,2010,55
+Orange,2010,0
+Placer,2010,289
+Plumas,2010,1
+Riverside,2010,4547
+Sacramento,2010,213
+San Benito,2010,156
+San Bernardino,2010,321
+San Diego,2010,3594
+San Francisco,2010,0
+San Joaquin,2010,241
+San Luis Obispo,2010,2018
+San Mateo,2010,11
+Santa Barbara,2010,0
+Santa Clara,2010,68
+Santa Cruz,2010,23
+Shasta,2010,413
+Sierra,2010,4
+Siskiyou,2010,62
+Solano,2010,68
+Sonoma,2010,234
+Stanislaus,2010,790
+Sutter,2010,0
+Tehama,2010,240
+Trinity,2010,16
+Tulare,2010,2519
+Tuolumne,2010,298
+Ventura,2010,0
+Yolo,2010,39
+Yuba,2010,1588
+Alameda,2009,545
+Alpine,2009,0
+Amador,2009,80
+Butte,2009,144
+Calaveras,2009,673
+Colusa,2009,15
+Contra Costa,2009,348
+Del Norte,2009,312
+El Dorado,2009,132
+Fresno,2009,267
+Glenn,2009,3
+Humboldt,2009,735
+Imperial,2009,0
+Inyo,2009,1012
+Kern,2009,0
+Kings,2009,0
+Lake,2009,1560
+Lassen,2009,1148
+Los Angeles,2009,0
+Madera,2009,510
+Marin,2009,0
+Mariposa,2009,159
+Mendocino,2009,321
+Merced,2009,73
+Modoc,2009,203
+Mono,2009,0
+Monterey,2009,9939
+Napa,2009,204
+Nevada,2009,78
+Orange,2009,0
+Placer,2009,1097
+Plumas,2009,32
+Riverside,2009,2544
+Sacramento,2009,248
+San Benito,2009,115
+San Bernardino,2009,1205
+San Diego,2009,421
+San Francisco,2009,0
+San Joaquin,2009,14570
+San Luis Obispo,2009,405
+San Mateo,2009,7
+Santa Barbara,2009,0
+Santa Clara,2009,1631
+Santa Cruz,2009,8330
+Shasta,2009,18123
+Sierra,2009,0
+Siskiyou,2009,292
+Solano,2009,212
+Sonoma,2009,290
+Stanislaus,2009,1097
+Sutter,2009,0
+Tehama,2009,106
+Trinity,2009,1382
+Tulare,2009,642
+Tuolumne,2009,52
+Ventura,2009,0
+Yolo,2009,736
+Yuba,2009,3962
+Alameda,2008,196
+Alpine,2008,0
+Amador,2008,348
+Butte,2008,79766
+Calaveras,2008,413
+Colusa,2008,76
+Contra Costa,2008,164
+Del Norte,2008,34
+El Dorado,2008,787
+Fresno,2008,1822
+Glenn,2008,57
+Humboldt,2008,1629
+Imperial,2008,0
+Inyo,2008,783
+Kern,2008,0
+Kings,2008,974
+Lake,2008,15115
+Lassen,2008,15890
+Los Angeles,2008,0
+Madera,2008,3673
+Marin,2008,0
+Mariposa,2008,37506
+Mendocino,2008,66215
+Merced,2008,1575
+Modoc,2008,40
+Mono,2008,0
+Monterey,2008,782
+Napa,2008,4835
+Nevada,2008,127
+Orange,2008,0
+Placer,2008,1512
+Plumas,2008,3
+Riverside,2008,31025
+Sacramento,2008,53
+San Benito,2008,3889
+San Bernardino,2008,606
+San Diego,2008,985
+San Francisco,2008,0
+San Joaquin,2008,109
+San Luis Obispo,2008,472
+San Mateo,2008,328
+Santa Barbara,2008,0
+Santa Clara,2008,5063
+Santa Cruz,2008,1321
+Shasta,2008,64418
+Sierra,2008,0
+Siskiyou,2008,236
+Solano,2008,9
+Sonoma,2008,1342
+Stanislaus,2008,591
+Sutter,2008,0
+Tehama,2008,15461
+Trinity,2008,14506
+Tulare,2008,3238
+Tuolumne,2008,1674
+Ventura,2008,0
+Yolo,2008,372
+Yuba,2008,291
+Alameda,2007,426
+Alpine,2007,0
+Amador,2007,281
+Butte,2007,2756
+Calaveras,2007,521
+Colusa,2007,8
+Contra Costa,2007,466
+Del Norte,2007,23
+El Dorado,2007,658
+Fresno,2007,812
+Glenn,2007,5
+Humboldt,2007,251
+Imperial,2007,0
+Inyo,2007,80
+Kern,2007,0
+Kings,2007,5680
+Lake,2007,430
+Lassen,2007,830
+Los Angeles,2007,0
+Madera,2007,589
+Marin,2007,0
+Mariposa,2007,164
+Mendocino,2007,710
+Merced,2007,215
+Modoc,2007,119
+Mono,2007,0
+Monterey,2007,417
+Napa,2007,591
+Nevada,2007,424
+Orange,2007,0
+Placer,2007,259
+Plumas,2007,3
+Riverside,2007,5019
+Sacramento,2007,284
+San Benito,2007,583
+San Bernardino,2007,1068
+San Diego,2007,350409
+San Francisco,2007,0
+San Joaquin,2007,540
+San Luis Obispo,2007,853
+San Mateo,2007,26
+Santa Barbara,2007,0
+Santa Clara,2007,48274
+Santa Cruz,2007,43
+Shasta,2007,1701
+Sierra,2007,0
+Siskiyou,2007,1480
+Solano,2007,57
+Sonoma,2007,308
+Stanislaus,2007,1116
+Sutter,2007,0
+Tehama,2007,1827
+Trinity,2007,53
+Tulare,2007,3240
+Tuolumne,2007,258
+Ventura,2007,0
+Yolo,2007,426
+Yuba,2007,384
+Alameda,2006,260
+Alpine,2006,0
+Amador,2006,568
+Butte,2006,799
+Calaveras,2006,1342
+Colusa,2006,335
+Contra Costa,2006,339
+Del Norte,2006,14
+El Dorado,2006,754
+Fresno,2006,11673
+Glenn,2006,1
+Humboldt,2006,191
+Imperial,2006,0
+Inyo,2006,0
+Kern,2006,0
+Kings,2006,32
+Lake,2006,1132
+Lassen,2006,2458
+Los Angeles,2006,0
+Madera,2006,735
+Marin,2006,0
+Mariposa,2006,846
+Mendocino,2006,1600
+Merced,2006,1590
+Modoc,2006,866
+Mono,2006,0
+Monterey,2006,15101
+Napa,2006,679
+Nevada,2006,66
+Orange,2006,0
+Placer,2006,124
+Plumas,2006,1
+Riverside,2006,46843
+Sacramento,2006,198
+San Benito,2006,90
+San Bernardino,2006,68443
+San Diego,2006,1729
+San Francisco,2006,0
+San Joaquin,2006,7644
+San Luis Obispo,2006,2235
+San Mateo,2006,5
+Santa Barbara,2006,0
+Santa Clara,2006,653
+Santa Cruz,2006,28
+Shasta,2006,1211
+Sierra,2006,0
+Siskiyou,2006,3082
+Solano,2006,129
+Sonoma,2006,297
+Stanislaus,2006,38169
+Sutter,2006,0
+Tehama,2006,320
+Trinity,2006,3149
+Tulare,2006,3155
+Tuolumne,2006,2759
+Ventura,2006,0
+Yolo,2006,741
+Yuba,2006,510
+Alameda,2005,6975
+Alpine,2005,0
+Amador,2005,221
+Butte,2005,208
+Calaveras,2005,894
+Colusa,2005,46
+Contra Costa,2005,1692
+Del Norte,2005,1
+El Dorado,2005,295
+Fresno,2005,7250
+Glenn,2005,52
+Humboldt,2005,89
+Imperial,2005,0
+Inyo,2005,167
+Kern,2005,0
+Kings,2005,8
+Lake,2005,1023
+Lassen,2005,31
+Los Angeles,2005,0
+Madera,2005,2579
+Marin,2005,0
+Mariposa,2005,1643
+Mendocino,2005,628
+Merced,2005,6730
+Modoc,2005,6
+Mono,2005,0
+Monterey,2005,1985
+Napa,2005,320
+Nevada,2005,128
+Orange,2005,0
+Placer,2005,115
+Plumas,2005,0
+Riverside,2005,10828
+Sacramento,2005,387
+San Benito,2005,63
+San Bernardino,2005,5783
+San Diego,2005,6380
+San Francisco,2005,0
+San Joaquin,2005,113
+San Luis Obispo,2005,677
+San Mateo,2005,10
+Santa Barbara,2005,0
+Santa Clara,2005,119
+Santa Cruz,2005,21
+Shasta,2005,660
+Sierra,2005,0
+Siskiyou,2005,1113
+Solano,2005,532
+Sonoma,2005,60
+Stanislaus,2005,1949
+Sutter,2005,0
+Tehama,2005,5624
+Trinity,2005,8
+Tulare,2005,5462
+Tuolumne,2005,276
+Ventura,2005,0
+Yolo,2005,740
+Yuba,2005,115
+Alameda,2004,101
+Alpine,2004,0
+Amador,2004,337
+Butte,2004,2186
+Calaveras,2004,4630
+Colusa,2004,55
+Contra Costa,2004,631
+Del Norte,2004,20
+El Dorado,2004,320
+Fresno,2004,1632
+Glenn,2004,0
+Humboldt,2004,428
+Imperial,2004,0
+Inyo,2004,167
+Kern,2004,0
+Kings,2004,0
+Lake,2004,13107
+Lassen,2004,3604
+Los Angeles,2004,0
+Madera,2004,511
+Marin,2004,0
+Mariposa,2004,2268
+Mendocino,2004,685
+Merced,2004,815
+Modoc,2004,118
+Mono,2004,0
+Monterey,2004,504
+Napa,2004,1263
+Nevada,2004,161
+Orange,2004,0
+Placer,2004,1066
+Plumas,2004,1
+Riverside,2004,39804
+Sacramento,2004,865
+San Benito,2004,339
+San Bernardino,2004,158
+San Diego,2004,11008
+San Francisco,2004,0
+San Joaquin,2004,1282
+San Luis Obispo,2004,535
+San Mateo,2004,10
+Santa Barbara,2004,0
+Santa Clara,2004,1798
+Santa Cruz,2004,31
+Shasta,2004,24649
+Sierra,2004,0
+Siskiyou,2004,3245
+Solano,2004,565
+Sonoma,2004,594
+Stanislaus,2004,56
+Sutter,2004,0
+Tehama,2004,1396
+Trinity,2004,11
+Tulare,2004,3147
+Tuolumne,2004,4240
+Ventura,2004,0
+Yolo,2004,39263
+Yuba,2004,527
+Alameda,2003,714
+Alpine,2003,0
+Amador,2003,610
+Butte,2003,1127
+Calaveras,2003,740
+Colusa,2003,233
+Contra Costa,2003,852
+Del Norte,2003,7
+El Dorado,2003,535
+Fresno,2003,908
+Glenn,2003,508
+Humboldt,2003,25275
+Imperial,2003,0
+Inyo,2003,40
+Kern,2003,0
+Kings,2003,0
+Lake,2003,1441
+Lassen,2003,1340
+Los Angeles,2003,0
+Madera,2003,1425
+Marin,2003,0
+Mariposa,2003,1512
+Mendocino,2003,1026
+Merced,2003,2960
+Modoc,2003,33
+Mono,2003,1
+Monterey,2003,581
+Napa,2003,551
+Nevada,2003,266
+Orange,2003,0
+Placer,2003,213
+Plumas,2003,1
+Riverside,2003,21814
+Sacramento,2003,39
+San Benito,2003,833
+San Bernardino,2003,12802
+San Diego,2003,266535
+San Francisco,2003,0
+San Joaquin,2003,6831
+San Luis Obispo,2003,3404
+San Mateo,2003,80
+Santa Barbara,2003,0
+Santa Clara,2003,33511
+Santa Cruz,2003,19
+Shasta,2003,1867
+Sierra,2003,0
+Siskiyou,2003,316
+Solano,2003,134
+Sonoma,2003,251
+Stanislaus,2003,6205
+Sutter,2003,0
+Tehama,2003,1294
+Trinity,2003,4
+Tulare,2003,1725
+Tuolumne,2003,1382
+Ventura,2003,0
+Yolo,2003,2163
+Yuba,2003,221
+Alameda,2002,1890
+Alpine,2002,0
+Amador,2002,610
+Butte,2002,3059
+Calaveras,2002,1448
+Colusa,2002,209
+Contra Costa,2002,1014
+Del Norte,2002,172
+El Dorado,2002,1118
+Fresno,2002,1203
+Glenn,2002,3
+Humboldt,2002,116
+Imperial,2002,0
+Inyo,2002,1121
+Kern,2002,0
+Kings,2002,0
+Lake,2002,302
+Lassen,2002,26
+Los Angeles,2002,0
+Madera,2002,471
+Marin,2002,0
+Mariposa,2002,471
+Mendocino,2002,2398
+Merced,2002,1520
+Modoc,2002,85
+Mono,2002,0
+Monterey,2002,291
+Napa,2002,948
+Nevada,2002,397
+Orange,2002,0
+Placer,2002,617
+Plumas,2002,2
+Riverside,2002,1625
+Sacramento,2002,247
+San Benito,2002,262
+San Bernardino,2002,193
+San Diego,2002,70795
+San Francisco,2002,0
+San Joaquin,2002,258
+San Luis Obispo,2002,3991
+San Mateo,2002,24
+Santa Barbara,2002,0
+Santa Clara,2002,3646
+Santa Cruz,2002,45
+Shasta,2002,1016
+Sierra,2002,0
+Siskiyou,2002,3588
+Solano,2002,484
+Sonoma,2002,186
+Stanislaus,2002,1345
+Sutter,2002,0
+Tehama,2002,892
+Trinity,2002,12
+Tulare,2002,1525
+Tuolumne,2002,130
+Ventura,2002,0
+Yolo,2002,1565
+Yuba,2002,1490
+Alameda,2001,638
+Alpine,2001,0
+Amador,2001,3470
+Butte,2001,10436
+Calaveras,2001,20902
+Colusa,2001,7
+Contra Costa,2001,145
+Del Norte,2001,20
+El Dorado,2001,428
+Fresno,2001,354
+Glenn,2001,87
+Humboldt,2001,768
+Imperial,2001,3
+Inyo,2001,68
+Kern,2001,0
+Kings,2001,1
+Lake,2001,373
+Lassen,2001,5475
+Los Angeles,2001,0
+Madera,2001,733
+Marin,2001,0
+Mariposa,2001,12222
+Mendocino,2001,1326
+Merced,2001,2566
+Modoc,2001,563
+Mono,2001,0
+Monterey,2001,282
+Napa,2001,154
+Nevada,2001,5660
+Orange,2001,0
+Placer,2001,3412
+Plumas,2001,4
+Riverside,2001,4811
+Sacramento,2001,866
+San Benito,2001,685
+San Bernardino,2001,258
+San Diego,2001,4132
+San Francisco,2001,0
+San Joaquin,2001,68
+San Luis Obispo,2001,616
+San Mateo,2001,17
+Santa Barbara,2001,0
+Santa Clara,2001,276
+Santa Cruz,2001,109
+Shasta,2001,2259
+Sierra,2001,0
+Siskiyou,2001,529
+Solano,2001,62
+Sonoma,2001,551
+Stanislaus,2001,269
+Sutter,2001,0
+Tehama,2001,2531
+Trinity,2001,1690
+Tulare,2001,780
+Tuolumne,2001,173
+Ventura,2001,0
+Yolo,2001,71
+Yuba,2001,135
