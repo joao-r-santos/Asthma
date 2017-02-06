@@ -1,266 +1,4804 @@
-Rate (per 10k)
-75.9
-84.6
-92.6
-101.8
-96.7
-91.7
-88.0
-91.9
-81.1
-85.1
-63.8
-54.8
-61.5
-66.3
-68.7
-84.1
-46.5
-78.7
-87.3
-63.0
-49.4
-47.5
-62.5
-63.7
-77.0
-93.2
-104.1
-91.5
-96.1
-95.2
-90.0
-81.4
-85.1
-81.4
-85.2
-40.4
-44.2
-37.7
-54.0
-46.8
-126.1
-134.1
-134.4
-154.5
-156.0
-53.1
-41.5
-43.5
-53.5
-51.8
-65.0
-82.8
-79.3
-62.1
-59.3
-143.4
-152.5
-136.3
-149.6
-140.1
-79.9
-86.7
-82.5
-94.3
-92.0
-82.1
-96.5
-92.3
-98.7
-96.8
-138.3
-140.1
-131.9
-138.8
-143.4
-91.8
-83.8
-75.1
-89.3
-90.6
-87.2
-89.5
-87.9
-89.7
-88.7
-142.2
-155.5
-113.3
-138.8
-133.0
-43.2
-37.8
-36.4
-43.4
-33.5
-85.3
-73.2
-61.9
-31.3
-34.8
-73.6
-73.8
-55.2
-74.9
-69.0
-110.7
-122.7
-122.1
-132.6
-139.8
-22.5
-30.0
-29.5
-41.2
-52.7
-84.1
-78.3
-85.6
-81.0
-84.2
-47.1
-51.6
-53.2
-64.5
-62.5
-66.3
-55.5
-37.7
-39.1
-47.9
-50.0
-57.4
-54.6
-56.7
-59.7
-37.1
-37.0
-40.9
-40.3
-41.5
-89.9
-82.5
-89.3
-70.6
-65.2
-66.0
-66.9
-63.7
-65.6
-64.9
-79.8
-79.6
-84.0
-89.7
-90.8
-100.3
-70.0
-77.8
-77.0
-76.6
-89.6
-97.0
-92.3
-90.4
-87.7
-65.2
-70.8
-65.0
-61.8
-62.1
-66.8
-68.6
-62.3
-68.3
-64.9
-79.5
-78.6
-86.4
-90.9
-95.1
-53.3
-55.3
-46.4
-54.7
-65.0
-53.1
-49.8
-46.1
-51.9
-49.5
-55.7
-70.9
-67.6
-68.8
-70.0
-43.1
-42.9
-40.5
-41.5
-44.1
-66.1
-76.0
-68.7
-67.0
-60.8
-73.2
-68.8
-73.4
-81.3
-78.1
-46.8
-47.0
-50.9
-53.0
-50.4
-107.4
-109.3
-100.5
-113.9
-119.4
-60.5
-57.6
-54.2
-55.2
-56.9
-70.9
-75.4
-80.3
-94.4
-85.8
-30.2
-31.7
-30.3
-49.3
-47.5
-51.0
-68.0
-57.1
-75.7
-85.3
-75.8
-36.2
-22.6
-70.3
-31.7
-74.1
-73.4
-75.0
-77.2
-85.5
-78.6
-82.0
-80.8
-76.2
-60.9
-56.5
-59.4
-53.3
-61.6
-62.7
-49.9
-56.5
-57.2
-61.5
-67.7
+County,Year,Rate (per 10k)
+Alameda,2005,448.28
+Alameda,2005,708.98
+Alameda,2005,221.79
+Alameda,2005,254.14
+Alameda,2005,51.37
+Alameda,2005,80.43
+Alameda,2005,13.28
+Alameda,2005,25.66
+Alameda,2005,112.73
+Alameda,2005,166.05
+Alameda,2005,36.59
+Alameda,2005,62.09
+Alameda,2005,300.42
+Alameda,2005,486.71
+Alameda,2005,240.49
+Alameda,2005,294.98
+Alameda,2005,91.48
+Alameda,2005,158.67
+Alameda,2005,38.98
+Alameda,2005,56.63
+Alameda,2006,432.81
+Alameda,2006,744.91
+Alameda,2006,180.62
+Alameda,2006,271.29
+Alameda,2006,30.2
+Alameda,2006,87.84
+Alameda,2006,11.67
+Alameda,2006,20.39
+Alameda,2006,104.66
+Alameda,2006,185.34
+Alameda,2006,45.26
+Alameda,2006,71.33
+Alameda,2006,270.69
+Alameda,2006,489.56
+Alameda,2006,152.92
+Alameda,2006,205.74
+Alameda,2006,74.51
+Alameda,2006,164.21
+Alameda,2006,47.01
+Alameda,2006,61.8
+Alameda,2007,531.38
+Alameda,2007,749.09
+Alameda,2007,219.24
+Alameda,2007,255.17
+Alameda,2007,32.67
+Alameda,2007,111.75
+Alameda,2007,11.7
+Alameda,2007,20.66
+Alameda,2007,136.21
+Alameda,2007,225.44
+Alameda,2007,41.77
+Alameda,2007,61.81
+Alameda,2007,308.56
+Alameda,2007,435.95
+Alameda,2007,128.42
+Alameda,2007,150.64
+Alameda,2007,80.33
+Alameda,2007,150.62
+Alameda,2007,50.41
+Alameda,2007,55.21
+Alameda,2008,565.16
+Alameda,2008,679.93
+Alameda,2008,248.76
+Alameda,2008,280.46
+Alameda,2008,41.17
+Alameda,2008,78.74
+Alameda,2008,14.76
+Alameda,2008,20.94
+Alameda,2008,124.14
+Alameda,2008,227.71
+Alameda,2008,45.99
+Alameda,2008,71.38
+Alameda,2008,331.63
+Alameda,2008,439.51
+Alameda,2008,115.4
+Alameda,2008,138.77
+Alameda,2008,76.14
+Alameda,2008,181.69
+Alameda,2008,44.24
+Alameda,2008,56.05
+Alameda,2009,486.93
+Alameda,2009,715.23
+Alameda,2009,245.48
+Alameda,2009,348.69
+Alameda,2009,43.4
+Alameda,2009,89.08
+Alameda,2009,19.55
+Alameda,2009,30.4
+Alameda,2009,105.71
+Alameda,2009,207.2
+Alameda,2009,67.65
+Alameda,2009,88.25
+Alameda,2009,233.32
+Alameda,2009,407.36
+Alameda,2009,152.69
+Alameda,2009,186.62
+Alameda,2009,62.14
+Alameda,2009,141.67
+Alameda,2009,47.5
+Alameda,2009,68.44
+Alameda,2010,233.77
+Alameda,2010,408.64
+Alameda,2010,158.25
+Alameda,2010,222.94
+Alameda,2010,45.87
+Alameda,2010,69.11
+Alameda,2010,12.24
+Alameda,2010,30.73
+Alameda,2010,84.72
+Alameda,2010,152.77
+Alameda,2010,46.69
+Alameda,2010,69.45
+Alameda,2010,155.16
+Alameda,2010,242.42
+Alameda,2010,113.83
+Alameda,2010,160.64
+Alameda,2010,61.92
+Alameda,2010,108.57
+Alameda,2010,37.31
+Alameda,2010,53.83
+Alameda,2011,217.06
+Alameda,2011,353.47
+Alameda,2011,136.21
+Alameda,2011,183.85
+Alameda,2011,45.41
+Alameda,2011,87.56
+Alameda,2011,15.7
+Alameda,2011,29.78
+Alameda,2011,72.53
+Alameda,2011,139.12
+Alameda,2011,42.57
+Alameda,2011,61.52
+Alameda,2011,122.29
+Alameda,2011,298.76
+Alameda,2011,101.97
+Alameda,2011,129.21
+Alameda,2011,49.94
+Alameda,2011,66.33
+Alameda,2011,38.37
+Alameda,2011,59.36
+Alameda,2012,260.04
+Alameda,2012,449.87
+Alameda,2012,150.11
+Alameda,2012,233.43
+Alameda,2012,30.53
+Alameda,2012,77.05
+Alameda,2012,17.88
+Alameda,2012,28.8
+Alameda,2012,76.46
+Alameda,2012,159.48
+Alameda,2012,51.72
+Alameda,2012,78.84
+Alameda,2012,156.13
+Alameda,2012,354.39
+Alameda,2012,87.75
+Alameda,2012,112.31
+Alameda,2012,55.12
+Alameda,2012,93.5
+Alameda,2012,40.13
+Alameda,2012,48.67
+Alameda,2013,305.75
+Alameda,2013,495.09
+Alameda,2013,186.46
+Alameda,2013,266.0
+Alameda,2013,39.55
+Alameda,2013,85.71
+Alameda,2013,18.5
+Alameda,2013,27.61
+Alameda,2013,101.37
+Alameda,2013,188.71
+Alameda,2013,60.73
+Alameda,2013,86.11
+Alameda,2013,231.3
+Alameda,2013,344.91
+Alameda,2013,102.71
+Alameda,2013,136.36
+Alameda,2013,38.15
+Alameda,2013,74.56
+Alameda,2013,33.43
+Alameda,2013,45.07
+Alameda,2014,329.94
+Alameda,2014,596.67
+Alameda,2014,223.52
+Alameda,2014,304.49
+Alameda,2014,39.63
+Alameda,2014,74.65
+Alameda,2014,17.94
+Alameda,2014,31.88
+Alameda,2014,94.97
+Alameda,2014,196.55
+Alameda,2014,70.25
+Alameda,2014,101.44
+Alameda,2014,185.09
+Alameda,2014,422.13
+Alameda,2014,123.04
+Alameda,2014,170.9
+Alameda,2014,37.28
+Alameda,2014,67.38
+Alameda,2014,25.59
+Alameda,2014,39.69
+Amador,2005,78.88
+Amador,2006,79.0
+Amador,2006,68.12
+Amador,2009,87.55
+Amador,2009,80.85
+Amador,2010,106.36
+Amador,2011,90.37
+Amador,2011,120.85
+Amador,2012,77.73
+Amador,2012,144.07
+Amador,2013,139.16
+Amador,2013,113.76
+Amador,2014,107.87
+Amador,2014,87.21
+Butte,2005,110.13
+Butte,2005,35.5
+Butte,2005,48.56
+Butte,2005,138.06
+Butte,2005,29.23
+Butte,2005,54.43
+Butte,2006,61.73
+Butte,2006,115.33
+Butte,2006,20.73
+Butte,2006,39.78
+Butte,2007,34.61
+Butte,2007,106.55
+Butte,2007,32.66
+Butte,2007,48.68
+Butte,2008,74.53
+Butte,2008,112.36
+Butte,2008,21.88
+Butte,2008,45.24
+Butte,2009,1165.05
+Butte,2009,97.78
+Butte,2009,60.84
+Butte,2009,126.83
+Butte,2009,55.32
+Butte,2009,53.59
+Butte,2010,455.77
+Butte,2010,81.35
+Butte,2010,94.46
+Butte,2010,66.35
+Butte,2010,99.04
+Butte,2010,187.79
+Butte,2010,65.5
+Butte,2010,60.24
+Butte,2011,145.02
+Butte,2011,112.43
+Butte,2011,50.15
+Butte,2011,86.71
+Butte,2011,136.69
+Butte,2011,48.11
+Butte,2011,60.19
+Butte,2012,105.86
+Butte,2012,94.83
+Butte,2012,124.93
+Butte,2012,47.6
+Butte,2012,53.22
+Butte,2013,116.55
+Butte,2013,34.84
+Butte,2013,27.42
+Butte,2013,78.6
+Butte,2013,146.18
+Butte,2013,59.1
+Butte,2013,58.34
+Butte,2014,479.26
+Butte,2014,160.61
+Butte,2014,49.15
+Butte,2014,70.65
+Butte,2014,133.26
+Butte,2014,63.68
+Butte,2014,58.95
+Calaveras,2005,53.85
+Calaveras,2005,54.63
+Calaveras,2006,56.42
+Calaveras,2007,65.1
+Calaveras,2008,46.64
+Calaveras,2008,78.9
+Calaveras,2010,192.04
+Calaveras,2010,84.97
+Calaveras,2011,265.73
+Calaveras,2011,66.19
+Calaveras,2011,61.54
+Calaveras,2013,57.82
+Calaveras,2013,113.2
+Calaveras,2014,194.03
+Calaveras,2014,83.13
+Calaveras,2014,86.79
+Colusa,2008,78.51
+Colusa,2009,82.84
+Colusa,2014,72.76
+Contra Costa,2005,314.17
+Contra Costa,2005,515.4
+Contra Costa,2005,150.45
+Contra Costa,2005,202.88
+Contra Costa,2005,80.37
+Contra Costa,2005,111.06
+Contra Costa,2005,27.05
+Contra Costa,2005,80.54
+Contra Costa,2005,137.96
+Contra Costa,2005,54.72
+Contra Costa,2005,55.72
+Contra Costa,2005,183.98
+Contra Costa,2005,413.13
+Contra Costa,2005,193.5
+Contra Costa,2005,365.45
+Contra Costa,2005,53.55
+Contra Costa,2005,100.89
+Contra Costa,2005,30.96
+Contra Costa,2005,37.4
+Contra Costa,2006,266.89
+Contra Costa,2006,532.72
+Contra Costa,2006,174.45
+Contra Costa,2006,269.69
+Contra Costa,2006,59.88
+Contra Costa,2006,60.73
+Contra Costa,2006,17.87
+Contra Costa,2006,32.54
+Contra Costa,2006,72.79
+Contra Costa,2006,157.67
+Contra Costa,2006,43.6
+Contra Costa,2006,70.31
+Contra Costa,2006,142.75
+Contra Costa,2006,311.81
+Contra Costa,2006,106.28
+Contra Costa,2006,240.98
+Contra Costa,2006,66.3
+Contra Costa,2006,117.92
+Contra Costa,2006,40.27
+Contra Costa,2006,58.03
+Contra Costa,2007,324.65
+Contra Costa,2007,549.16
+Contra Costa,2007,176.81
+Contra Costa,2007,214.65
+Contra Costa,2007,47.72
+Contra Costa,2007,70.15
+Contra Costa,2007,17.42
+Contra Costa,2007,16.26
+Contra Costa,2007,77.86
+Contra Costa,2007,153.52
+Contra Costa,2007,37.74
+Contra Costa,2007,66.39
+Contra Costa,2007,95.75
+Contra Costa,2007,264.66
+Contra Costa,2007,83.16
+Contra Costa,2007,103.34
+Contra Costa,2007,54.61
+Contra Costa,2007,112.02
+Contra Costa,2007,30.31
+Contra Costa,2007,35.75
+Contra Costa,2008,292.04
+Contra Costa,2008,548.08
+Contra Costa,2008,188.78
+Contra Costa,2008,243.17
+Contra Costa,2008,36.95
+Contra Costa,2008,110.28
+Contra Costa,2008,18.51
+Contra Costa,2008,24.04
+Contra Costa,2008,76.39
+Contra Costa,2008,187.67
+Contra Costa,2008,50.95
+Contra Costa,2008,79.88
+Contra Costa,2008,114.72
+Contra Costa,2008,218.93
+Contra Costa,2008,98.47
+Contra Costa,2008,100.12
+Contra Costa,2008,64.75
+Contra Costa,2008,117.6
+Contra Costa,2008,39.52
+Contra Costa,2008,39.73
+Contra Costa,2009,320.62
+Contra Costa,2009,608.93
+Contra Costa,2009,189.33
+Contra Costa,2009,293.31
+Contra Costa,2009,57.76
+Contra Costa,2009,107.77
+Contra Costa,2009,20.28
+Contra Costa,2009,35.73
+Contra Costa,2009,95.18
+Contra Costa,2009,181.21
+Contra Costa,2009,58.93
+Contra Costa,2009,100.26
+Contra Costa,2009,142.14
+Contra Costa,2009,294.97
+Contra Costa,2009,82.74
+Contra Costa,2009,124.91
+Contra Costa,2009,76.45
+Contra Costa,2009,130.2
+Contra Costa,2009,41.24
+Contra Costa,2009,50.07
+Contra Costa,2010,275.26
+Contra Costa,2010,649.88
+Contra Costa,2010,214.24
+Contra Costa,2010,264.58
+Contra Costa,2010,101.41
+Contra Costa,2010,16.9
+Contra Costa,2010,40.12
+Contra Costa,2010,104.06
+Contra Costa,2010,169.44
+Contra Costa,2010,63.7
+Contra Costa,2010,104.38
+Contra Costa,2010,85.95
+Contra Costa,2010,255.57
+Contra Costa,2010,69.99
+Contra Costa,2010,110.03
+Contra Costa,2010,76.92
+Contra Costa,2010,122.05
+Contra Costa,2010,43.62
+Contra Costa,2010,61.86
+Contra Costa,2011,268.29
+Contra Costa,2011,454.23
+Contra Costa,2011,227.36
+Contra Costa,2011,287.83
+Contra Costa,2011,50.05
+Contra Costa,2011,130.88
+Contra Costa,2011,20.97
+Contra Costa,2011,38.95
+Contra Costa,2011,76.29
+Contra Costa,2011,174.47
+Contra Costa,2011,62.88
+Contra Costa,2011,106.28
+Contra Costa,2011,83.18
+Contra Costa,2011,177.32
+Contra Costa,2011,57.46
+Contra Costa,2011,123.2
+Contra Costa,2011,69.55
+Contra Costa,2011,87.52
+Contra Costa,2011,40.44
+Contra Costa,2011,55.14
+Contra Costa,2012,372.23
+Contra Costa,2012,478.89
+Contra Costa,2012,247.69
+Contra Costa,2012,308.49
+Contra Costa,2012,48.35
+Contra Costa,2012,81.28
+Contra Costa,2012,16.98
+Contra Costa,2012,46.14
+Contra Costa,2012,84.0
+Contra Costa,2012,190.87
+Contra Costa,2012,73.19
+Contra Costa,2012,125.99
+Contra Costa,2012,164.69
+Contra Costa,2012,274.64
+Contra Costa,2012,100.31
+Contra Costa,2012,119.81
+Contra Costa,2012,62.28
+Contra Costa,2012,117.02
+Contra Costa,2012,41.34
+Contra Costa,2012,51.06
+Contra Costa,2013,244.61
+Contra Costa,2013,511.81
+Contra Costa,2013,248.64
+Contra Costa,2013,285.58
+Contra Costa,2013,45.8
+Contra Costa,2013,66.09
+Contra Costa,2013,20.35
+Contra Costa,2013,45.09
+Contra Costa,2013,73.95
+Contra Costa,2013,165.79
+Contra Costa,2013,61.98
+Contra Costa,2013,103.35
+Contra Costa,2013,133.18
+Contra Costa,2013,245.19
+Contra Costa,2013,81.36
+Contra Costa,2013,92.12
+Contra Costa,2013,27.05
+Contra Costa,2013,105.23
+Contra Costa,2013,40.51
+Contra Costa,2013,41.34
+Contra Costa,2014,296.63
+Contra Costa,2014,553.77
+Contra Costa,2014,293.51
+Contra Costa,2014,306.93
+Contra Costa,2014,61.84
+Contra Costa,2014,68.49
+Contra Costa,2014,22.29
+Contra Costa,2014,44.34
+Contra Costa,2014,108.9
+Contra Costa,2014,168.73
+Contra Costa,2014,71.27
+Contra Costa,2014,113.35
+Contra Costa,2014,75.19
+Contra Costa,2014,234.03
+Contra Costa,2014,61.54
+Contra Costa,2014,124.24
+Contra Costa,2014,35.2
+Contra Costa,2014,70.74
+Contra Costa,2014,36.17
+Contra Costa,2014,37.82
+Del Norte,2005,409.09
+Del Norte,2005,99.79
+Del Norte,2005,87.49
+Del Norte,2006,331.63
+Del Norte,2006,268.46
+Del Norte,2006,116.85
+Del Norte,2007,285.71
+Del Norte,2007,142.76
+Del Norte,2009,113.04
+Del Norte,2010,171.36
+El Dorado,2005,51.39
+El Dorado,2005,20.79
+El Dorado,2005,50.02
+El Dorado,2006,42.19
+El Dorado,2006,53.89
+El Dorado,2006,32.45
+El Dorado,2006,40.68
+El Dorado,2007,36.84
+El Dorado,2007,73.03
+El Dorado,2007,37.55
+El Dorado,2007,37.67
+El Dorado,2008,38.01
+El Dorado,2008,79.69
+El Dorado,2008,30.77
+El Dorado,2008,38.05
+El Dorado,2009,81.69
+El Dorado,2009,32.42
+El Dorado,2009,37.92
+El Dorado,2010,42.53
+El Dorado,2010,67.8
+El Dorado,2010,34.5
+El Dorado,2010,36.62
+El Dorado,2011,39.63
+El Dorado,2011,43.05
+El Dorado,2011,56.03
+El Dorado,2012,52.14
+El Dorado,2012,55.02
+El Dorado,2012,42.2
+El Dorado,2012,44.44
+El Dorado,2013,43.01
+El Dorado,2013,37.91
+El Dorado,2013,96.69
+El Dorado,2013,23.26
+El Dorado,2013,29.8
+El Dorado,2014,46.69
+El Dorado,2014,40.98
+El Dorado,2014,211.19
+El Dorado,2014,143.8
+El Dorado,2014,81.44
+El Dorado,2014,37.84
+El Dorado,2014,47.67
+Fresno,2005,257.01
+Fresno,2005,505.74
+Fresno,2005,174.33
+Fresno,2005,213.25
+Fresno,2005,65.94
+Fresno,2005,64.0
+Fresno,2005,13.05
+Fresno,2005,18.95
+Fresno,2005,122.62
+Fresno,2005,239.28
+Fresno,2005,47.06
+Fresno,2005,73.52
+Fresno,2005,189.19
+Fresno,2005,292.29
+Fresno,2005,131.7
+Fresno,2005,202.29
+Fresno,2005,117.18
+Fresno,2005,184.46
+Fresno,2005,67.78
+Fresno,2005,81.2
+Fresno,2006,230.77
+Fresno,2006,543.08
+Fresno,2006,176.95
+Fresno,2006,198.98
+Fresno,2006,95.69
+Fresno,2006,113.44
+Fresno,2006,16.6
+Fresno,2006,25.18
+Fresno,2006,147.52
+Fresno,2006,267.32
+Fresno,2006,52.99
+Fresno,2006,81.99
+Fresno,2006,161.15
+Fresno,2006,406.44
+Fresno,2006,79.37
+Fresno,2006,144.55
+Fresno,2006,90.96
+Fresno,2006,178.71
+Fresno,2006,53.89
+Fresno,2006,79.05
+Fresno,2007,389.61
+Fresno,2007,671.92
+Fresno,2007,149.27
+Fresno,2007,178.69
+Fresno,2007,55.85
+Fresno,2007,131.2
+Fresno,2007,16.17
+Fresno,2007,21.98
+Fresno,2007,144.67
+Fresno,2007,308.9
+Fresno,2007,62.01
+Fresno,2007,82.4
+Fresno,2007,213.64
+Fresno,2007,458.33
+Fresno,2007,56.06
+Fresno,2007,92.65
+Fresno,2007,92.29
+Fresno,2007,213.2
+Fresno,2007,48.72
+Fresno,2007,78.94
+Fresno,2008,345.23
+Fresno,2008,629.55
+Fresno,2008,158.04
+Fresno,2008,219.33
+Fresno,2008,72.38
+Fresno,2008,126.05
+Fresno,2008,20.4
+Fresno,2008,161.63
+Fresno,2008,283.26
+Fresno,2008,58.99
+Fresno,2008,86.47
+Fresno,2008,256.82
+Fresno,2008,439.74
+Fresno,2008,68.97
+Fresno,2008,125.66
+Fresno,2008,113.5
+Fresno,2008,213.45
+Fresno,2008,46.05
+Fresno,2008,81.46
+Fresno,2009,371.45
+Fresno,2009,553.52
+Fresno,2009,175.57
+Fresno,2009,236.45
+Fresno,2009,75.8
+Fresno,2009,206.16
+Fresno,2009,12.81
+Fresno,2009,37.78
+Fresno,2009,134.42
+Fresno,2009,268.96
+Fresno,2009,67.49
+Fresno,2009,87.86
+Fresno,2009,517.24
+Fresno,2009,1153.85
+Fresno,2009,182.06
+Fresno,2009,400.93
+Fresno,2009,147.02
+Fresno,2009,264.69
+Fresno,2009,73.3
+Fresno,2009,100.68
+Fresno,2010,293.29
+Fresno,2010,554.08
+Fresno,2010,170.48
+Fresno,2010,227.46
+Fresno,2010,87.8
+Fresno,2010,140.38
+Fresno,2010,22.88
+Fresno,2010,136.53
+Fresno,2010,302.86
+Fresno,2010,70.42
+Fresno,2010,96.96
+Fresno,2010,419.69
+Fresno,2010,944.4
+Fresno,2010,282.18
+Fresno,2010,425.46
+Fresno,2010,143.86
+Fresno,2010,246.54
+Fresno,2010,71.67
+Fresno,2010,114.88
+Fresno,2011,257.93
+Fresno,2011,522.47
+Fresno,2011,117.83
+Fresno,2011,240.62
+Fresno,2011,95.52
+Fresno,2011,123.04
+Fresno,2011,24.19
+Fresno,2011,189.92
+Fresno,2011,312.55
+Fresno,2011,70.32
+Fresno,2011,101.1
+Fresno,2011,149.02
+Fresno,2011,289.14
+Fresno,2011,99.21
+Fresno,2011,144.65
+Fresno,2011,150.5
+Fresno,2011,252.5
+Fresno,2011,72.01
+Fresno,2011,105.23
+Fresno,2012,258.99
+Fresno,2012,656.25
+Fresno,2012,160.99
+Fresno,2012,288.52
+Fresno,2012,52.88
+Fresno,2012,106.75
+Fresno,2012,23.69
+Fresno,2012,26.39
+Fresno,2012,166.8
+Fresno,2012,308.33
+Fresno,2012,78.83
+Fresno,2012,124.58
+Fresno,2012,111.27
+Fresno,2012,52.97
+Fresno,2012,71.05
+Fresno,2012,169.93
+Fresno,2012,263.49
+Fresno,2012,81.77
+Fresno,2012,130.02
+Fresno,2013,287.96
+Fresno,2013,559.59
+Fresno,2013,177.04
+Fresno,2013,241.04
+Fresno,2013,42.34
+Fresno,2013,121.83
+Fresno,2013,21.98
+Fresno,2013,42.0
+Fresno,2013,162.0
+Fresno,2013,288.08
+Fresno,2013,88.3
+Fresno,2013,134.37
+Fresno,2013,88.92
+Fresno,2013,48.96
+Fresno,2013,54.1
+Fresno,2013,146.41
+Fresno,2013,229.39
+Fresno,2013,88.79
+Fresno,2013,147.38
+Fresno,2014,413.65
+Fresno,2014,774.68
+Fresno,2014,208.31
+Fresno,2014,372.57
+Fresno,2014,72.39
+Fresno,2014,104.19
+Fresno,2014,28.17
+Fresno,2014,36.59
+Fresno,2014,175.3
+Fresno,2014,285.19
+Fresno,2014,111.08
+Fresno,2014,164.81
+Fresno,2014,94.72
+Fresno,2014,39.45
+Fresno,2014,93.74
+Fresno,2014,136.65
+Fresno,2014,187.07
+Fresno,2014,106.29
+Fresno,2014,146.99
+Humboldt,2005,229.68
+Humboldt,2005,89.02
+Humboldt,2005,212.94
+Humboldt,2005,44.06
+Humboldt,2005,86.47
+Humboldt,2006,84.53
+Humboldt,2006,124.69
+Humboldt,2006,53.21
+Humboldt,2006,79.45
+Humboldt,2007,83.06
+Humboldt,2007,80.47
+Humboldt,2007,136.87
+Humboldt,2007,57.67
+Humboldt,2007,66.11
+Humboldt,2008,55.15
+Humboldt,2008,110.84
+Humboldt,2008,58.54
+Humboldt,2008,71.54
+Humboldt,2009,94.99
+Humboldt,2009,169.22
+Humboldt,2009,59.19
+Humboldt,2009,83.09
+Humboldt,2010,69.35
+Humboldt,2010,112.31
+Humboldt,2010,55.33
+Humboldt,2010,79.06
+Humboldt,2011,61.67
+Humboldt,2011,162.07
+Humboldt,2011,67.84
+Humboldt,2011,68.03
+Humboldt,2012,129.15
+Humboldt,2012,177.82
+Humboldt,2012,55.61
+Humboldt,2012,88.29
+Humboldt,2013,82.84
+Humboldt,2013,71.5
+Humboldt,2013,159.76
+Humboldt,2013,78.12
+Humboldt,2013,69.36
+Humboldt,2014,111.51
+Humboldt,2014,78.47
+Humboldt,2014,52.69
+Imperial,2005,88.94
+Imperial,2005,271.76
+Imperial,2005,98.71
+Imperial,2005,187.06
+Imperial,2005,274.44
+Imperial,2005,139.35
+Imperial,2005,180.5
+Imperial,2006,822.0
+Imperial,2006,123.1
+Imperial,2006,241.0
+Imperial,2006,100.11
+Imperial,2006,186.37
+Imperial,2006,274.91
+Imperial,2006,135.56
+Imperial,2006,181.24
+Imperial,2007,603.69
+Imperial,2007,884.89
+Imperial,2007,130.17
+Imperial,2007,248.67
+Imperial,2007,94.16
+Imperial,2007,185.36
+Imperial,2007,272.11
+Imperial,2007,112.56
+Imperial,2007,122.21
+Imperial,2008,100.84
+Imperial,2008,246.71
+Imperial,2008,102.51
+Imperial,2008,169.71
+Imperial,2008,273.97
+Imperial,2008,127.81
+Imperial,2008,136.81
+Imperial,2009,98.14
+Imperial,2009,256.54
+Imperial,2009,103.06
+Imperial,2009,215.15
+Imperial,2009,373.67
+Imperial,2009,130.45
+Imperial,2009,131.28
+Imperial,2010,155.17
+Imperial,2010,291.42
+Imperial,2010,106.23
+Imperial,2010,235.82
+Imperial,2010,131.11
+Imperial,2010,174.44
+Imperial,2011,104.9
+Imperial,2011,177.25
+Imperial,2011,98.33
+Imperial,2011,182.65
+Imperial,2011,278.81
+Imperial,2011,103.62
+Imperial,2011,132.12
+Imperial,2012,64.54
+Imperial,2012,160.93
+Imperial,2012,97.43
+Imperial,2012,172.57
+Imperial,2012,237.15
+Imperial,2012,461.25
+Imperial,2012,289.06
+Imperial,2012,451.78
+Imperial,2013,73.84
+Imperial,2013,178.34
+Imperial,2013,93.27
+Imperial,2013,163.76
+Imperial,2013,276.68
+Imperial,2013,301.42
+Imperial,2013,234.44
+Imperial,2013,184.58
+Imperial,2014,65.26
+Imperial,2014,154.6
+Imperial,2014,114.96
+Imperial,2014,212.78
+Imperial,2014,133.86
+Imperial,2014,148.06
+Inyo,2008,526.32
+Kern,2005,396.87
+Kern,2005,395.14
+Kern,2005,140.64
+Kern,2005,227.43
+Kern,2005,151.37
+Kern,2005,53.63
+Kern,2005,104.87
+Kern,2005,23.07
+Kern,2005,29.12
+Kern,2005,450.78
+Kern,2005,1047.27
+Kern,2005,142.75
+Kern,2005,297.3
+Kern,2005,90.8
+Kern,2005,148.83
+Kern,2005,45.33
+Kern,2005,54.69
+Kern,2006,285.55
+Kern,2006,452.67
+Kern,2006,133.71
+Kern,2006,264.07
+Kern,2006,40.54
+Kern,2006,100.81
+Kern,2006,19.11
+Kern,2006,30.94
+Kern,2006,413.73
+Kern,2006,837.84
+Kern,2006,135.01
+Kern,2006,243.73
+Kern,2006,76.57
+Kern,2006,162.63
+Kern,2006,28.86
+Kern,2006,49.0
+Kern,2007,372.49
+Kern,2007,470.18
+Kern,2007,190.7
+Kern,2007,216.73
+Kern,2007,46.66
+Kern,2007,99.53
+Kern,2007,22.5
+Kern,2007,39.11
+Kern,2007,411.2
+Kern,2007,724.64
+Kern,2007,123.23
+Kern,2007,211.73
+Kern,2007,88.74
+Kern,2007,114.59
+Kern,2007,46.14
+Kern,2007,49.05
+Kern,2008,333.7
+Kern,2008,355.93
+Kern,2008,171.8
+Kern,2008,230.24
+Kern,2008,45.9
+Kern,2008,96.42
+Kern,2008,21.21
+Kern,2008,42.7
+Kern,2008,221.24
+Kern,2008,603.91
+Kern,2008,101.86
+Kern,2008,170.28
+Kern,2008,54.53
+Kern,2008,112.41
+Kern,2008,34.93
+Kern,2008,44.75
+Kern,2009,421.39
+Kern,2009,482.87
+Kern,2009,202.63
+Kern,2009,292.7
+Kern,2009,43.87
+Kern,2009,67.22
+Kern,2009,119.12
+Kern,2009,31.69
+Kern,2009,60.3
+Kern,2009,267.24
+Kern,2009,362.38
+Kern,2009,125.53
+Kern,2009,240.13
+Kern,2009,93.06
+Kern,2009,159.91
+Kern,2009,43.86
+Kern,2009,68.06
+Kern,2010,269.11
+Kern,2010,577.68
+Kern,2010,231.1
+Kern,2010,312.36
+Kern,2010,60.94
+Kern,2010,130.18
+Kern,2010,34.83
+Kern,2010,56.85
+Kern,2010,153.06
+Kern,2010,407.32
+Kern,2010,140.61
+Kern,2010,222.94
+Kern,2010,91.83
+Kern,2010,155.12
+Kern,2010,62.04
+Kern,2010,66.18
+Kern,2011,311.49
+Kern,2011,471.18
+Kern,2011,232.49
+Kern,2011,278.36
+Kern,2011,63.65
+Kern,2011,121.95
+Kern,2011,42.17
+Kern,2011,71.84
+Kern,2011,189.98
+Kern,2011,288.07
+Kern,2011,122.45
+Kern,2011,177.99
+Kern,2011,80.18
+Kern,2011,133.57
+Kern,2011,55.92
+Kern,2011,65.72
+Kern,2012,379.88
+Kern,2012,724.4
+Kern,2012,279.13
+Kern,2012,332.76
+Kern,2012,78.44
+Kern,2012,157.03
+Kern,2012,46.6
+Kern,2012,87.98
+Kern,2012,169.35
+Kern,2012,79.84
+Kern,2012,145.62
+Kern,2012,74.56
+Kern,2012,154.83
+Kern,2012,57.73
+Kern,2012,80.37
+Kern,2013,320.88
+Kern,2013,521.33
+Kern,2013,343.74
+Kern,2013,349.74
+Kern,2013,45.39
+Kern,2013,72.57
+Kern,2013,143.88
+Kern,2013,51.56
+Kern,2013,87.82
+Kern,2013,149.49
+Kern,2013,77.09
+Kern,2013,95.72
+Kern,2013,67.04
+Kern,2013,137.0
+Kern,2013,64.13
+Kern,2013,70.89
+Kern,2014,282.43
+Kern,2014,579.56
+Kern,2014,304.28
+Kern,2014,333.77
+Kern,2014,66.59
+Kern,2014,134.84
+Kern,2014,61.7
+Kern,2014,99.81
+Kern,2014,171.34
+Kern,2014,50.02
+Kern,2014,91.51
+Kern,2014,74.02
+Kern,2014,123.6
+Kern,2014,71.5
+Kern,2014,89.62
+Kings,2005,887.1
+Kings,2005,369.28
+Kings,2005,352.63
+Kings,2005,111.93
+Kings,2005,231.46
+Kings,2005,32.79
+Kings,2005,76.12
+Kings,2005,312.1
+Kings,2005,85.21
+Kings,2005,159.45
+Kings,2005,79.3
+Kings,2005,75.49
+Kings,2006,483.87
+Kings,2006,235.3
+Kings,2006,336.97
+Kings,2006,70.66
+Kings,2006,212.59
+Kings,2006,49.75
+Kings,2006,75.02
+Kings,2006,401.34
+Kings,2006,80.5
+Kings,2006,197.29
+Kings,2006,62.57
+Kings,2006,71.56
+Kings,2007,225.46
+Kings,2007,218.2
+Kings,2007,117.87
+Kings,2007,163.38
+Kings,2007,43.12
+Kings,2007,69.26
+Kings,2007,170.11
+Kings,2007,198.3
+Kings,2007,66.66
+Kings,2007,69.44
+Kings,2008,772.2
+Kings,2008,189.83
+Kings,2008,141.94
+Kings,2008,244.27
+Kings,2008,54.3
+Kings,2008,92.54
+Kings,2008,103.72
+Kings,2008,276.34
+Kings,2008,38.98
+Kings,2008,105.14
+Kings,2009,676.33
+Kings,2009,873.02
+Kings,2009,452.05
+Kings,2009,402.35
+Kings,2009,168.69
+Kings,2009,231.19
+Kings,2009,68.7
+Kings,2009,98.79
+Kings,2009,102.17
+Kings,2009,236.45
+Kings,2009,80.89
+Kings,2009,115.08
+Kings,2010,862.07
+Kings,2010,296.35
+Kings,2010,288.24
+Kings,2010,163.42
+Kings,2010,285.78
+Kings,2010,67.17
+Kings,2010,75.24
+Kings,2010,492.31
+Kings,2010,434.78
+Kings,2010,200.4
+Kings,2010,377.48
+Kings,2010,100.67
+Kings,2010,122.25
+Kings,2011,1102.04
+Kings,2011,253.12
+Kings,2011,289.15
+Kings,2011,153.96
+Kings,2011,277.43
+Kings,2011,82.83
+Kings,2011,94.73
+Kings,2011,177.4
+Kings,2011,248.67
+Kings,2011,118.11
+Kings,2011,148.81
+Kings,2012,766.13
+Kings,2012,272.78
+Kings,2012,298.29
+Kings,2012,125.27
+Kings,2012,268.0
+Kings,2012,86.73
+Kings,2012,119.54
+Kings,2012,183.85
+Kings,2012,280.87
+Kings,2012,106.95
+Kings,2012,173.46
+Kings,2013,682.73
+Kings,2013,220.09
+Kings,2013,294.11
+Kings,2013,112.49
+Kings,2013,276.23
+Kings,2013,81.12
+Kings,2013,119.61
+Kings,2013,166.49
+Kings,2013,247.98
+Kings,2013,95.36
+Kings,2013,156.25
+Kings,2014,200.52
+Kings,2014,591.78
+Kings,2014,60.21
+Kings,2014,261.4
+Kings,2014,76.23
+Kings,2014,134.97
+Kings,2014,131.25
+Kings,2014,178.67
+Kings,2014,126.04
+Kings,2014,188.8
+Lake,2005,122.87
+Lake,2005,47.62
+Lake,2005,82.25
+Lake,2006,149.25
+Lake,2006,204.84
+Lake,2006,57.06
+Lake,2006,92.95
+Lake,2007,147.33
+Lake,2007,72.1
+Lake,2007,51.07
+Lake,2008,130.23
+Lake,2008,49.73
+Lake,2008,41.43
+Lake,2009,225.99
+Lake,2009,60.08
+Lake,2009,119.78
+Lake,2010,258.62
+Lake,2010,74.25
+Lake,2010,80.3
+Lake,2011,159.07
+Lake,2011,149.25
+Lake,2011,73.49
+Lake,2011,86.58
+Lake,2012,206.19
+Lake,2012,84.51
+Lake,2012,101.06
+Lake,2013,197.0
+Lake,2013,74.09
+Lake,2013,63.69
+Lake,2014,123.97
+Lake,2014,197.93
+Lake,2014,59.48
+Lake,2014,92.14
+Los Angeles,2005,250.13
+Los Angeles,2005,433.09
+Los Angeles,2005,141.94
+Los Angeles,2005,230.78
+Los Angeles,2005,32.07
+Los Angeles,2005,60.38
+Los Angeles,2005,13.13
+Los Angeles,2005,25.88
+Los Angeles,2005,64.25
+Los Angeles,2005,130.09
+Los Angeles,2005,42.56
+Los Angeles,2005,69.54
+Los Angeles,2005,124.91
+Los Angeles,2005,221.5
+Los Angeles,2005,140.81
+Los Angeles,2005,210.79
+Los Angeles,2005,54.32
+Los Angeles,2005,114.94
+Los Angeles,2005,38.51
+Los Angeles,2005,58.74
+Los Angeles,2006,251.11
+Los Angeles,2006,438.69
+Los Angeles,2006,145.22
+Los Angeles,2006,225.7
+Los Angeles,2006,29.09
+Los Angeles,2006,59.25
+Los Angeles,2006,13.55
+Los Angeles,2006,24.84
+Los Angeles,2006,63.57
+Los Angeles,2006,125.38
+Los Angeles,2006,37.85
+Los Angeles,2006,62.98
+Los Angeles,2006,150.7
+Los Angeles,2006,307.45
+Los Angeles,2006,155.93
+Los Angeles,2006,238.28
+Los Angeles,2006,45.89
+Los Angeles,2006,101.33
+Los Angeles,2006,36.47
+Los Angeles,2006,53.73
+Los Angeles,2007,224.24
+Los Angeles,2007,431.24
+Los Angeles,2007,144.76
+Los Angeles,2007,224.17
+Los Angeles,2007,26.6
+Los Angeles,2007,55.28
+Los Angeles,2007,12.52
+Los Angeles,2007,21.69
+Los Angeles,2007,64.52
+Los Angeles,2007,132.43
+Los Angeles,2007,38.06
+Los Angeles,2007,64.86
+Los Angeles,2007,135.55
+Los Angeles,2007,275.25
+Los Angeles,2007,138.09
+Los Angeles,2007,221.83
+Los Angeles,2007,48.8
+Los Angeles,2007,93.57
+Los Angeles,2007,32.55
+Los Angeles,2007,48.33
+Los Angeles,2008,220.2
+Los Angeles,2008,410.48
+Los Angeles,2008,153.56
+Los Angeles,2008,224.75
+Los Angeles,2008,28.87
+Los Angeles,2008,59.18
+Los Angeles,2008,12.96
+Los Angeles,2008,23.06
+Los Angeles,2008,62.89
+Los Angeles,2008,136.77
+Los Angeles,2008,40.04
+Los Angeles,2008,68.42
+Los Angeles,2008,105.6
+Los Angeles,2008,221.97
+Los Angeles,2008,118.4
+Los Angeles,2008,177.69
+Los Angeles,2008,50.22
+Los Angeles,2008,105.96
+Los Angeles,2008,35.61
+Los Angeles,2008,50.26
+Los Angeles,2009,240.88
+Los Angeles,2009,455.09
+Los Angeles,2009,186.39
+Los Angeles,2009,281.66
+Los Angeles,2009,30.5
+Los Angeles,2009,66.7
+Los Angeles,2009,17.24
+Los Angeles,2009,28.17
+Los Angeles,2009,70.67
+Los Angeles,2009,156.82
+Los Angeles,2009,50.68
+Los Angeles,2009,89.45
+Los Angeles,2009,92.97
+Los Angeles,2009,227.37
+Los Angeles,2009,116.03
+Los Angeles,2009,173.1
+Los Angeles,2009,53.74
+Los Angeles,2009,104.72
+Los Angeles,2009,44.46
+Los Angeles,2009,63.0
+Los Angeles,2010,261.05
+Los Angeles,2010,493.39
+Los Angeles,2010,163.67
+Los Angeles,2010,243.26
+Los Angeles,2010,34.76
+Los Angeles,2010,69.4
+Los Angeles,2010,13.01
+Los Angeles,2010,24.28
+Los Angeles,2010,79.5
+Los Angeles,2010,158.02
+Los Angeles,2010,48.34
+Los Angeles,2010,80.59
+Los Angeles,2010,110.22
+Los Angeles,2010,178.62
+Los Angeles,2010,80.94
+Los Angeles,2010,138.72
+Los Angeles,2010,51.24
+Los Angeles,2010,90.51
+Los Angeles,2010,33.03
+Los Angeles,2010,54.02
+Los Angeles,2011,260.23
+Los Angeles,2011,460.28
+Los Angeles,2011,173.14
+Los Angeles,2011,255.91
+Los Angeles,2011,27.3
+Los Angeles,2011,70.88
+Los Angeles,2011,13.87
+Los Angeles,2011,23.7
+Los Angeles,2011,74.86
+Los Angeles,2011,150.52
+Los Angeles,2011,52.19
+Los Angeles,2011,89.72
+Los Angeles,2011,104.51
+Los Angeles,2011,180.58
+Los Angeles,2011,84.04
+Los Angeles,2011,135.84
+Los Angeles,2011,56.76
+Los Angeles,2011,100.18
+Los Angeles,2011,37.32
+Los Angeles,2011,59.4
+Los Angeles,2012,255.0
+Los Angeles,2012,474.13
+Los Angeles,2012,187.75
+Los Angeles,2012,290.18
+Los Angeles,2012,35.14
+Los Angeles,2012,56.83
+Los Angeles,2012,16.17
+Los Angeles,2012,33.04
+Los Angeles,2012,73.09
+Los Angeles,2012,156.81
+Los Angeles,2012,52.45
+Los Angeles,2012,93.11
+Los Angeles,2012,103.41
+Los Angeles,2012,200.86
+Los Angeles,2012,74.8
+Los Angeles,2012,124.82
+Los Angeles,2012,46.97
+Los Angeles,2012,86.74
+Los Angeles,2012,38.29
+Los Angeles,2012,57.5
+Los Angeles,2013,225.44
+Los Angeles,2013,431.04
+Los Angeles,2013,179.15
+Los Angeles,2013,287.02
+Los Angeles,2013,26.19
+Los Angeles,2013,47.61
+Los Angeles,2013,18.09
+Los Angeles,2013,28.09
+Los Angeles,2013,71.62
+Los Angeles,2013,141.51
+Los Angeles,2013,55.75
+Los Angeles,2013,98.28
+Los Angeles,2013,96.11
+Los Angeles,2013,214.78
+Los Angeles,2013,78.38
+Los Angeles,2013,131.26
+Los Angeles,2013,45.5
+Los Angeles,2013,71.95
+Los Angeles,2013,34.46
+Los Angeles,2013,57.65
+Los Angeles,2014,247.9
+Los Angeles,2014,416.86
+Los Angeles,2014,194.3
+Los Angeles,2014,312.75
+Los Angeles,2014,23.48
+Los Angeles,2014,48.53
+Los Angeles,2014,15.4
+Los Angeles,2014,32.89
+Los Angeles,2014,70.09
+Los Angeles,2014,134.56
+Los Angeles,2014,60.47
+Los Angeles,2014,101.05
+Los Angeles,2014,94.5
+Los Angeles,2014,189.94
+Los Angeles,2014,81.04
+Los Angeles,2014,133.77
+Los Angeles,2014,35.16
+Los Angeles,2014,68.91
+Los Angeles,2014,39.18
+Los Angeles,2014,54.63
+Madera,2005,134.96
+Madera,2005,272.37
+Madera,2005,57.37
+Madera,2005,49.48
+Madera,2005,137.78
+Madera,2005,200.86
+Madera,2005,35.59
+Madera,2005,85.41
+Madera,2006,1326.53
+Madera,2006,159.61
+Madera,2006,300.88
+Madera,2006,57.67
+Madera,2006,83.67
+Madera,2006,158.5
+Madera,2006,217.55
+Madera,2006,88.88
+Madera,2007,212.67
+Madera,2007,318.98
+Madera,2007,55.07
+Madera,2007,83.95
+Madera,2007,140.64
+Madera,2007,214.02
+Madera,2007,57.22
+Madera,2007,58.65
+Madera,2008,1413.04
+Madera,2008,560.13
+Madera,2008,170.9
+Madera,2008,336.83
+Madera,2008,64.05
+Madera,2008,87.6
+Madera,2008,99.31
+Madera,2008,278.21
+Madera,2008,53.47
+Madera,2008,97.81
+Madera,2009,523.53
+Madera,2009,130.54
+Madera,2009,278.64
+Madera,2009,86.93
+Madera,2009,97.49
+Madera,2009,969.7
+Madera,2009,184.72
+Madera,2009,85.46
+Madera,2009,107.68
+Madera,2010,439.99
+Madera,2010,631.46
+Madera,2010,217.93
+Madera,2010,361.92
+Madera,2010,91.78
+Madera,2010,118.86
+Madera,2010,828.03
+Madera,2010,191.3
+Madera,2010,318.97
+Madera,2010,77.15
+Madera,2010,91.02
+Madera,2011,416.7
+Madera,2011,209.71
+Madera,2011,338.76
+Madera,2011,90.81
+Madera,2011,112.81
+Madera,2011,117.97
+Madera,2011,229.01
+Madera,2011,81.47
+Madera,2011,103.59
+Madera,2012,562.47
+Madera,2012,161.29
+Madera,2012,307.05
+Madera,2012,101.44
+Madera,2012,150.9
+Madera,2012,152.53
+Madera,2012,433.67
+Madera,2012,94.52
+Madera,2012,102.74
+Madera,2013,760.48
+Madera,2013,127.57
+Madera,2013,261.77
+Madera,2013,62.22
+Madera,2013,117.67
+Madera,2013,234.7
+Madera,2013,86.35
+Madera,2013,60.69
+Madera,2014,190.41
+Madera,2014,285.28
+Madera,2014,85.12
+Madera,2014,136.85
+Madera,2014,127.27
+Madera,2014,240.96
+Madera,2014,82.13
+Madera,2014,91.59
+Marin,2005,304.41
+Marin,2005,157.29
+Marin,2005,55.17
+Marin,2005,163.14
+Marin,2005,32.63
+Marin,2005,64.06
+Marin,2005,16.65
+Marin,2005,32.75
+Marin,2006,117.51
+Marin,2006,49.15
+Marin,2006,56.54
+Marin,2006,141.59
+Marin,2006,30.61
+Marin,2006,55.68
+Marin,2006,24.59
+Marin,2006,35.43
+Marin,2007,92.38
+Marin,2007,52.89
+Marin,2007,55.31
+Marin,2007,41.47
+Marin,2007,20.88
+Marin,2007,25.32
+Marin,2008,106.15
+Marin,2008,42.05
+Marin,2008,50.38
+Marin,2008,28.72
+Marin,2008,50.47
+Marin,2008,20.6
+Marin,2008,23.57
+Marin,2009,308.5
+Marin,2009,67.45
+Marin,2009,128.21
+Marin,2009,40.94
+Marin,2009,36.07
+Marin,2009,45.05
+Marin,2009,26.97
+Marin,2009,27.63
+Marin,2010,327.72
+Marin,2010,87.24
+Marin,2010,32.84
+Marin,2010,76.69
+Marin,2010,29.51
+Marin,2010,81.91
+Marin,2010,24.34
+Marin,2010,29.58
+Marin,2011,262.71
+Marin,2011,86.07
+Marin,2011,57.22
+Marin,2011,81.2
+Marin,2011,31.93
+Marin,2011,55.17
+Marin,2011,18.61
+Marin,2011,33.44
+Marin,2012,90.04
+Marin,2012,36.81
+Marin,2012,51.48
+Marin,2012,75.29
+Marin,2012,15.47
+Marin,2012,23.41
+Marin,2013,47.63
+Marin,2013,45.59
+Marin,2013,59.59
+Marin,2013,17.38
+Marin,2013,26.36
+Marin,2014,315.09
+Marin,2014,145.45
+Marin,2014,35.19
+Marin,2014,61.6
+Marin,2014,50.1
+Marin,2014,29.46
+Marin,2014,23.73
+Mendocino,2005,226.18
+Mendocino,2005,228.11
+Mendocino,2005,33.1
+Mendocino,2005,69.95
+Mendocino,2006,155.64
+Mendocino,2006,106.3
+Mendocino,2006,83.63
+Mendocino,2006,68.51
+Mendocino,2007,160.38
+Mendocino,2007,185.19
+Mendocino,2007,70.04
+Mendocino,2007,78.7
+Mendocino,2008,58.42
+Mendocino,2008,161.41
+Mendocino,2008,77.47
+Mendocino,2008,81.6
+Mendocino,2009,190.56
+Mendocino,2009,49.17
+Mendocino,2009,46.63
+Mendocino,2009,100.5
+Mendocino,2009,204.08
+Mendocino,2009,90.47
+Mendocino,2010,129.53
+Mendocino,2010,133.42
+Mendocino,2010,206.9
+Mendocino,2010,73.16
+Mendocino,2010,97.42
+Mendocino,2011,162.75
+Mendocino,2011,93.08
+Mendocino,2011,121.4
+Mendocino,2011,81.76
+Mendocino,2011,67.57
+Mendocino,2012,64.32
+Mendocino,2012,113.21
+Mendocino,2012,68.14
+Mendocino,2012,87.89
+Mendocino,2013,61.76
+Mendocino,2013,135.95
+Mendocino,2013,46.51
+Mendocino,2013,42.78
+Mendocino,2014,103.13
+Mendocino,2014,557.77
+Mendocino,2014,50.03
+Mendocino,2014,67.7
+Merced,2005,533.81
+Merced,2005,216.41
+Merced,2005,45.69
+Merced,2005,117.52
+Merced,2005,34.88
+Merced,2005,47.29
+Merced,2005,101.22
+Merced,2005,96.82
+Merced,2005,70.18
+Merced,2005,78.42
+Merced,2006,800.0
+Merced,2006,473.32
+Merced,2006,83.04
+Merced,2006,211.79
+Merced,2006,36.59
+Merced,2006,63.51
+Merced,2006,107.9
+Merced,2006,213.69
+Merced,2006,77.9
+Merced,2006,81.22
+Merced,2007,487.8
+Merced,2007,721.0
+Merced,2007,176.45
+Merced,2007,320.07
+Merced,2007,106.86
+Merced,2007,192.01
+Merced,2007,40.52
+Merced,2007,51.9
+Merced,2007,117.96
+Merced,2007,283.63
+Merced,2007,75.5
+Merced,2007,95.47
+Merced,2008,471.38
+Merced,2008,642.2
+Merced,2008,198.87
+Merced,2008,433.0
+Merced,2008,135.81
+Merced,2008,198.94
+Merced,2008,48.9
+Merced,2008,71.75
+Merced,2008,161.07
+Merced,2008,297.82
+Merced,2008,109.61
+Merced,2008,99.23
+Merced,2009,387.1
+Merced,2009,662.46
+Merced,2009,209.38
+Merced,2009,567.71
+Merced,2009,122.19
+Merced,2009,209.3
+Merced,2009,51.66
+Merced,2009,95.59
+Merced,2009,174.94
+Merced,2009,244.77
+Merced,2009,72.35
+Merced,2009,112.78
+Merced,2010,568.56
+Merced,2010,903.23
+Merced,2010,252.05
+Merced,2010,550.45
+Merced,2010,138.91
+Merced,2010,253.52
+Merced,2010,57.02
+Merced,2010,96.94
+Merced,2010,522.88
+Merced,2010,257.43
+Merced,2010,368.15
+Merced,2010,123.01
+Merced,2010,121.96
+Merced,2011,945.45
+Merced,2011,161.21
+Merced,2011,511.82
+Merced,2011,89.46
+Merced,2011,195.8
+Merced,2011,65.95
+Merced,2011,100.54
+Merced,2011,129.99
+Merced,2011,263.16
+Merced,2011,101.35
+Merced,2011,122.64
+Merced,2012,517.93
+Merced,2012,928.27
+Merced,2012,325.74
+Merced,2012,576.62
+Merced,2012,129.47
+Merced,2012,248.8
+Merced,2012,64.61
+Merced,2012,111.27
+Merced,2012,172.34
+Merced,2012,224.95
+Merced,2012,91.52
+Merced,2012,113.04
+Merced,2013,1090.05
+Merced,2013,224.38
+Merced,2013,360.25
+Merced,2013,107.03
+Merced,2013,227.21
+Merced,2013,83.85
+Merced,2013,117.37
+Merced,2013,151.71
+Merced,2013,247.9
+Merced,2013,81.91
+Merced,2013,121.92
+Merced,2014,1322.75
+Merced,2014,311.34
+Merced,2014,440.64
+Merced,2014,135.36
+Merced,2014,240.53
+Merced,2014,72.52
+Merced,2014,152.4
+Merced,2014,102.7
+Merced,2014,262.33
+Merced,2014,79.06
+Merced,2014,112.8
+Monterey,2005,235.97
+Monterey,2005,76.99
+Monterey,2005,57.08
+Monterey,2005,120.59
+Monterey,2005,36.68
+Monterey,2005,57.24
+Monterey,2005,254.37
+Monterey,2005,359.94
+Monterey,2005,106.37
+Monterey,2005,191.41
+Monterey,2005,69.64
+Monterey,2005,85.88
+Monterey,2005,54.19
+Monterey,2005,67.84
+Monterey,2006,679.61
+Monterey,2006,270.71
+Monterey,2006,233.81
+Monterey,2006,76.35
+Monterey,2006,46.82
+Monterey,2006,125.33
+Monterey,2006,49.14
+Monterey,2006,65.23
+Monterey,2006,289.86
+Monterey,2006,85.86
+Monterey,2006,145.17
+Monterey,2006,43.31
+Monterey,2006,104.1
+Monterey,2006,27.89
+Monterey,2006,45.42
+Monterey,2007,173.59
+Monterey,2007,319.79
+Monterey,2007,64.28
+Monterey,2007,150.79
+Monterey,2007,41.89
+Monterey,2007,67.35
+Monterey,2007,253.38
+Monterey,2007,261.01
+Monterey,2007,162.58
+Monterey,2007,196.09
+Monterey,2007,55.01
+Monterey,2007,106.24
+Monterey,2007,35.53
+Monterey,2007,41.85
+Monterey,2008,398.25
+Monterey,2008,74.88
+Monterey,2008,157.73
+Monterey,2008,49.61
+Monterey,2008,66.56
+Monterey,2008,44.71
+Monterey,2008,106.72
+Monterey,2008,24.32
+Monterey,2008,39.42
+Monterey,2009,276.16
+Monterey,2009,63.67
+Monterey,2009,141.67
+Monterey,2009,51.35
+Monterey,2009,92.51
+Monterey,2009,152.78
+Monterey,2009,96.01
+Monterey,2009,93.28
+Monterey,2009,34.76
+Monterey,2009,53.82
+Monterey,2010,375.57
+Monterey,2010,88.52
+Monterey,2010,171.63
+Monterey,2010,46.19
+Monterey,2010,91.0
+Monterey,2010,331.01
+Monterey,2010,139.35
+Monterey,2010,162.44
+Monterey,2010,71.49
+Monterey,2010,171.17
+Monterey,2010,26.27
+Monterey,2010,53.08
+Monterey,2011,316.54
+Monterey,2011,68.99
+Monterey,2011,161.93
+Monterey,2011,63.61
+Monterey,2011,90.35
+Monterey,2011,239.73
+Monterey,2011,115.16
+Monterey,2011,153.54
+Monterey,2011,96.87
+Monterey,2011,38.18
+Monterey,2011,53.34
+Monterey,2012,295.57
+Monterey,2012,85.6
+Monterey,2012,151.01
+Monterey,2012,54.23
+Monterey,2012,82.87
+Monterey,2012,206.19
+Monterey,2012,103.12
+Monterey,2012,77.96
+Monterey,2012,53.17
+Monterey,2012,56.34
+Monterey,2013,625.0
+Monterey,2013,304.67
+Monterey,2013,104.4
+Monterey,2013,167.03
+Monterey,2013,55.38
+Monterey,2013,95.02
+Monterey,2013,135.83
+Monterey,2013,59.59
+Monterey,2013,49.97
+Monterey,2013,53.32
+Monterey,2014,91.59
+Monterey,2014,129.86
+Monterey,2014,59.28
+Monterey,2014,93.65
+Monterey,2014,95.56
+Monterey,2014,79.39
+Monterey,2014,59.52
+Monterey,2014,60.79
+Monterey,2014,38.08
+Monterey,2014,46.79
+Napa,2005,34.77
+Napa,2005,30.71
+Napa,2005,126.0
+Napa,2005,49.98
+Napa,2006,67.53
+Napa,2006,52.53
+Napa,2006,75.93
+Napa,2006,31.46
+Napa,2006,59.95
+Napa,2007,60.86
+Napa,2007,29.76
+Napa,2007,73.55
+Napa,2007,119.4
+Napa,2007,24.64
+Napa,2007,38.02
+Napa,2008,69.09
+Napa,2008,38.89
+Napa,2008,85.57
+Napa,2008,25.22
+Napa,2008,25.23
+Napa,2009,78.85
+Napa,2009,28.37
+Napa,2009,50.58
+Napa,2009,104.78
+Napa,2009,30.84
+Napa,2009,59.01
+Napa,2010,57.36
+Napa,2010,97.56
+Napa,2010,46.83
+Napa,2010,58.82
+Napa,2010,110.42
+Napa,2010,54.59
+Napa,2011,87.48
+Napa,2011,25.77
+Napa,2011,50.57
+Napa,2011,31.1
+Napa,2011,50.48
+Napa,2012,151.86
+Napa,2012,27.4
+Napa,2012,43.21
+Napa,2012,92.4
+Napa,2012,60.97
+Napa,2013,58.45
+Napa,2013,196.98
+Napa,2013,38.23
+Napa,2013,30.4
+Napa,2013,83.16
+Napa,2013,30.01
+Napa,2013,35.84
+Napa,2014,63.05
+Napa,2014,103.42
+Napa,2014,47.12
+Napa,2014,64.23
+Napa,2014,108.11
+Napa,2014,41.57
+Napa,2014,58.51
+Nevada,2005,87.34
+Nevada,2005,47.53
+Nevada,2005,64.49
+Nevada,2006,78.96
+Nevada,2006,32.76
+Nevada,2006,49.3
+Nevada,2007,69.61
+Nevada,2007,65.6
+Nevada,2007,73.38
+Nevada,2008,101.93
+Nevada,2008,48.11
+Nevada,2008,64.54
+Nevada,2009,102.35
+Nevada,2009,54.22
+Nevada,2009,63.94
+Nevada,2010,108.77
+Nevada,2010,101.31
+Nevada,2010,38.74
+Nevada,2010,65.42
+Nevada,2011,192.31
+Nevada,2011,36.22
+Nevada,2011,70.24
+Nevada,2012,120.71
+Nevada,2012,55.04
+Nevada,2012,46.31
+Nevada,2013,134.79
+Nevada,2013,39.05
+Nevada,2014,77.37
+Nevada,2014,28.18
+Nevada,2014,33.65
+Orange,2005,133.93
+Orange,2005,410.12
+Orange,2005,152.7
+Orange,2005,182.97
+Orange,2005,21.35
+Orange,2005,61.59
+Orange,2005,10.4
+Orange,2005,25.59
+Orange,2005,51.84
+Orange,2005,99.53
+Orange,2005,25.92
+Orange,2005,46.64
+Orange,2005,82.23
+Orange,2005,115.29
+Orange,2005,69.01
+Orange,2005,82.66
+Orange,2005,66.16
+Orange,2005,116.89
+Orange,2005,39.78
+Orange,2005,54.44
+Orange,2006,209.85
+Orange,2006,275.31
+Orange,2006,119.93
+Orange,2006,137.7
+Orange,2006,22.07
+Orange,2006,58.54
+Orange,2006,8.82
+Orange,2006,24.26
+Orange,2006,53.78
+Orange,2006,84.42
+Orange,2006,23.65
+Orange,2006,39.08
+Orange,2006,84.23
+Orange,2006,136.87
+Orange,2006,75.84
+Orange,2006,89.35
+Orange,2006,48.92
+Orange,2006,96.35
+Orange,2006,35.04
+Orange,2006,46.38
+Orange,2007,173.52
+Orange,2007,328.89
+Orange,2007,161.44
+Orange,2007,138.75
+Orange,2007,13.56
+Orange,2007,45.54
+Orange,2007,12.8
+Orange,2007,16.91
+Orange,2007,46.47
+Orange,2007,98.3
+Orange,2007,25.61
+Orange,2007,43.1
+Orange,2007,104.26
+Orange,2007,148.88
+Orange,2007,71.99
+Orange,2007,106.09
+Orange,2007,44.63
+Orange,2007,101.44
+Orange,2007,35.19
+Orange,2007,45.97
+Orange,2008,211.01
+Orange,2008,345.13
+Orange,2008,139.82
+Orange,2008,171.79
+Orange,2008,14.16
+Orange,2008,47.26
+Orange,2008,9.2
+Orange,2008,20.51
+Orange,2008,60.7
+Orange,2008,112.31
+Orange,2008,29.86
+Orange,2008,49.27
+Orange,2008,48.29
+Orange,2008,106.11
+Orange,2008,43.13
+Orange,2008,79.4
+Orange,2008,48.81
+Orange,2008,105.81
+Orange,2008,35.59
+Orange,2008,45.03
+Orange,2009,160.83
+Orange,2009,461.68
+Orange,2009,189.5
+Orange,2009,221.15
+Orange,2009,23.52
+Orange,2009,54.13
+Orange,2009,13.49
+Orange,2009,29.64
+Orange,2009,58.95
+Orange,2009,125.19
+Orange,2009,35.76
+Orange,2009,68.62
+Orange,2009,62.28
+Orange,2009,132.52
+Orange,2009,57.51
+Orange,2009,80.42
+Orange,2009,48.9
+Orange,2009,98.2
+Orange,2009,39.09
+Orange,2009,52.97
+Orange,2010,348.73
+Orange,2010,484.62
+Orange,2010,136.4
+Orange,2010,220.61
+Orange,2010,20.88
+Orange,2010,59.36
+Orange,2010,7.77
+Orange,2010,22.47
+Orange,2010,58.13
+Orange,2010,124.73
+Orange,2010,35.5
+Orange,2010,63.79
+Orange,2010,76.42
+Orange,2010,120.66
+Orange,2010,47.05
+Orange,2010,62.69
+Orange,2010,45.02
+Orange,2010,103.39
+Orange,2010,34.11
+Orange,2010,45.86
+Orange,2011,138.25
+Orange,2011,313.22
+Orange,2011,131.27
+Orange,2011,222.41
+Orange,2011,28.87
+Orange,2011,55.94
+Orange,2011,10.9
+Orange,2011,24.28
+Orange,2011,50.47
+Orange,2011,111.67
+Orange,2011,34.64
+Orange,2011,58.0
+Orange,2011,67.91
+Orange,2011,127.28
+Orange,2011,46.7
+Orange,2011,59.27
+Orange,2011,46.81
+Orange,2011,83.79
+Orange,2011,29.48
+Orange,2011,43.7
+Orange,2012,99.16
+Orange,2012,354.45
+Orange,2012,147.94
+Orange,2012,233.28
+Orange,2012,28.49
+Orange,2012,50.02
+Orange,2012,13.46
+Orange,2012,22.42
+Orange,2012,57.9
+Orange,2012,121.51
+Orange,2012,38.35
+Orange,2012,69.19
+Orange,2012,70.66
+Orange,2012,144.22
+Orange,2012,49.57
+Orange,2012,71.46
+Orange,2012,66.09
+Orange,2012,109.35
+Orange,2012,36.09
+Orange,2012,48.51
+Orange,2013,94.94
+Orange,2013,223.42
+Orange,2013,131.3
+Orange,2013,226.03
+Orange,2013,35.89
+Orange,2013,42.55
+Orange,2013,10.27
+Orange,2013,24.94
+Orange,2013,60.46
+Orange,2013,110.29
+Orange,2013,40.11
+Orange,2013,60.95
+Orange,2013,87.05
+Orange,2013,166.6
+Orange,2013,49.09
+Orange,2013,87.84
+Orange,2013,52.77
+Orange,2013,92.19
+Orange,2013,34.29
+Orange,2013,52.42
+Orange,2014,191.24
+Orange,2014,251.52
+Orange,2014,144.55
+Orange,2014,220.2
+Orange,2014,23.79
+Orange,2014,51.38
+Orange,2014,14.33
+Orange,2014,26.59
+Orange,2014,60.42
+Orange,2014,113.62
+Orange,2014,43.17
+Orange,2014,70.11
+Orange,2014,55.73
+Orange,2014,142.02
+Orange,2014,48.97
+Orange,2014,55.46
+Orange,2014,49.87
+Orange,2014,94.29
+Orange,2014,34.74
+Orange,2014,50.57
+Placer,2005,89.51
+Placer,2005,111.31
+Placer,2005,28.64
+Placer,2005,55.2
+Placer,2005,21.5
+Placer,2005,32.72
+Placer,2006,92.98
+Placer,2006,33.42
+Placer,2006,52.89
+Placer,2006,23.09
+Placer,2006,32.06
+Placer,2007,102.63
+Placer,2007,29.23
+Placer,2007,25.09
+Placer,2007,34.77
+Placer,2007,17.27
+Placer,2007,26.7
+Placer,2008,86.58
+Placer,2008,33.92
+Placer,2008,68.3
+Placer,2008,43.59
+Placer,2008,72.84
+Placer,2008,26.0
+Placer,2008,30.6
+Placer,2009,65.93
+Placer,2009,20.84
+Placer,2009,36.5
+Placer,2009,50.42
+Placer,2009,84.25
+Placer,2009,39.75
+Placer,2009,49.12
+Placer,2010,58.56
+Placer,2010,23.96
+Placer,2010,50.56
+Placer,2010,35.3
+Placer,2010,80.93
+Placer,2010,32.45
+Placer,2010,37.68
+Placer,2011,21.59
+Placer,2011,38.86
+Placer,2011,46.16
+Placer,2011,65.73
+Placer,2011,40.04
+Placer,2011,32.15
+Placer,2012,19.94
+Placer,2012,28.27
+Placer,2012,53.87
+Placer,2012,80.26
+Placer,2012,28.54
+Placer,2012,32.76
+Placer,2013,50.41
+Placer,2013,63.06
+Placer,2013,44.84
+Placer,2013,29.86
+Placer,2013,78.78
+Placer,2013,33.91
+Placer,2013,40.84
+Placer,2014,441.01
+Placer,2014,69.51
+Placer,2014,20.95
+Placer,2014,25.06
+Placer,2014,26.61
+Placer,2014,70.02
+Placer,2014,45.59
+Placer,2014,40.61
+Riverside,2005,179.81
+Riverside,2005,279.48
+Riverside,2005,108.47
+Riverside,2005,191.68
+Riverside,2005,39.73
+Riverside,2005,39.5
+Riverside,2005,60.43
+Riverside,2005,21.1
+Riverside,2005,40.3
+Riverside,2005,521.93
+Riverside,2005,860.82
+Riverside,2005,248.01
+Riverside,2005,409.18
+Riverside,2005,39.32
+Riverside,2005,97.55
+Riverside,2005,38.26
+Riverside,2005,43.28
+Riverside,2006,169.2
+Riverside,2006,257.62
+Riverside,2006,99.72
+Riverside,2006,171.71
+Riverside,2006,33.55
+Riverside,2006,73.14
+Riverside,2006,23.38
+Riverside,2006,35.21
+Riverside,2006,381.54
+Riverside,2006,792.76
+Riverside,2006,205.83
+Riverside,2006,364.83
+Riverside,2006,44.51
+Riverside,2006,86.86
+Riverside,2006,27.07
+Riverside,2006,37.06
+Riverside,2007,147.09
+Riverside,2007,292.22
+Riverside,2007,106.29
+Riverside,2007,177.6
+Riverside,2007,14.68
+Riverside,2007,33.52
+Riverside,2007,72.3
+Riverside,2007,22.57
+Riverside,2007,36.69
+Riverside,2007,312.24
+Riverside,2007,641.51
+Riverside,2007,228.21
+Riverside,2007,354.78
+Riverside,2007,37.18
+Riverside,2007,68.35
+Riverside,2007,24.47
+Riverside,2007,34.97
+Riverside,2008,175.4
+Riverside,2008,267.55
+Riverside,2008,109.57
+Riverside,2008,166.7
+Riverside,2008,40.88
+Riverside,2008,10.91
+Riverside,2008,34.11
+Riverside,2008,77.85
+Riverside,2008,24.49
+Riverside,2008,44.69
+Riverside,2008,255.38
+Riverside,2008,540.81
+Riverside,2008,199.8
+Riverside,2008,370.77
+Riverside,2008,45.2
+Riverside,2008,86.35
+Riverside,2008,31.17
+Riverside,2008,39.26
+Riverside,2009,222.64
+Riverside,2009,336.48
+Riverside,2009,182.22
+Riverside,2009,248.71
+Riverside,2009,52.99
+Riverside,2009,23.37
+Riverside,2009,41.66
+Riverside,2009,96.31
+Riverside,2009,33.75
+Riverside,2009,59.52
+Riverside,2009,72.99
+Riverside,2009,162.98
+Riverside,2009,75.09
+Riverside,2009,109.95
+Riverside,2009,68.09
+Riverside,2009,123.44
+Riverside,2009,47.33
+Riverside,2009,63.78
+Riverside,2010,254.54
+Riverside,2010,379.02
+Riverside,2010,150.79
+Riverside,2010,233.37
+Riverside,2010,45.58
+Riverside,2010,22.22
+Riverside,2010,52.94
+Riverside,2010,102.36
+Riverside,2010,38.22
+Riverside,2010,56.52
+Riverside,2010,52.19
+Riverside,2010,158.64
+Riverside,2010,57.25
+Riverside,2010,92.14
+Riverside,2010,76.45
+Riverside,2010,142.51
+Riverside,2010,41.52
+Riverside,2010,63.64
+Riverside,2011,245.88
+Riverside,2011,437.59
+Riverside,2011,124.73
+Riverside,2011,233.8
+Riverside,2011,13.85
+Riverside,2011,50.51
+Riverside,2011,97.27
+Riverside,2011,36.95
+Riverside,2011,60.25
+Riverside,2011,57.34
+Riverside,2011,105.5
+Riverside,2011,50.35
+Riverside,2011,85.62
+Riverside,2011,60.73
+Riverside,2011,124.68
+Riverside,2011,45.5
+Riverside,2011,59.87
+Riverside,2012,220.1
+Riverside,2012,405.63
+Riverside,2012,157.77
+Riverside,2012,263.25
+Riverside,2012,49.22
+Riverside,2012,14.49
+Riverside,2012,29.17
+Riverside,2012,48.04
+Riverside,2012,95.41
+Riverside,2012,36.31
+Riverside,2012,64.37
+Riverside,2012,55.44
+Riverside,2012,108.73
+Riverside,2012,58.26
+Riverside,2012,85.78
+Riverside,2012,45.77
+Riverside,2012,106.98
+Riverside,2012,39.48
+Riverside,2012,63.53
+Riverside,2013,230.98
+Riverside,2013,405.44
+Riverside,2013,139.82
+Riverside,2013,219.02
+Riverside,2013,45.48
+Riverside,2013,14.52
+Riverside,2013,25.57
+Riverside,2013,38.76
+Riverside,2013,85.79
+Riverside,2013,39.09
+Riverside,2013,61.49
+Riverside,2013,53.4
+Riverside,2013,100.78
+Riverside,2013,48.6
+Riverside,2013,72.95
+Riverside,2013,42.65
+Riverside,2013,104.51
+Riverside,2013,48.3
+Riverside,2013,58.58
+Riverside,2014,173.03
+Riverside,2014,361.73
+Riverside,2014,172.71
+Riverside,2014,239.93
+Riverside,2014,33.0
+Riverside,2014,13.67
+Riverside,2014,27.11
+Riverside,2014,40.58
+Riverside,2014,75.59
+Riverside,2014,40.13
+Riverside,2014,69.56
+Riverside,2014,41.47
+Riverside,2014,122.02
+Riverside,2014,53.62
+Riverside,2014,71.5
+Riverside,2014,41.79
+Riverside,2014,101.78
+Riverside,2014,46.44
+Riverside,2014,60.99
+Sacramento,2005,142.62
+Sacramento,2005,291.03
+Sacramento,2005,93.49
+Sacramento,2005,138.09
+Sacramento,2005,21.33
+Sacramento,2005,97.69
+Sacramento,2005,13.03
+Sacramento,2005,25.86
+Sacramento,2005,49.02
+Sacramento,2005,94.17
+Sacramento,2005,19.23
+Sacramento,2005,36.96
+Sacramento,2005,105.57
+Sacramento,2005,197.06
+Sacramento,2005,125.57
+Sacramento,2005,150.05
+Sacramento,2005,51.45
+Sacramento,2005,98.5
+Sacramento,2005,24.54
+Sacramento,2005,35.81
+Sacramento,2006,194.31
+Sacramento,2006,328.76
+Sacramento,2006,98.56
+Sacramento,2006,164.32
+Sacramento,2006,38.26
+Sacramento,2006,86.16
+Sacramento,2006,19.78
+Sacramento,2006,45.5
+Sacramento,2006,44.13
+Sacramento,2006,95.51
+Sacramento,2006,24.92
+Sacramento,2006,41.82
+Sacramento,2006,63.34
+Sacramento,2006,144.59
+Sacramento,2006,48.89
+Sacramento,2006,110.76
+Sacramento,2006,59.4
+Sacramento,2006,81.73
+Sacramento,2006,31.52
+Sacramento,2006,39.54
+Sacramento,2007,195.64
+Sacramento,2007,317.33
+Sacramento,2007,114.53
+Sacramento,2007,184.09
+Sacramento,2007,38.68
+Sacramento,2007,46.84
+Sacramento,2007,16.49
+Sacramento,2007,29.83
+Sacramento,2007,42.99
+Sacramento,2007,103.65
+Sacramento,2007,23.71
+Sacramento,2007,37.96
+Sacramento,2007,103.29
+Sacramento,2007,138.01
+Sacramento,2007,42.61
+Sacramento,2007,99.3
+Sacramento,2007,44.99
+Sacramento,2007,88.37
+Sacramento,2007,30.71
+Sacramento,2007,36.07
+Sacramento,2008,207.02
+Sacramento,2008,412.33
+Sacramento,2008,118.09
+Sacramento,2008,159.73
+Sacramento,2008,29.44
+Sacramento,2008,90.57
+Sacramento,2008,11.74
+Sacramento,2008,25.01
+Sacramento,2008,40.55
+Sacramento,2008,100.04
+Sacramento,2008,21.27
+Sacramento,2008,41.94
+Sacramento,2008,102.23
+Sacramento,2008,190.98
+Sacramento,2008,51.17
+Sacramento,2008,91.03
+Sacramento,2008,53.94
+Sacramento,2008,100.03
+Sacramento,2008,32.86
+Sacramento,2008,40.93
+Sacramento,2009,219.17
+Sacramento,2009,440.28
+Sacramento,2009,155.92
+Sacramento,2009,234.2
+Sacramento,2009,40.95
+Sacramento,2009,85.5
+Sacramento,2009,10.49
+Sacramento,2009,36.86
+Sacramento,2009,57.81
+Sacramento,2009,132.16
+Sacramento,2009,33.28
+Sacramento,2009,59.62
+Sacramento,2009,75.71
+Sacramento,2009,177.41
+Sacramento,2009,65.75
+Sacramento,2009,96.26
+Sacramento,2009,66.24
+Sacramento,2009,121.33
+Sacramento,2009,45.2
+Sacramento,2009,62.98
+Sacramento,2010,259.95
+Sacramento,2010,474.42
+Sacramento,2010,155.08
+Sacramento,2010,266.52
+Sacramento,2010,37.83
+Sacramento,2010,83.87
+Sacramento,2010,12.62
+Sacramento,2010,40.89
+Sacramento,2010,55.15
+Sacramento,2010,126.75
+Sacramento,2010,34.98
+Sacramento,2010,64.18
+Sacramento,2010,91.79
+Sacramento,2010,168.59
+Sacramento,2010,66.63
+Sacramento,2010,106.28
+Sacramento,2010,73.87
+Sacramento,2010,150.64
+Sacramento,2010,43.28
+Sacramento,2010,63.68
+Sacramento,2011,248.18
+Sacramento,2011,432.97
+Sacramento,2011,167.13
+Sacramento,2011,236.16
+Sacramento,2011,30.74
+Sacramento,2011,85.03
+Sacramento,2011,12.76
+Sacramento,2011,40.49
+Sacramento,2011,55.37
+Sacramento,2011,124.45
+Sacramento,2011,32.54
+Sacramento,2011,67.31
+Sacramento,2011,92.05
+Sacramento,2011,180.43
+Sacramento,2011,65.29
+Sacramento,2011,105.85
+Sacramento,2011,61.31
+Sacramento,2011,124.33
+Sacramento,2011,45.32
+Sacramento,2011,56.48
+Sacramento,2012,253.09
+Sacramento,2012,395.78
+Sacramento,2012,160.77
+Sacramento,2012,261.66
+Sacramento,2012,20.76
+Sacramento,2012,101.68
+Sacramento,2012,18.93
+Sacramento,2012,27.7
+Sacramento,2012,67.04
+Sacramento,2012,130.28
+Sacramento,2012,36.98
+Sacramento,2012,69.35
+Sacramento,2012,88.12
+Sacramento,2012,173.11
+Sacramento,2012,71.81
+Sacramento,2012,104.6
+Sacramento,2012,45.14
+Sacramento,2012,99.46
+Sacramento,2012,43.06
+Sacramento,2012,56.21
+Sacramento,2013,255.62
+Sacramento,2013,436.97
+Sacramento,2013,202.16
+Sacramento,2013,292.6
+Sacramento,2013,28.61
+Sacramento,2013,72.46
+Sacramento,2013,18.3
+Sacramento,2013,33.8
+Sacramento,2013,75.43
+Sacramento,2013,129.66
+Sacramento,2013,46.99
+Sacramento,2013,77.57
+Sacramento,2013,100.18
+Sacramento,2013,169.38
+Sacramento,2013,47.47
+Sacramento,2013,96.31
+Sacramento,2013,44.47
+Sacramento,2013,91.27
+Sacramento,2013,49.7
+Sacramento,2013,53.59
+Sacramento,2014,258.16
+Sacramento,2014,486.92
+Sacramento,2014,220.87
+Sacramento,2014,308.85
+Sacramento,2014,25.14
+Sacramento,2014,80.86
+Sacramento,2014,14.59
+Sacramento,2014,51.61
+Sacramento,2014,73.93
+Sacramento,2014,143.0
+Sacramento,2014,49.17
+Sacramento,2014,85.09
+Sacramento,2014,61.62
+Sacramento,2014,109.08
+Sacramento,2014,59.27
+Sacramento,2014,71.54
+Sacramento,2014,47.73
+Sacramento,2014,119.61
+Sacramento,2014,52.29
+Sacramento,2014,57.71
+San Benito,2005,97.21
+San Benito,2005,104.99
+San Benito,2005,93.19
+San Benito,2005,77.8
+San Benito,2006,119.68
+San Benito,2006,66.39
+San Benito,2006,90.68
+San Benito,2006,87.82
+San Benito,2007,46.4
+San Benito,2007,78.45
+San Benito,2008,186.05
+San Benito,2008,61.55
+San Benito,2008,72.34
+San Benito,2009,151.32
+San Benito,2009,64.14
+San Benito,2009,131.54
+San Benito,2010,123.62
+San Benito,2010,51.14
+San Benito,2010,102.99
+San Benito,2010,123.34
+San Benito,2011,117.32
+San Benito,2011,170.89
+San Benito,2011,74.9
+San Benito,2011,90.93
+San Benito,2011,108.61
+San Benito,2012,112.29
+San Benito,2012,50.17
+San Benito,2012,63.11
+San Benito,2012,136.55
+San Benito,2013,107.05
+San Benito,2013,49.67
+San Benito,2013,96.19
+San Benito,2013,103.42
+San Benito,2013,126.1
+San Benito,2014,59.47
+San Benito,2014,109.29
+San Bernardino,2005,260.07
+San Bernardino,2005,437.9
+San Bernardino,2005,159.12
+San Bernardino,2005,252.14
+San Bernardino,2005,33.47
+San Bernardino,2005,20.0
+San Bernardino,2005,22.96
+San Bernardino,2005,49.01
+San Bernardino,2005,100.14
+San Bernardino,2005,30.86
+San Bernardino,2005,53.37
+San Bernardino,2005,78.18
+San Bernardino,2005,158.98
+San Bernardino,2005,150.45
+San Bernardino,2005,149.95
+San Bernardino,2005,96.62
+San Bernardino,2005,168.81
+San Bernardino,2005,65.42
+San Bernardino,2005,84.28
+San Bernardino,2006,225.33
+San Bernardino,2006,412.15
+San Bernardino,2006,147.53
+San Bernardino,2006,219.26
+San Bernardino,2006,56.6
+San Bernardino,2006,23.21
+San Bernardino,2006,53.57
+San Bernardino,2006,104.26
+San Bernardino,2006,29.23
+San Bernardino,2006,51.52
+San Bernardino,2006,120.89
+San Bernardino,2006,176.17
+San Bernardino,2006,118.47
+San Bernardino,2006,114.78
+San Bernardino,2006,82.3
+San Bernardino,2006,166.96
+San Bernardino,2006,56.48
+San Bernardino,2006,71.0
+San Bernardino,2007,241.21
+San Bernardino,2007,441.11
+San Bernardino,2007,135.69
+San Bernardino,2007,227.11
+San Bernardino,2007,47.97
+San Bernardino,2007,13.61
+San Bernardino,2007,50.09
+San Bernardino,2007,108.62
+San Bernardino,2007,33.27
+San Bernardino,2007,57.05
+San Bernardino,2007,81.77
+San Bernardino,2007,174.87
+San Bernardino,2007,68.23
+San Bernardino,2007,96.97
+San Bernardino,2007,94.02
+San Bernardino,2007,145.75
+San Bernardino,2007,42.47
+San Bernardino,2007,72.69
+San Bernardino,2008,220.34
+San Bernardino,2008,475.97
+San Bernardino,2008,144.6
+San Bernardino,2008,229.44
+San Bernardino,2008,21.74
+San Bernardino,2008,48.32
+San Bernardino,2008,112.16
+San Bernardino,2008,34.71
+San Bernardino,2008,62.05
+San Bernardino,2008,86.57
+San Bernardino,2008,134.69
+San Bernardino,2008,59.24
+San Bernardino,2008,96.12
+San Bernardino,2008,91.38
+San Bernardino,2008,167.01
+San Bernardino,2008,47.94
+San Bernardino,2008,78.12
+San Bernardino,2009,252.33
+San Bernardino,2009,546.4
+San Bernardino,2009,191.63
+San Bernardino,2009,299.87
+San Bernardino,2009,66.87
+San Bernardino,2009,16.08
+San Bernardino,2009,18.42
+San Bernardino,2009,64.12
+San Bernardino,2009,141.28
+San Bernardino,2009,45.59
+San Bernardino,2009,82.11
+San Bernardino,2009,59.57
+San Bernardino,2009,172.3
+San Bernardino,2009,71.01
+San Bernardino,2009,96.56
+San Bernardino,2009,85.54
+San Bernardino,2009,195.54
+San Bernardino,2009,73.16
+San Bernardino,2009,95.22
+San Bernardino,2010,255.46
+San Bernardino,2010,503.01
+San Bernardino,2010,195.93
+San Bernardino,2010,308.47
+San Bernardino,2010,89.71
+San Bernardino,2010,26.71
+San Bernardino,2010,64.06
+San Bernardino,2010,132.83
+San Bernardino,2010,41.09
+San Bernardino,2010,74.23
+San Bernardino,2010,104.24
+San Bernardino,2010,267.47
+San Bernardino,2010,74.94
+San Bernardino,2010,133.71
+San Bernardino,2010,96.24
+San Bernardino,2010,179.06
+San Bernardino,2010,78.83
+San Bernardino,2010,96.69
+San Bernardino,2011,234.2
+San Bernardino,2011,524.65
+San Bernardino,2011,189.89
+San Bernardino,2011,304.69
+San Bernardino,2011,62.42
+San Bernardino,2011,12.05
+San Bernardino,2011,34.65
+San Bernardino,2011,60.66
+San Bernardino,2011,117.1
+San Bernardino,2011,37.06
+San Bernardino,2011,74.74
+San Bernardino,2011,106.7
+San Bernardino,2011,213.66
+San Bernardino,2011,83.53
+San Bernardino,2011,116.66
+San Bernardino,2011,84.6
+San Bernardino,2011,157.52
+San Bernardino,2011,68.04
+San Bernardino,2011,97.31
+San Bernardino,2012,219.96
+San Bernardino,2012,613.01
+San Bernardino,2012,204.1
+San Bernardino,2012,329.56
+San Bernardino,2012,55.61
+San Bernardino,2012,34.01
+San Bernardino,2012,59.94
+San Bernardino,2012,125.05
+San Bernardino,2012,46.3
+San Bernardino,2012,80.84
+San Bernardino,2012,131.05
+San Bernardino,2012,276.96
+San Bernardino,2012,114.52
+San Bernardino,2012,161.15
+San Bernardino,2012,80.13
+San Bernardino,2012,144.23
+San Bernardino,2012,71.07
+San Bernardino,2012,94.28
+San Bernardino,2013,253.04
+San Bernardino,2013,580.4
+San Bernardino,2013,188.26
+San Bernardino,2013,306.01
+San Bernardino,2013,46.33
+San Bernardino,2013,41.23
+San Bernardino,2013,52.89
+San Bernardino,2013,119.65
+San Bernardino,2013,48.58
+San Bernardino,2013,81.68
+San Bernardino,2013,113.86
+San Bernardino,2013,216.34
+San Bernardino,2013,82.62
+San Bernardino,2013,163.16
+San Bernardino,2013,64.54
+San Bernardino,2013,140.52
+San Bernardino,2013,57.25
+San Bernardino,2013,82.94
+San Bernardino,2014,244.66
+San Bernardino,2014,478.31
+San Bernardino,2014,208.88
+San Bernardino,2014,307.05
+San Bernardino,2014,44.61
+San Bernardino,2014,31.84
+San Bernardino,2014,49.05
+San Bernardino,2014,108.46
+San Bernardino,2014,49.16
+San Bernardino,2014,82.26
+San Bernardino,2014,119.52
+San Bernardino,2014,212.97
+San Bernardino,2014,108.44
+San Bernardino,2014,169.71
+San Bernardino,2014,66.91
+San Bernardino,2014,126.26
+San Bernardino,2014,58.2
+San Bernardino,2014,79.99
+San Diego,2005,164.73
+San Diego,2005,336.52
+San Diego,2005,96.63
+San Diego,2005,156.82
+San Diego,2005,34.63
+San Diego,2005,73.37
+San Diego,2005,16.27
+San Diego,2005,28.79
+San Diego,2005,76.22
+San Diego,2005,141.33
+San Diego,2005,38.49
+San Diego,2005,60.85
+San Diego,2005,115.77
+San Diego,2005,220.82
+San Diego,2005,52.9
+San Diego,2005,92.93
+San Diego,2005,45.29
+San Diego,2005,74.2
+San Diego,2005,28.94
+San Diego,2005,37.34
+San Diego,2006,230.7
+San Diego,2006,328.17
+San Diego,2006,121.58
+San Diego,2006,193.96
+San Diego,2006,43.65
+San Diego,2006,94.46
+San Diego,2006,17.84
+San Diego,2006,32.35
+San Diego,2006,67.13
+San Diego,2006,147.53
+San Diego,2006,36.67
+San Diego,2006,54.39
+San Diego,2006,107.8
+San Diego,2006,203.59
+San Diego,2006,38.78
+San Diego,2006,69.81
+San Diego,2006,41.11
+San Diego,2006,90.77
+San Diego,2006,27.24
+San Diego,2006,37.57
+San Diego,2007,222.32
+San Diego,2007,363.6
+San Diego,2007,104.31
+San Diego,2007,162.94
+San Diego,2007,55.61
+San Diego,2007,126.68
+San Diego,2007,16.19
+San Diego,2007,33.1
+San Diego,2007,86.14
+San Diego,2007,156.08
+San Diego,2007,37.95
+San Diego,2007,62.09
+San Diego,2007,136.72
+San Diego,2007,257.56
+San Diego,2007,48.78
+San Diego,2007,88.02
+San Diego,2007,51.44
+San Diego,2007,90.26
+San Diego,2007,24.43
+San Diego,2007,39.16
+San Diego,2008,189.0
+San Diego,2008,333.6
+San Diego,2008,96.56
+San Diego,2008,187.88
+San Diego,2008,31.56
+San Diego,2008,88.3
+San Diego,2008,14.91
+San Diego,2008,31.68
+San Diego,2008,93.65
+San Diego,2008,161.84
+San Diego,2008,38.47
+San Diego,2008,60.96
+San Diego,2008,127.44
+San Diego,2008,219.8
+San Diego,2008,33.97
+San Diego,2008,77.35
+San Diego,2008,51.49
+San Diego,2008,91.08
+San Diego,2008,29.5
+San Diego,2008,36.08
+San Diego,2009,211.91
+San Diego,2009,338.88
+San Diego,2009,109.05
+San Diego,2009,208.82
+San Diego,2009,35.78
+San Diego,2009,119.8
+San Diego,2009,15.82
+San Diego,2009,23.94
+San Diego,2009,82.15
+San Diego,2009,173.15
+San Diego,2009,51.61
+San Diego,2009,77.31
+San Diego,2009,120.1
+San Diego,2009,265.78
+San Diego,2009,69.37
+San Diego,2009,95.3
+San Diego,2009,49.09
+San Diego,2009,99.17
+San Diego,2009,27.85
+San Diego,2009,44.88
+San Diego,2010,216.1
+San Diego,2010,370.22
+San Diego,2010,127.49
+San Diego,2010,182.28
+San Diego,2010,41.47
+San Diego,2010,94.25
+San Diego,2010,15.5
+San Diego,2010,29.59
+San Diego,2010,73.28
+San Diego,2010,152.64
+San Diego,2010,42.92
+San Diego,2010,69.64
+San Diego,2010,125.27
+San Diego,2010,222.97
+San Diego,2010,56.17
+San Diego,2010,97.73
+San Diego,2010,54.47
+San Diego,2010,94.96
+San Diego,2010,27.42
+San Diego,2010,37.09
+San Diego,2011,207.89
+San Diego,2011,398.46
+San Diego,2011,99.85
+San Diego,2011,187.76
+San Diego,2011,44.67
+San Diego,2011,98.6
+San Diego,2011,14.01
+San Diego,2011,32.49
+San Diego,2011,72.7
+San Diego,2011,141.12
+San Diego,2011,42.01
+San Diego,2011,66.65
+San Diego,2011,139.89
+San Diego,2011,225.54
+San Diego,2011,55.08
+San Diego,2011,92.16
+San Diego,2011,42.19
+San Diego,2011,93.02
+San Diego,2011,28.51
+San Diego,2011,38.32
+San Diego,2012,241.23
+San Diego,2012,394.68
+San Diego,2012,126.87
+San Diego,2012,198.75
+San Diego,2012,64.47
+San Diego,2012,78.76
+San Diego,2012,19.63
+San Diego,2012,37.57
+San Diego,2012,84.04
+San Diego,2012,152.91
+San Diego,2012,46.84
+San Diego,2012,71.38
+San Diego,2012,125.64
+San Diego,2012,236.59
+San Diego,2012,75.79
+San Diego,2012,97.06
+San Diego,2012,41.72
+San Diego,2012,93.6
+San Diego,2012,31.61
+San Diego,2012,40.17
+San Diego,2013,172.37
+San Diego,2013,320.51
+San Diego,2013,120.15
+San Diego,2013,158.55
+San Diego,2013,39.05
+San Diego,2013,74.93
+San Diego,2013,15.05
+San Diego,2013,31.45
+San Diego,2013,77.08
+San Diego,2013,156.64
+San Diego,2013,46.09
+San Diego,2013,73.05
+San Diego,2013,127.28
+San Diego,2013,178.88
+San Diego,2013,59.33
+San Diego,2013,95.52
+San Diego,2013,47.07
+San Diego,2013,83.25
+San Diego,2013,26.39
+San Diego,2013,33.98
+San Diego,2014,205.33
+San Diego,2014,352.5
+San Diego,2014,111.54
+San Diego,2014,177.97
+San Diego,2014,47.74
+San Diego,2014,86.64
+San Diego,2014,15.2
+San Diego,2014,30.78
+San Diego,2014,67.91
+San Diego,2014,133.56
+San Diego,2014,45.64
+San Diego,2014,69.76
+San Diego,2014,98.29
+San Diego,2014,184.99
+San Diego,2014,62.59
+San Diego,2014,73.15
+San Diego,2014,36.59
+San Diego,2014,71.56
+San Diego,2014,25.17
+San Diego,2014,35.13
+San Francisco,2005,126.05
+San Francisco,2005,393.31
+San Francisco,2005,70.33
+San Francisco,2005,107.98
+San Francisco,2005,58.49
+San Francisco,2005,94.98
+San Francisco,2005,12.32
+San Francisco,2005,25.35
+San Francisco,2005,49.15
+San Francisco,2005,113.52
+San Francisco,2005,21.82
+San Francisco,2005,35.79
+San Francisco,2005,111.11
+San Francisco,2005,264.69
+San Francisco,2005,157.32
+San Francisco,2005,252.6
+San Francisco,2005,66.46
+San Francisco,2005,68.34
+San Francisco,2005,21.49
+San Francisco,2005,38.84
+San Francisco,2006,108.11
+San Francisco,2006,231.32
+San Francisco,2006,75.16
+San Francisco,2006,94.98
+San Francisco,2006,50.21
+San Francisco,2006,79.22
+San Francisco,2006,11.57
+San Francisco,2006,19.81
+San Francisco,2006,44.69
+San Francisco,2006,92.18
+San Francisco,2006,15.19
+San Francisco,2006,32.64
+San Francisco,2006,122.37
+San Francisco,2006,211.13
+San Francisco,2006,64.19
+San Francisco,2006,146.17
+San Francisco,2006,42.39
+San Francisco,2006,73.56
+San Francisco,2006,26.08
+San Francisco,2006,48.06
+San Francisco,2007,163.64
+San Francisco,2007,289.45
+San Francisco,2007,99.18
+San Francisco,2007,120.52
+San Francisco,2007,40.49
+San Francisco,2007,91.04
+San Francisco,2007,9.27
+San Francisco,2007,31.02
+San Francisco,2007,55.07
+San Francisco,2007,75.36
+San Francisco,2007,19.17
+San Francisco,2007,38.65
+San Francisco,2007,79.42
+San Francisco,2007,133.67
+San Francisco,2007,99.84
+San Francisco,2007,53.62
+San Francisco,2007,87.14
+San Francisco,2007,26.64
+San Francisco,2007,40.11
+San Francisco,2008,205.22
+San Francisco,2008,416.26
+San Francisco,2008,93.58
+San Francisco,2008,162.14
+San Francisco,2008,44.46
+San Francisco,2008,78.61
+San Francisco,2008,15.41
+San Francisco,2008,18.64
+San Francisco,2008,95.42
+San Francisco,2008,96.86
+San Francisco,2008,30.88
+San Francisco,2008,46.99
+San Francisco,2008,104.1
+San Francisco,2008,57.7
+San Francisco,2008,49.5
+San Francisco,2008,100.66
+San Francisco,2008,27.02
+San Francisco,2008,45.12
+San Francisco,2009,263.67
+San Francisco,2009,408.37
+San Francisco,2009,144.39
+San Francisco,2009,272.55
+San Francisco,2009,78.29
+San Francisco,2009,137.46
+San Francisco,2009,25.58
+San Francisco,2009,30.82
+San Francisco,2009,85.03
+San Francisco,2009,206.95
+San Francisco,2009,53.55
+San Francisco,2009,71.02
+San Francisco,2009,134.23
+San Francisco,2009,186.92
+San Francisco,2009,56.57
+San Francisco,2009,78.71
+San Francisco,2009,79.9
+San Francisco,2009,119.03
+San Francisco,2009,34.25
+San Francisco,2009,50.38
+San Francisco,2010,290.29
+San Francisco,2010,431.21
+San Francisco,2010,133.39
+San Francisco,2010,257.08
+San Francisco,2010,62.55
+San Francisco,2010,151.96
+San Francisco,2010,26.71
+San Francisco,2010,34.23
+San Francisco,2010,105.13
+San Francisco,2010,216.86
+San Francisco,2010,44.94
+San Francisco,2010,45.91
+San Francisco,2010,97.5
+San Francisco,2010,208.0
+San Francisco,2010,134.18
+San Francisco,2010,103.93
+San Francisco,2010,124.82
+San Francisco,2010,35.97
+San Francisco,2010,56.17
+San Francisco,2011,256.41
+San Francisco,2011,365.85
+San Francisco,2011,142.13
+San Francisco,2011,198.38
+San Francisco,2011,54.25
+San Francisco,2011,105.14
+San Francisco,2011,16.93
+San Francisco,2011,45.61
+San Francisco,2011,101.14
+San Francisco,2011,113.04
+San Francisco,2011,28.62
+San Francisco,2011,73.48
+San Francisco,2011,71.78
+San Francisco,2011,164.81
+San Francisco,2011,80.35
+San Francisco,2011,63.18
+San Francisco,2011,64.19
+San Francisco,2011,81.51
+San Francisco,2011,39.4
+San Francisco,2011,58.72
+San Francisco,2012,260.26
+San Francisco,2012,471.79
+San Francisco,2012,134.45
+San Francisco,2012,189.53
+San Francisco,2012,26.25
+San Francisco,2012,93.32
+San Francisco,2012,18.5
+San Francisco,2012,41.29
+San Francisco,2012,85.55
+San Francisco,2012,127.29
+San Francisco,2012,45.16
+San Francisco,2012,78.63
+San Francisco,2012,85.42
+San Francisco,2012,251.9
+San Francisco,2012,44.72
+San Francisco,2012,85.9
+San Francisco,2012,56.04
+San Francisco,2012,105.18
+San Francisco,2012,32.56
+San Francisco,2012,61.36
+San Francisco,2013,305.12
+San Francisco,2013,505.98
+San Francisco,2013,154.69
+San Francisco,2013,189.31
+San Francisco,2013,43.06
+San Francisco,2013,61.81
+San Francisco,2013,17.4
+San Francisco,2013,40.56
+San Francisco,2013,62.44
+San Francisco,2013,142.73
+San Francisco,2013,42.3
+San Francisco,2013,70.63
+San Francisco,2013,95.39
+San Francisco,2013,164.4
+San Francisco,2013,59.48
+San Francisco,2013,99.65
+San Francisco,2013,47.95
+San Francisco,2013,89.42
+San Francisco,2013,35.91
+San Francisco,2013,47.31
+San Francisco,2014,314.59
+San Francisco,2014,511.21
+San Francisco,2014,186.43
+San Francisco,2014,242.34
+San Francisco,2014,29.63
+San Francisco,2014,68.45
+San Francisco,2014,35.69
+San Francisco,2014,38.55
+San Francisco,2014,70.6
+San Francisco,2014,137.92
+San Francisco,2014,72.1
+San Francisco,2014,98.68
+San Francisco,2014,63.39
+San Francisco,2014,181.56
+San Francisco,2014,67.19
+San Francisco,2014,97.43
+San Francisco,2014,51.29
+San Francisco,2014,45.48
+San Francisco,2014,26.85
+San Francisco,2014,32.33
+San Joaquin,2005,84.32
+San Joaquin,2005,331.93
+San Joaquin,2005,110.72
+San Joaquin,2005,190.54
+San Joaquin,2005,61.09
+San Joaquin,2005,17.33
+San Joaquin,2005,30.95
+San Joaquin,2005,46.1
+San Joaquin,2005,83.06
+San Joaquin,2005,21.95
+San Joaquin,2005,43.01
+San Joaquin,2005,95.97
+San Joaquin,2005,61.64
+San Joaquin,2005,99.31
+San Joaquin,2005,64.83
+San Joaquin,2005,122.81
+San Joaquin,2005,43.52
+San Joaquin,2005,60.44
+San Joaquin,2006,156.69
+San Joaquin,2006,364.96
+San Joaquin,2006,125.28
+San Joaquin,2006,166.23
+San Joaquin,2006,64.72
+San Joaquin,2006,26.97
+San Joaquin,2006,34.28
+San Joaquin,2006,89.83
+San Joaquin,2006,24.54
+San Joaquin,2006,48.31
+San Joaquin,2006,101.28
+San Joaquin,2006,115.31
+San Joaquin,2006,98.45
+San Joaquin,2006,55.72
+San Joaquin,2006,94.7
+San Joaquin,2006,51.52
+San Joaquin,2006,69.93
+San Joaquin,2007,252.05
+San Joaquin,2007,387.4
+San Joaquin,2007,143.4
+San Joaquin,2007,183.96
+San Joaquin,2007,66.26
+San Joaquin,2007,22.78
+San Joaquin,2007,44.55
+San Joaquin,2007,91.73
+San Joaquin,2007,22.54
+San Joaquin,2007,39.49
+San Joaquin,2007,113.42
+San Joaquin,2007,48.14
+San Joaquin,2007,60.56
+San Joaquin,2007,114.87
+San Joaquin,2007,49.81
+San Joaquin,2007,53.92
+San Joaquin,2008,231.31
+San Joaquin,2008,419.95
+San Joaquin,2008,132.88
+San Joaquin,2008,203.24
+San Joaquin,2008,79.83
+San Joaquin,2008,22.72
+San Joaquin,2008,47.03
+San Joaquin,2008,124.8
+San Joaquin,2008,30.39
+San Joaquin,2008,51.86
+San Joaquin,2008,126.98
+San Joaquin,2008,83.19
+San Joaquin,2008,85.47
+San Joaquin,2008,177.51
+San Joaquin,2008,45.27
+San Joaquin,2008,71.37
+San Joaquin,2009,388.03
+San Joaquin,2009,516.41
+San Joaquin,2009,160.68
+San Joaquin,2009,280.0
+San Joaquin,2009,38.89
+San Joaquin,2009,106.29
+San Joaquin,2009,20.95
+San Joaquin,2009,30.97
+San Joaquin,2009,70.52
+San Joaquin,2009,138.49
+San Joaquin,2009,36.81
+San Joaquin,2009,65.64
+San Joaquin,2009,83.92
+San Joaquin,2009,202.53
+San Joaquin,2009,52.81
+San Joaquin,2009,73.91
+San Joaquin,2009,112.3
+San Joaquin,2009,194.13
+San Joaquin,2009,52.44
+San Joaquin,2009,87.44
+San Joaquin,2010,301.54
+San Joaquin,2010,606.39
+San Joaquin,2010,137.18
+San Joaquin,2010,318.62
+San Joaquin,2010,45.14
+San Joaquin,2010,100.17
+San Joaquin,2010,13.51
+San Joaquin,2010,22.32
+San Joaquin,2010,66.45
+San Joaquin,2010,129.41
+San Joaquin,2010,37.65
+San Joaquin,2010,69.5
+San Joaquin,2010,147.16
+San Joaquin,2010,178.8
+San Joaquin,2010,71.44
+San Joaquin,2010,99.36
+San Joaquin,2010,131.85
+San Joaquin,2010,181.48
+San Joaquin,2010,62.29
+San Joaquin,2010,88.42
+San Joaquin,2011,210.92
+San Joaquin,2011,495.32
+San Joaquin,2011,122.74
+San Joaquin,2011,276.76
+San Joaquin,2011,46.93
+San Joaquin,2011,66.04
+San Joaquin,2011,15.94
+San Joaquin,2011,32.08
+San Joaquin,2011,56.98
+San Joaquin,2011,130.86
+San Joaquin,2011,41.7
+San Joaquin,2011,71.57
+San Joaquin,2011,214.99
+San Joaquin,2011,49.23
+San Joaquin,2011,106.13
+San Joaquin,2011,97.64
+San Joaquin,2011,147.08
+San Joaquin,2011,48.73
+San Joaquin,2011,76.77
+San Joaquin,2012,284.78
+San Joaquin,2012,491.98
+San Joaquin,2012,167.87
+San Joaquin,2012,263.87
+San Joaquin,2012,40.39
+San Joaquin,2012,104.25
+San Joaquin,2012,23.0
+San Joaquin,2012,31.82
+San Joaquin,2012,50.94
+San Joaquin,2012,114.09
+San Joaquin,2012,40.31
+San Joaquin,2012,68.18
+San Joaquin,2012,212.77
+San Joaquin,2012,54.74
+San Joaquin,2012,85.85
+San Joaquin,2012,87.18
+San Joaquin,2012,145.77
+San Joaquin,2012,46.21
+San Joaquin,2012,76.24
+San Joaquin,2013,323.62
+San Joaquin,2013,518.94
+San Joaquin,2013,183.45
+San Joaquin,2013,338.95
+San Joaquin,2013,60.72
+San Joaquin,2013,97.32
+San Joaquin,2013,32.0
+San Joaquin,2013,41.46
+San Joaquin,2013,58.05
+San Joaquin,2013,138.83
+San Joaquin,2013,48.43
+San Joaquin,2013,68.03
+San Joaquin,2013,146.12
+San Joaquin,2013,69.98
+San Joaquin,2013,77.82
+San Joaquin,2013,91.45
+San Joaquin,2013,135.37
+San Joaquin,2013,51.35
+San Joaquin,2013,70.38
+San Joaquin,2014,308.64
+San Joaquin,2014,505.0
+San Joaquin,2014,195.8
+San Joaquin,2014,342.33
+San Joaquin,2014,81.78
+San Joaquin,2014,26.37
+San Joaquin,2014,33.41
+San Joaquin,2014,62.46
+San Joaquin,2014,136.69
+San Joaquin,2014,51.7
+San Joaquin,2014,93.14
+San Joaquin,2014,114.56
+San Joaquin,2014,145.75
+San Joaquin,2014,72.66
+San Joaquin,2014,125.97
+San Joaquin,2014,80.57
+San Joaquin,2014,114.4
+San Joaquin,2014,54.2
+San Joaquin,2014,66.8
+San Luis Obispo,2005,54.3
+San Luis Obispo,2005,21.18
+San Luis Obispo,2005,63.94
+San Luis Obispo,2005,104.11
+San Luis Obispo,2005,50.4
+San Luis Obispo,2005,58.95
+San Luis Obispo,2006,71.22
+San Luis Obispo,2006,22.05
+San Luis Obispo,2006,30.79
+San Luis Obispo,2006,61.65
+San Luis Obispo,2006,86.8
+San Luis Obispo,2006,49.51
+San Luis Obispo,2006,49.77
+San Luis Obispo,2007,72.7
+San Luis Obispo,2007,27.84
+San Luis Obispo,2007,44.07
+San Luis Obispo,2007,35.08
+San Luis Obispo,2007,112.15
+San Luis Obispo,2007,48.9
+San Luis Obispo,2007,44.99
+San Luis Obispo,2008,69.71
+San Luis Obispo,2008,39.33
+San Luis Obispo,2008,49.14
+San Luis Obispo,2008,130.86
+San Luis Obispo,2008,42.33
+San Luis Obispo,2008,47.92
+San Luis Obispo,2009,77.25
+San Luis Obispo,2009,21.46
+San Luis Obispo,2009,44.9
+San Luis Obispo,2009,39.29
+San Luis Obispo,2009,65.04
+San Luis Obispo,2009,40.72
+San Luis Obispo,2009,53.14
+San Luis Obispo,2010,98.6
+San Luis Obispo,2010,31.52
+San Luis Obispo,2010,59.38
+San Luis Obispo,2010,69.34
+San Luis Obispo,2010,103.51
+San Luis Obispo,2010,44.59
+San Luis Obispo,2010,50.66
+San Luis Obispo,2011,81.05
+San Luis Obispo,2011,32.69
+San Luis Obispo,2011,52.38
+San Luis Obispo,2011,57.92
+San Luis Obispo,2011,116.5
+San Luis Obispo,2011,35.89
+San Luis Obispo,2011,49.19
+San Luis Obispo,2012,91.05
+San Luis Obispo,2012,49.75
+San Luis Obispo,2012,52.8
+San Luis Obispo,2012,35.1
+San Luis Obispo,2012,100.95
+San Luis Obispo,2012,44.59
+San Luis Obispo,2012,54.05
+San Luis Obispo,2013,84.21
+San Luis Obispo,2013,51.71
+San Luis Obispo,2013,42.1
+San Luis Obispo,2013,46.07
+San Luis Obispo,2013,35.69
+San Luis Obispo,2013,65.09
+San Luis Obispo,2013,29.29
+San Luis Obispo,2013,47.51
+San Luis Obispo,2014,68.38
+San Luis Obispo,2014,51.59
+San Luis Obispo,2014,49.07
+San Luis Obispo,2014,52.64
+San Luis Obispo,2014,110.39
+San Luis Obispo,2014,34.76
+San Luis Obispo,2014,54.37
+San Mateo,2005,121.25
+San Mateo,2005,80.49
+San Mateo,2005,45.91
+San Mateo,2005,84.07
+San Mateo,2005,18.17
+San Mateo,2005,23.36
+San Mateo,2005,83.96
+San Mateo,2005,189.23
+San Mateo,2005,42.94
+San Mateo,2005,68.75
+San Mateo,2005,181.51
+San Mateo,2005,207.55
+San Mateo,2005,344.52
+San Mateo,2005,61.13
+San Mateo,2005,65.23
+San Mateo,2005,24.54
+San Mateo,2005,39.42
+San Mateo,2006,101.18
+San Mateo,2006,36.02
+San Mateo,2006,92.52
+San Mateo,2006,19.78
+San Mateo,2006,27.17
+San Mateo,2006,73.15
+San Mateo,2006,149.91
+San Mateo,2006,41.72
+San Mateo,2006,60.06
+San Mateo,2006,79.32
+San Mateo,2006,196.3
+San Mateo,2006,89.25
+San Mateo,2006,193.46
+San Mateo,2006,35.28
+San Mateo,2006,55.45
+San Mateo,2006,31.4
+San Mateo,2006,37.66
+San Mateo,2007,90.35
+San Mateo,2007,53.89
+San Mateo,2007,73.19
+San Mateo,2007,26.39
+San Mateo,2007,36.97
+San Mateo,2007,94.3
+San Mateo,2007,125.96
+San Mateo,2007,42.64
+San Mateo,2007,68.58
+San Mateo,2007,114.57
+San Mateo,2007,55.45
+San Mateo,2007,51.08
+San Mateo,2007,34.22
+San Mateo,2007,78.65
+San Mateo,2007,20.46
+San Mateo,2007,37.46
+San Mateo,2008,409.21
+San Mateo,2008,302.33
+San Mateo,2008,98.28
+San Mateo,2008,47.1
+San Mateo,2008,87.02
+San Mateo,2008,19.41
+San Mateo,2008,28.2
+San Mateo,2008,71.13
+San Mateo,2008,99.42
+San Mateo,2008,26.43
+San Mateo,2008,65.95
+San Mateo,2008,71.04
+San Mateo,2008,105.76
+San Mateo,2008,41.45
+San Mateo,2008,65.38
+San Mateo,2008,30.48
+San Mateo,2008,68.61
+San Mateo,2008,26.4
+San Mateo,2008,31.68
+San Mateo,2009,303.03
+San Mateo,2009,368.55
+San Mateo,2009,107.33
+San Mateo,2009,117.88
+San Mateo,2009,42.96
+San Mateo,2009,86.22
+San Mateo,2009,18.18
+San Mateo,2009,43.09
+San Mateo,2009,57.46
+San Mateo,2009,143.33
+San Mateo,2009,40.99
+San Mateo,2009,71.33
+San Mateo,2009,65.04
+San Mateo,2009,133.81
+San Mateo,2009,73.65
+San Mateo,2009,116.06
+San Mateo,2009,42.87
+San Mateo,2009,84.15
+San Mateo,2009,20.24
+San Mateo,2009,40.96
+San Mateo,2010,97.8
+San Mateo,2010,146.67
+San Mateo,2010,53.85
+San Mateo,2010,106.21
+San Mateo,2010,21.08
+San Mateo,2010,28.19
+San Mateo,2010,74.33
+San Mateo,2010,150.57
+San Mateo,2010,51.35
+San Mateo,2010,64.29
+San Mateo,2010,119.37
+San Mateo,2010,227.86
+San Mateo,2010,41.09
+San Mateo,2010,91.35
+San Mateo,2010,26.92
+San Mateo,2010,67.43
+San Mateo,2010,23.84
+San Mateo,2010,25.52
+San Mateo,2011,277.78
+San Mateo,2011,93.13
+San Mateo,2011,93.0
+San Mateo,2011,83.39
+San Mateo,2011,26.99
+San Mateo,2011,27.32
+San Mateo,2011,88.72
+San Mateo,2011,122.19
+San Mateo,2011,47.79
+San Mateo,2011,59.11
+San Mateo,2011,111.67
+San Mateo,2011,193.01
+San Mateo,2011,60.98
+San Mateo,2011,67.65
+San Mateo,2011,41.27
+San Mateo,2011,74.64
+San Mateo,2011,23.2
+San Mateo,2011,33.91
+San Mateo,2012,274.6
+San Mateo,2012,153.02
+San Mateo,2012,47.05
+San Mateo,2012,48.42
+San Mateo,2012,25.27
+San Mateo,2012,31.79
+San Mateo,2012,81.29
+San Mateo,2012,120.5
+San Mateo,2012,37.02
+San Mateo,2012,60.95
+San Mateo,2012,160.13
+San Mateo,2012,155.12
+San Mateo,2012,29.46
+San Mateo,2012,80.86
+San Mateo,2012,28.58
+San Mateo,2012,74.5
+San Mateo,2012,20.72
+San Mateo,2012,33.2
+San Mateo,2013,93.24
+San Mateo,2013,131.5
+San Mateo,2013,46.47
+San Mateo,2013,12.92
+San Mateo,2013,19.21
+San Mateo,2013,85.54
+San Mateo,2013,121.25
+San Mateo,2013,44.77
+San Mateo,2013,67.12
+San Mateo,2013,125.2
+San Mateo,2013,148.34
+San Mateo,2013,47.52
+San Mateo,2013,58.25
+San Mateo,2013,50.98
+San Mateo,2013,21.67
+San Mateo,2013,31.01
+San Mateo,2014,91.27
+San Mateo,2014,40.89
+San Mateo,2014,43.04
+San Mateo,2014,24.88
+San Mateo,2014,23.11
+San Mateo,2014,81.37
+San Mateo,2014,140.62
+San Mateo,2014,45.9
+San Mateo,2014,64.42
+San Mateo,2014,108.4
+San Mateo,2014,162.19
+San Mateo,2014,71.14
+San Mateo,2014,94.33
+San Mateo,2014,25.24
+San Mateo,2014,58.33
+San Mateo,2014,28.07
+San Mateo,2014,37.57
+Santa Barbara,2005,192.71
+Santa Barbara,2005,35.89
+Santa Barbara,2005,95.63
+Santa Barbara,2005,31.23
+Santa Barbara,2005,57.89
+Santa Barbara,2005,52.67
+Santa Barbara,2005,68.25
+Santa Barbara,2005,44.68
+Santa Barbara,2005,53.69
+Santa Barbara,2006,346.0
+Santa Barbara,2006,36.53
+Santa Barbara,2006,84.11
+Santa Barbara,2006,27.12
+Santa Barbara,2006,51.88
+Santa Barbara,2006,46.52
+Santa Barbara,2006,53.29
+Santa Barbara,2006,33.64
+Santa Barbara,2006,50.96
+Santa Barbara,2007,397.09
+Santa Barbara,2007,37.11
+Santa Barbara,2007,83.97
+Santa Barbara,2007,28.55
+Santa Barbara,2007,51.68
+Santa Barbara,2007,57.65
+Santa Barbara,2007,64.28
+Santa Barbara,2007,38.85
+Santa Barbara,2007,25.99
+Santa Barbara,2008,290.88
+Santa Barbara,2008,66.07
+Santa Barbara,2008,71.06
+Santa Barbara,2008,29.98
+Santa Barbara,2008,42.45
+Santa Barbara,2008,60.85
+Santa Barbara,2008,60.27
+Santa Barbara,2008,31.7
+Santa Barbara,2008,34.72
+Santa Barbara,2009,1059.6
+Santa Barbara,2009,389.26
+Santa Barbara,2009,82.79
+Santa Barbara,2009,88.0
+Santa Barbara,2009,41.22
+Santa Barbara,2009,75.63
+Santa Barbara,2009,60.24
+Santa Barbara,2009,103.26
+Santa Barbara,2009,53.59
+Santa Barbara,2009,48.93
+Santa Barbara,2010,63.61
+Santa Barbara,2010,93.43
+Santa Barbara,2010,48.14
+Santa Barbara,2010,61.99
+Santa Barbara,2010,68.2
+Santa Barbara,2010,119.86
+Santa Barbara,2010,46.37
+Santa Barbara,2010,47.72
+Santa Barbara,2011,42.39
+Santa Barbara,2011,106.13
+Santa Barbara,2011,43.37
+Santa Barbara,2011,58.41
+Santa Barbara,2011,57.79
+Santa Barbara,2011,93.74
+Santa Barbara,2011,48.38
+Santa Barbara,2011,47.17
+Santa Barbara,2012,69.07
+Santa Barbara,2012,123.03
+Santa Barbara,2012,55.16
+Santa Barbara,2012,80.12
+Santa Barbara,2012,53.64
+Santa Barbara,2012,111.42
+Santa Barbara,2012,45.91
+Santa Barbara,2012,56.78
+Santa Barbara,2013,334.83
+Santa Barbara,2013,54.61
+Santa Barbara,2013,110.51
+Santa Barbara,2013,58.59
+Santa Barbara,2013,71.33
+Santa Barbara,2013,78.67
+Santa Barbara,2013,80.24
+Santa Barbara,2013,52.86
+Santa Barbara,2013,61.63
+Santa Barbara,2014,51.08
+Santa Barbara,2014,103.25
+Santa Barbara,2014,57.51
+Santa Barbara,2014,86.92
+Santa Barbara,2014,57.75
+Santa Barbara,2014,76.99
+Santa Barbara,2014,55.14
+Santa Barbara,2014,43.55
+Santa Clara,2005,147.47
+Santa Clara,2005,266.43
+Santa Clara,2005,70.21
+Santa Clara,2005,99.56
+Santa Clara,2005,27.48
+Santa Clara,2005,65.25
+Santa Clara,2005,9.07
+Santa Clara,2005,19.5
+Santa Clara,2005,62.95
+Santa Clara,2005,118.93
+Santa Clara,2005,30.82
+Santa Clara,2005,47.15
+Santa Clara,2005,93.15
+Santa Clara,2005,185.86
+Santa Clara,2005,103.03
+Santa Clara,2005,165.22
+Santa Clara,2005,34.48
+Santa Clara,2005,79.22
+Santa Clara,2005,18.47
+Santa Clara,2005,27.45
+Santa Clara,2006,196.26
+Santa Clara,2006,229.89
+Santa Clara,2006,74.68
+Santa Clara,2006,114.21
+Santa Clara,2006,24.58
+Santa Clara,2006,61.15
+Santa Clara,2006,10.75
+Santa Clara,2006,20.05
+Santa Clara,2006,59.99
+Santa Clara,2006,131.06
+Santa Clara,2006,30.1
+Santa Clara,2006,47.18
+Santa Clara,2006,78.03
+Santa Clara,2006,131.99
+Santa Clara,2006,88.72
+Santa Clara,2006,79.04
+Santa Clara,2006,24.9
+Santa Clara,2006,67.78
+Santa Clara,2006,18.11
+Santa Clara,2006,23.55
+Santa Clara,2007,146.65
+Santa Clara,2007,270.98
+Santa Clara,2007,83.21
+Santa Clara,2007,126.96
+Santa Clara,2007,28.31
+Santa Clara,2007,49.15
+Santa Clara,2007,13.49
+Santa Clara,2007,21.32
+Santa Clara,2007,61.71
+Santa Clara,2007,134.54
+Santa Clara,2007,34.33
+Santa Clara,2007,50.97
+Santa Clara,2007,49.54
+Santa Clara,2007,105.24
+Santa Clara,2007,54.25
+Santa Clara,2007,33.42
+Santa Clara,2007,81.25
+Santa Clara,2007,21.42
+Santa Clara,2007,21.01
+Santa Clara,2008,116.59
+Santa Clara,2008,314.89
+Santa Clara,2008,67.55
+Santa Clara,2008,99.95
+Santa Clara,2008,24.01
+Santa Clara,2008,53.47
+Santa Clara,2008,9.33
+Santa Clara,2008,15.97
+Santa Clara,2008,51.28
+Santa Clara,2008,135.26
+Santa Clara,2008,37.66
+Santa Clara,2008,60.95
+Santa Clara,2008,58.71
+Santa Clara,2008,116.67
+Santa Clara,2008,29.62
+Santa Clara,2008,48.32
+Santa Clara,2008,30.11
+Santa Clara,2008,60.78
+Santa Clara,2008,21.02
+Santa Clara,2008,25.56
+Santa Clara,2009,173.76
+Santa Clara,2009,280.76
+Santa Clara,2009,84.75
+Santa Clara,2009,163.73
+Santa Clara,2009,30.18
+Santa Clara,2009,55.84
+Santa Clara,2009,9.7
+Santa Clara,2009,20.19
+Santa Clara,2009,58.26
+Santa Clara,2009,120.5
+Santa Clara,2009,39.53
+Santa Clara,2009,71.49
+Santa Clara,2009,51.34
+Santa Clara,2009,124.53
+Santa Clara,2009,31.77
+Santa Clara,2009,53.94
+Santa Clara,2009,42.09
+Santa Clara,2009,67.68
+Santa Clara,2009,23.35
+Santa Clara,2009,25.46
+Santa Clara,2010,141.34
+Santa Clara,2010,314.05
+Santa Clara,2010,98.25
+Santa Clara,2010,151.22
+Santa Clara,2010,21.51
+Santa Clara,2010,55.29
+Santa Clara,2010,10.73
+Santa Clara,2010,18.7
+Santa Clara,2010,70.63
+Santa Clara,2010,137.19
+Santa Clara,2010,37.59
+Santa Clara,2010,62.56
+Santa Clara,2010,64.98
+Santa Clara,2010,162.1
+Santa Clara,2010,33.53
+Santa Clara,2010,52.42
+Santa Clara,2010,48.23
+Santa Clara,2010,69.05
+Santa Clara,2010,21.03
+Santa Clara,2010,34.23
+Santa Clara,2011,211.68
+Santa Clara,2011,125.67
+Santa Clara,2011,183.04
+Santa Clara,2011,24.44
+Santa Clara,2011,47.7
+Santa Clara,2011,11.14
+Santa Clara,2011,22.48
+Santa Clara,2011,55.6
+Santa Clara,2011,115.56
+Santa Clara,2011,40.34
+Santa Clara,2011,67.03
+Santa Clara,2011,40.87
+Santa Clara,2011,84.64
+Santa Clara,2011,20.58
+Santa Clara,2011,59.17
+Santa Clara,2011,32.77
+Santa Clara,2011,64.64
+Santa Clara,2011,18.69
+Santa Clara,2011,26.7
+Santa Clara,2012,164.64
+Santa Clara,2012,132.3
+Santa Clara,2012,144.56
+Santa Clara,2012,19.23
+Santa Clara,2012,40.72
+Santa Clara,2012,12.51
+Santa Clara,2012,19.15
+Santa Clara,2012,52.8
+Santa Clara,2012,107.85
+Santa Clara,2012,38.63
+Santa Clara,2012,70.09
+Santa Clara,2012,56.14
+Santa Clara,2012,91.0
+Santa Clara,2012,26.29
+Santa Clara,2012,54.44
+Santa Clara,2012,28.83
+Santa Clara,2012,68.53
+Santa Clara,2012,24.69
+Santa Clara,2012,30.32
+Santa Clara,2013,150.0
+Santa Clara,2013,137.37
+Santa Clara,2013,129.13
+Santa Clara,2013,19.98
+Santa Clara,2013,41.29
+Santa Clara,2013,12.03
+Santa Clara,2013,20.75
+Santa Clara,2013,43.41
+Santa Clara,2013,106.3
+Santa Clara,2013,38.77
+Santa Clara,2013,61.92
+Santa Clara,2013,51.02
+Santa Clara,2013,105.26
+Santa Clara,2013,30.73
+Santa Clara,2013,44.21
+Santa Clara,2013,27.81
+Santa Clara,2013,44.27
+Santa Clara,2013,24.77
+Santa Clara,2013,31.78
+Santa Clara,2014,88.11
+Santa Clara,2014,117.48
+Santa Clara,2014,115.63
+Santa Clara,2014,133.95
+Santa Clara,2014,31.0
+Santa Clara,2014,40.23
+Santa Clara,2014,9.13
+Santa Clara,2014,27.64
+Santa Clara,2014,52.19
+Santa Clara,2014,101.94
+Santa Clara,2014,37.07
+Santa Clara,2014,66.92
+Santa Clara,2014,40.98
+Santa Clara,2014,78.52
+Santa Clara,2014,35.32
+Santa Clara,2014,36.87
+Santa Clara,2014,16.33
+Santa Clara,2014,52.43
+Santa Clara,2014,26.82
+Santa Clara,2014,26.89
+Santa Cruz,2005,21.96
+Santa Cruz,2005,919.22
+Santa Cruz,2005,1410.26
+Santa Cruz,2005,324.16
+Santa Cruz,2005,499.01
+Santa Cruz,2005,89.65
+Santa Cruz,2005,33.37
+Santa Cruz,2005,37.98
+Santa Cruz,2006,49.36
+Santa Cruz,2006,21.17
+Santa Cruz,2006,928.96
+Santa Cruz,2006,1511.94
+Santa Cruz,2006,518.14
+Santa Cruz,2006,577.19
+Santa Cruz,2006,53.26
+Santa Cruz,2006,87.4
+Santa Cruz,2006,24.87
+Santa Cruz,2006,23.44
+Santa Cruz,2007,43.73
+Santa Cruz,2007,18.46
+Santa Cruz,2007,17.78
+Santa Cruz,2007,1192.41
+Santa Cruz,2007,1815.79
+Santa Cruz,2007,439.99
+Santa Cruz,2007,690.67
+Santa Cruz,2007,49.69
+Santa Cruz,2007,24.83
+Santa Cruz,2007,27.68
+Santa Cruz,2008,95.71
+Santa Cruz,2008,175.94
+Santa Cruz,2008,42.52
+Santa Cruz,2008,87.8
+Santa Cruz,2008,48.18
+Santa Cruz,2008,81.71
+Santa Cruz,2008,38.38
+Santa Cruz,2008,32.31
+Santa Cruz,2009,73.64
+Santa Cruz,2009,167.18
+Santa Cruz,2009,73.87
+Santa Cruz,2009,89.7
+Santa Cruz,2009,42.89
+Santa Cruz,2009,89.58
+Santa Cruz,2009,27.71
+Santa Cruz,2009,40.68
+Santa Cruz,2010,110.58
+Santa Cruz,2010,239.62
+Santa Cruz,2010,59.03
+Santa Cruz,2010,78.14
+Santa Cruz,2010,46.78
+Santa Cruz,2010,51.14
+Santa Cruz,2010,37.97
+Santa Cruz,2010,35.99
+Santa Cruz,2011,122.43
+Santa Cruz,2011,166.1
+Santa Cruz,2011,51.41
+Santa Cruz,2011,81.67
+Santa Cruz,2011,47.03
+Santa Cruz,2011,50.71
+Santa Cruz,2011,26.25
+Santa Cruz,2011,45.25
+Santa Cruz,2012,108.54
+Santa Cruz,2012,191.05
+Santa Cruz,2012,58.76
+Santa Cruz,2012,81.24
+Santa Cruz,2012,61.95
+Santa Cruz,2012,114.86
+Santa Cruz,2012,50.44
+Santa Cruz,2012,44.4
+Santa Cruz,2013,145.93
+Santa Cruz,2013,152.25
+Santa Cruz,2013,62.2
+Santa Cruz,2013,82.67
+Santa Cruz,2013,76.95
+Santa Cruz,2013,37.4
+Santa Cruz,2013,39.12
+Santa Cruz,2014,106.08
+Santa Cruz,2014,150.31
+Santa Cruz,2014,62.22
+Santa Cruz,2014,99.77
+Santa Cruz,2014,89.17
+Santa Cruz,2014,26.68
+Santa Cruz,2014,30.44
+Shasta,2005,76.11
+Shasta,2005,193.53
+Shasta,2005,42.49
+Shasta,2005,83.03
+Shasta,2006,73.01
+Shasta,2006,163.64
+Shasta,2006,36.89
+Shasta,2006,67.96
+Shasta,2007,56.65
+Shasta,2007,150.38
+Shasta,2007,32.15
+Shasta,2007,58.27
+Shasta,2008,94.14
+Shasta,2008,237.53
+Shasta,2008,54.7
+Shasta,2008,66.78
+Shasta,2009,72.7
+Shasta,2009,86.91
+Shasta,2009,241.09
+Shasta,2009,54.59
+Shasta,2009,76.17
+Shasta,2010,113.67
+Shasta,2010,243.64
+Shasta,2010,46.11
+Shasta,2010,92.05
+Shasta,2011,70.3
+Shasta,2011,152.95
+Shasta,2011,46.5
+Shasta,2011,101.46
+Shasta,2012,53.4
+Shasta,2012,124.19
+Shasta,2012,73.4
+Shasta,2012,82.28
+Shasta,2013,77.33
+Shasta,2013,70.05
+Shasta,2013,141.56
+Shasta,2013,61.27
+Shasta,2013,70.12
+Shasta,2014,53.24
+Shasta,2014,76.69
+Shasta,2014,124.53
+Shasta,2014,72.16
+Shasta,2014,90.26
+Siskiyou,2005,47.97
+Siskiyou,2006,193.3
+Siskiyou,2006,53.89
+Siskiyou,2007,60.3
+Siskiyou,2008,52.43
+Siskiyou,2011,71.04
+Siskiyou,2014,68.43
+Solano,2005,202.74
+Solano,2005,311.11
+Solano,2005,132.24
+Solano,2005,176.89
+Solano,2005,78.53
+Solano,2005,136.56
+Solano,2005,30.43
+Solano,2005,43.28
+Solano,2005,105.22
+Solano,2005,37.14
+Solano,2005,54.0
+Solano,2005,85.58
+Solano,2005,101.14
+Solano,2005,75.95
+Solano,2005,128.97
+Solano,2005,72.4
+Solano,2005,160.64
+Solano,2005,44.51
+Solano,2005,63.5
+Solano,2006,194.29
+Solano,2006,316.03
+Solano,2006,166.08
+Solano,2006,166.15
+Solano,2006,144.29
+Solano,2006,47.91
+Solano,2006,36.31
+Solano,2006,100.52
+Solano,2006,34.02
+Solano,2006,45.92
+Solano,2006,180.88
+Solano,2006,77.63
+Solano,2006,101.85
+Solano,2006,53.02
+Solano,2006,117.81
+Solano,2006,25.87
+Solano,2006,64.09
+Solano,2007,288.4
+Solano,2007,397.95
+Solano,2007,177.72
+Solano,2007,196.2
+Solano,2007,108.01
+Solano,2007,53.48
+Solano,2007,59.12
+Solano,2007,96.8
+Solano,2007,33.35
+Solano,2007,46.72
+Solano,2007,79.0
+Solano,2007,50.85
+Solano,2007,74.66
+Solano,2007,131.08
+Solano,2007,53.17
+Solano,2007,45.87
+Solano,2008,232.14
+Solano,2008,446.83
+Solano,2008,130.48
+Solano,2008,165.02
+Solano,2008,91.03
+Solano,2008,25.92
+Solano,2008,28.32
+Solano,2008,52.53
+Solano,2008,100.81
+Solano,2008,26.67
+Solano,2008,60.38
+Solano,2008,107.82
+Solano,2008,40.52
+Solano,2008,56.83
+Solano,2008,64.8
+Solano,2008,134.41
+Solano,2008,45.39
+Solano,2008,51.59
+Solano,2009,271.08
+Solano,2009,455.59
+Solano,2009,179.32
+Solano,2009,262.46
+Solano,2009,91.61
+Solano,2009,121.46
+Solano,2009,31.93
+Solano,2009,55.85
+Solano,2009,56.59
+Solano,2009,138.43
+Solano,2009,49.25
+Solano,2009,67.58
+Solano,2009,55.35
+Solano,2009,51.03
+Solano,2009,70.12
+Solano,2009,132.21
+Solano,2009,53.05
+Solano,2009,81.3
+Solano,2010,376.79
+Solano,2010,531.6
+Solano,2010,190.43
+Solano,2010,293.26
+Solano,2010,187.62
+Solano,2010,27.33
+Solano,2010,65.31
+Solano,2010,44.01
+Solano,2010,101.5
+Solano,2010,51.76
+Solano,2010,75.77
+Solano,2010,58.78
+Solano,2010,78.17
+Solano,2010,92.01
+Solano,2010,195.13
+Solano,2010,83.41
+Solano,2010,103.25
+Solano,2011,297.03
+Solano,2011,510.82
+Solano,2011,301.9
+Solano,2011,300.7
+Solano,2011,130.46
+Solano,2011,35.86
+Solano,2011,48.62
+Solano,2011,48.46
+Solano,2011,127.77
+Solano,2011,45.51
+Solano,2011,84.14
+Solano,2011,132.71
+Solano,2011,41.99
+Solano,2011,58.99
+Solano,2011,47.47
+Solano,2011,119.84
+Solano,2011,81.8
+Solano,2011,97.22
+Solano,2012,301.13
+Solano,2012,605.3
+Solano,2012,232.24
+Solano,2012,329.38
+Solano,2012,138.54
+Solano,2012,46.42
+Solano,2012,80.01
+Solano,2012,53.72
+Solano,2012,118.44
+Solano,2012,57.02
+Solano,2012,89.51
+Solano,2012,85.92
+Solano,2012,41.69
+Solano,2012,69.35
+Solano,2012,69.08
+Solano,2012,133.74
+Solano,2012,78.64
+Solano,2012,77.99
+Solano,2013,154.14
+Solano,2013,529.0
+Solano,2013,257.13
+Solano,2013,342.36
+Solano,2013,132.85
+Solano,2013,44.29
+Solano,2013,47.39
+Solano,2013,103.98
+Solano,2013,51.38
+Solano,2013,84.59
+Solano,2013,172.53
+Solano,2013,60.44
+Solano,2013,77.24
+Solano,2013,129.9
+Solano,2013,63.56
+Solano,2013,73.82
+Solano,2014,315.22
+Solano,2014,566.65
+Solano,2014,300.47
+Solano,2014,381.25
+Solano,2014,137.54
+Solano,2014,48.75
+Solano,2014,40.42
+Solano,2014,71.75
+Solano,2014,132.94
+Solano,2014,55.09
+Solano,2014,95.01
+Solano,2014,138.52
+Solano,2014,57.83
+Solano,2014,54.17
+Solano,2014,59.99
+Solano,2014,115.2
+Solano,2014,57.62
+Solano,2014,111.45
+Sonoma,2005,248.55
+Sonoma,2005,81.06
+Sonoma,2005,144.56
+Sonoma,2005,26.73
+Sonoma,2005,42.81
+Sonoma,2005,220.42
+Sonoma,2005,214.8
+Sonoma,2005,97.77
+Sonoma,2005,172.86
+Sonoma,2005,71.79
+Sonoma,2005,132.41
+Sonoma,2005,34.61
+Sonoma,2005,50.37
+Sonoma,2006,178.12
+Sonoma,2006,73.43
+Sonoma,2006,151.07
+Sonoma,2006,22.84
+Sonoma,2006,58.65
+Sonoma,2006,137.3
+Sonoma,2006,241.25
+Sonoma,2006,96.79
+Sonoma,2006,150.75
+Sonoma,2006,57.27
+Sonoma,2006,122.48
+Sonoma,2006,30.04
+Sonoma,2006,46.21
+Sonoma,2007,882.35
+Sonoma,2007,75.1
+Sonoma,2007,113.17
+Sonoma,2007,28.36
+Sonoma,2007,43.28
+Sonoma,2007,35.4
+Sonoma,2007,114.01
+Sonoma,2007,31.11
+Sonoma,2007,35.21
+Sonoma,2008,652.17
+Sonoma,2008,213.29
+Sonoma,2008,59.92
+Sonoma,2008,129.99
+Sonoma,2008,23.21
+Sonoma,2008,39.8
+Sonoma,2008,53.19
+Sonoma,2008,132.76
+Sonoma,2008,24.29
+Sonoma,2008,39.37
+Sonoma,2009,243.53
+Sonoma,2009,79.67
+Sonoma,2009,173.3
+Sonoma,2009,38.91
+Sonoma,2009,74.21
+Sonoma,2009,74.26
+Sonoma,2009,102.28
+Sonoma,2009,43.1
+Sonoma,2009,41.7
+Sonoma,2010,717.95
+Sonoma,2010,256.36
+Sonoma,2010,88.44
+Sonoma,2010,148.78
+Sonoma,2010,43.79
+Sonoma,2010,71.81
+Sonoma,2010,55.31
+Sonoma,2010,149.4
+Sonoma,2010,43.87
+Sonoma,2010,50.0
+Sonoma,2011,547.95
+Sonoma,2011,297.45
+Sonoma,2011,70.48
+Sonoma,2011,125.5
+Sonoma,2011,44.62
+Sonoma,2011,58.14
+Sonoma,2011,40.72
+Sonoma,2011,124.09
+Sonoma,2011,34.34
+Sonoma,2011,49.43
+Sonoma,2012,660.38
+Sonoma,2012,288.04
+Sonoma,2012,71.79
+Sonoma,2012,124.34
+Sonoma,2012,32.21
+Sonoma,2012,54.25
+Sonoma,2012,54.15
+Sonoma,2012,104.0
+Sonoma,2012,42.55
+Sonoma,2012,47.37
+Sonoma,2013,213.3
+Sonoma,2013,70.14
+Sonoma,2013,133.44
+Sonoma,2013,46.49
+Sonoma,2013,49.82
+Sonoma,2013,46.91
+Sonoma,2013,109.64
+Sonoma,2013,34.29
+Sonoma,2013,33.59
+Sonoma,2014,310.18
+Sonoma,2014,45.18
+Sonoma,2014,106.03
+Sonoma,2014,40.38
+Sonoma,2014,63.22
+Sonoma,2014,34.81
+Sonoma,2014,121.4
+Sonoma,2014,37.96
+Sonoma,2014,39.24
+Stanislaus,2005,363.2
+Stanislaus,2005,138.14
+Stanislaus,2005,331.08
+Stanislaus,2005,34.78
+Stanislaus,2005,81.03
+Stanislaus,2005,23.07
+Stanislaus,2005,50.99
+Stanislaus,2005,138.89
+Stanislaus,2005,115.71
+Stanislaus,2005,67.09
+Stanislaus,2005,144.63
+Stanislaus,2005,48.93
+Stanislaus,2005,73.09
+Stanislaus,2006,223.99
+Stanislaus,2006,263.14
+Stanislaus,2006,46.05
+Stanislaus,2006,91.61
+Stanislaus,2006,23.61
+Stanislaus,2006,44.42
+Stanislaus,2006,89.17
+Stanislaus,2006,67.28
+Stanislaus,2006,146.39
+Stanislaus,2006,42.76
+Stanislaus,2006,76.58
+Stanislaus,2007,391.71
+Stanislaus,2007,149.08
+Stanislaus,2007,219.03
+Stanislaus,2007,53.84
+Stanislaus,2007,103.55
+Stanislaus,2007,28.5
+Stanislaus,2007,47.36
+Stanislaus,2007,142.34
+Stanislaus,2007,76.32
+Stanislaus,2007,181.74
+Stanislaus,2007,44.63
+Stanislaus,2007,84.25
+Stanislaus,2008,376.47
+Stanislaus,2008,147.44
+Stanislaus,2008,220.12
+Stanislaus,2008,39.84
+Stanislaus,2008,90.67
+Stanislaus,2008,25.73
+Stanislaus,2008,51.4
+Stanislaus,2008,168.88
+Stanislaus,2008,150.76
+Stanislaus,2008,109.51
+Stanislaus,2008,141.32
+Stanislaus,2008,49.91
+Stanislaus,2008,79.7
+Stanislaus,2009,270.88
+Stanislaus,2009,479.62
+Stanislaus,2009,208.02
+Stanislaus,2009,298.41
+Stanislaus,2009,43.96
+Stanislaus,2009,126.71
+Stanislaus,2009,36.24
+Stanislaus,2009,64.92
+Stanislaus,2009,192.74
+Stanislaus,2009,98.51
+Stanislaus,2009,162.31
+Stanislaus,2009,94.88
+Stanislaus,2009,163.71
+Stanislaus,2009,62.28
+Stanislaus,2009,84.11
+Stanislaus,2010,293.45
+Stanislaus,2010,333.33
+Stanislaus,2010,130.05
+Stanislaus,2010,293.82
+Stanislaus,2010,61.75
+Stanislaus,2010,106.81
+Stanislaus,2010,39.09
+Stanislaus,2010,65.05
+Stanislaus,2010,88.79
+Stanislaus,2010,116.75
+Stanislaus,2010,101.75
+Stanislaus,2010,161.76
+Stanislaus,2010,70.88
+Stanislaus,2010,85.14
+Stanislaus,2011,528.85
+Stanislaus,2011,374.06
+Stanislaus,2011,115.03
+Stanislaus,2011,303.16
+Stanislaus,2011,61.6
+Stanislaus,2011,53.25
+Stanislaus,2011,97.73
+Stanislaus,2011,40.42
+Stanislaus,2011,70.27
+Stanislaus,2011,73.73
+Stanislaus,2011,153.54
+Stanislaus,2011,55.87
+Stanislaus,2011,105.34
+Stanislaus,2011,58.84
+Stanislaus,2011,85.0
+Stanislaus,2012,439.02
+Stanislaus,2012,513.45
+Stanislaus,2012,273.14
+Stanislaus,2012,467.96
+Stanislaus,2012,61.08
+Stanislaus,2012,55.93
+Stanislaus,2012,107.36
+Stanislaus,2012,50.16
+Stanislaus,2012,72.93
+Stanislaus,2012,134.83
+Stanislaus,2012,113.23
+Stanislaus,2012,44.32
+Stanislaus,2012,130.63
+Stanislaus,2012,56.4
+Stanislaus,2012,69.39
+Stanislaus,2013,394.09
+Stanislaus,2013,790.12
+Stanislaus,2013,348.47
+Stanislaus,2013,513.19
+Stanislaus,2013,57.82
+Stanislaus,2013,46.03
+Stanislaus,2013,115.81
+Stanislaus,2013,46.96
+Stanislaus,2013,83.54
+Stanislaus,2013,136.52
+Stanislaus,2013,92.8
+Stanislaus,2013,55.2
+Stanislaus,2013,119.52
+Stanislaus,2013,62.83
+Stanislaus,2013,85.41
+Stanislaus,2014,350.0
+Stanislaus,2014,714.29
+Stanislaus,2014,392.71
+Stanislaus,2014,463.98
+Stanislaus,2014,65.28
+Stanislaus,2014,123.07
+Stanislaus,2014,57.17
+Stanislaus,2014,104.96
+Stanislaus,2014,78.9
+Stanislaus,2014,127.57
+Stanislaus,2014,63.66
+Stanislaus,2014,155.04
+Stanislaus,2014,73.85
+Stanislaus,2014,101.19
+Sutter,2005,94.13
+Sutter,2005,91.29
+Sutter,2005,54.73
+Sutter,2006,66.92
+Sutter,2006,96.62
+Sutter,2006,33.26
+Sutter,2006,53.03
+Sutter,2007,41.1
+Sutter,2007,89.72
+Sutter,2007,48.0
+Sutter,2008,74.77
+Sutter,2008,45.37
+Sutter,2008,83.92
+Sutter,2008,30.15
+Sutter,2008,68.7
+Sutter,2009,92.31
+Sutter,2009,55.84
+Sutter,2009,133.93
+Sutter,2009,44.57
+Sutter,2010,34.15
+Sutter,2010,110.24
+Sutter,2010,46.84
+Sutter,2011,42.12
+Sutter,2011,46.0
+Sutter,2012,44.77
+Sutter,2012,51.54
+Sutter,2013,32.47
+Sutter,2013,53.77
+Sutter,2014,93.19
+Sutter,2014,54.13
+Sutter,2014,66.28
+Sutter,2014,62.87
+Tehama,2005,290.56
+Tehama,2005,74.09
+Tehama,2005,106.28
+Tehama,2006,283.69
+Tehama,2006,72.73
+Tehama,2006,83.1
+Tehama,2007,206.45
+Tehama,2007,226.56
+Tehama,2007,60.23
+Tehama,2007,89.64
+Tehama,2008,194.88
+Tehama,2008,93.75
+Tehama,2008,225.68
+Tehama,2008,75.61
+Tehama,2008,61.44
+Tehama,2009,166.67
+Tehama,2009,117.85
+Tehama,2009,112.36
+Tehama,2009,107.29
+Tehama,2009,98.37
+Tehama,2010,64.98
+Tehama,2010,208.84
+Tehama,2010,79.63
+Tehama,2010,120.03
+Tehama,2011,124.28
+Tehama,2011,44.66
+Tehama,2011,58.92
+Tehama,2012,76.05
+Tehama,2012,58.44
+Tehama,2012,74.11
+Tehama,2013,52.46
+Tehama,2013,66.13
+Tehama,2014,209.21
+Tehama,2014,149.78
+Tehama,2014,63.72
+Tehama,2014,81.28
+Tulare,2005,200.37
+Tulare,2005,359.33
+Tulare,2005,102.24
+Tulare,2005,206.18
+Tulare,2005,38.34
+Tulare,2005,61.36
+Tulare,2005,430.62
+Tulare,2005,142.66
+Tulare,2005,374.05
+Tulare,2005,69.53
+Tulare,2005,173.06
+Tulare,2005,67.83
+Tulare,2005,88.02
+Tulare,2006,273.64
+Tulare,2006,287.9
+Tulare,2006,101.65
+Tulare,2006,172.52
+Tulare,2006,37.39
+Tulare,2006,60.27
+Tulare,2006,553.0
+Tulare,2006,330.75
+Tulare,2006,96.71
+Tulare,2006,175.06
+Tulare,2006,50.87
+Tulare,2006,72.26
+Tulare,2007,194.3
+Tulare,2007,366.3
+Tulare,2007,95.65
+Tulare,2007,132.04
+Tulare,2007,30.73
+Tulare,2007,55.93
+Tulare,2007,338.27
+Tulare,2007,377.78
+Tulare,2007,155.44
+Tulare,2007,77.27
+Tulare,2007,132.85
+Tulare,2007,43.68
+Tulare,2007,65.38
+Tulare,2008,245.63
+Tulare,2008,67.45
+Tulare,2008,116.39
+Tulare,2008,27.81
+Tulare,2008,52.27
+Tulare,2008,425.96
+Tulare,2008,1042.55
+Tulare,2008,282.16
+Tulare,2008,416.54
+Tulare,2008,48.43
+Tulare,2008,70.63
+Tulare,2008,33.61
+Tulare,2008,59.9
+Tulare,2009,819.67
+Tulare,2009,266.15
+Tulare,2009,72.67
+Tulare,2009,132.98
+Tulare,2009,36.59
+Tulare,2009,62.57
+Tulare,2009,591.97
+Tulare,2009,1410.79
+Tulare,2009,603.29
+Tulare,2009,876.87
+Tulare,2009,75.88
+Tulare,2009,121.42
+Tulare,2009,55.91
+Tulare,2009,85.87
+Tulare,2010,250.86
+Tulare,2010,186.75
+Tulare,2010,58.57
+Tulare,2010,118.7
+Tulare,2010,26.63
+Tulare,2010,49.22
+Tulare,2010,1054.95
+Tulare,2010,1983.3
+Tulare,2010,699.05
+Tulare,2010,1210.4
+Tulare,2010,70.15
+Tulare,2010,106.3
+Tulare,2010,45.87
+Tulare,2010,55.69
+Tulare,2011,336.7
+Tulare,2011,259.03
+Tulare,2011,66.26
+Tulare,2011,132.11
+Tulare,2011,29.89
+Tulare,2011,59.2
+Tulare,2011,603.45
+Tulare,2011,957.03
+Tulare,2011,424.29
+Tulare,2011,643.37
+Tulare,2011,56.42
+Tulare,2011,89.22
+Tulare,2011,47.73
+Tulare,2011,53.76
+Tulare,2012,308.58
+Tulare,2012,62.03
+Tulare,2012,141.4
+Tulare,2012,33.61
+Tulare,2012,58.13
+Tulare,2012,443.46
+Tulare,2012,1027.13
+Tulare,2012,341.0
+Tulare,2012,602.14
+Tulare,2012,63.12
+Tulare,2012,131.61
+Tulare,2012,40.87
+Tulare,2012,50.46
+Tulare,2013,293.13
+Tulare,2013,274.22
+Tulare,2013,54.64
+Tulare,2013,128.59
+Tulare,2013,35.1
+Tulare,2013,72.03
+Tulare,2013,461.54
+Tulare,2013,1081.08
+Tulare,2013,355.5
+Tulare,2013,455.13
+Tulare,2013,46.18
+Tulare,2013,137.4
+Tulare,2013,39.64
+Tulare,2013,62.42
+Tulare,2014,244.7
+Tulare,2014,59.27
+Tulare,2014,119.29
+Tulare,2014,34.45
+Tulare,2014,69.51
+Tulare,2014,568.93
+Tulare,2014,1264.37
+Tulare,2014,556.33
+Tulare,2014,907.19
+Tulare,2014,82.77
+Tulare,2014,30.47
+Tulare,2014,53.11
+Tuolumne,2005,183.86
+Tuolumne,2005,104.96
+Tuolumne,2005,72.39
+Tuolumne,2006,193.88
+Tuolumne,2006,52.41
+Tuolumne,2006,109.97
+Tuolumne,2007,266.67
+Tuolumne,2007,49.01
+Tuolumne,2007,85.34
+Tuolumne,2008,154.0
+Tuolumne,2008,74.71
+Tuolumne,2009,142.54
+Tuolumne,2009,59.72
+Tuolumne,2009,55.97
+Tuolumne,2010,58.97
+Tuolumne,2010,73.89
+Tuolumne,2011,97.93
+Tuolumne,2011,83.49
+Tuolumne,2012,105.78
+Tuolumne,2012,84.74
+Tuolumne,2013,85.2
+Tuolumne,2014,109.45
+Tuolumne,2014,60.21
+Ventura,2005,710.06
+Ventura,2005,181.85
+Ventura,2005,188.42
+Ventura,2005,113.8
+Ventura,2005,42.8
+Ventura,2005,73.3
+Ventura,2005,122.38
+Ventura,2005,39.09
+Ventura,2005,58.61
+Ventura,2005,108.86
+Ventura,2005,80.45
+Ventura,2005,57.63
+Ventura,2005,97.45
+Ventura,2005,38.61
+Ventura,2005,47.77
+Ventura,2006,636.36
+Ventura,2006,176.5
+Ventura,2006,193.22
+Ventura,2006,81.25
+Ventura,2006,58.24
+Ventura,2006,58.23
+Ventura,2006,156.07
+Ventura,2006,28.2
+Ventura,2006,58.49
+Ventura,2006,62.5
+Ventura,2006,36.74
+Ventura,2006,81.32
+Ventura,2006,31.53
+Ventura,2006,44.25
+Ventura,2007,99.15
+Ventura,2007,162.25
+Ventura,2007,98.55
+Ventura,2007,29.64
+Ventura,2007,53.51
+Ventura,2007,113.79
+Ventura,2007,40.98
+Ventura,2007,58.36
+Ventura,2007,55.53
+Ventura,2007,99.81
+Ventura,2007,26.99
+Ventura,2007,34.76
+Ventura,2008,161.27
+Ventura,2008,54.48
+Ventura,2008,112.33
+Ventura,2008,31.4
+Ventura,2008,60.77
+Ventura,2008,56.8
+Ventura,2008,82.72
+Ventura,2008,31.13
+Ventura,2008,44.06
+Ventura,2009,380.95
+Ventura,2009,258.53
+Ventura,2009,35.23
+Ventura,2009,62.35
+Ventura,2009,111.9
+Ventura,2009,34.86
+Ventura,2009,61.15
+Ventura,2009,119.45
+Ventura,2009,44.92
+Ventura,2009,66.28
+Ventura,2009,125.69
+Ventura,2009,37.45
+Ventura,2009,68.97
+Ventura,2010,415.34
+Ventura,2010,150.2
+Ventura,2010,234.34
+Ventura,2010,71.7
+Ventura,2010,122.84
+Ventura,2010,30.68
+Ventura,2010,59.76
+Ventura,2010,121.63
+Ventura,2010,41.21
+Ventura,2010,62.98
+Ventura,2010,116.96
+Ventura,2010,37.63
+Ventura,2010,57.9
+Ventura,2011,460.53
+Ventura,2011,153.75
+Ventura,2011,89.47
+Ventura,2011,50.38
+Ventura,2011,53.21
+Ventura,2011,110.36
+Ventura,2011,36.13
+Ventura,2011,62.16
+Ventura,2011,57.03
+Ventura,2011,42.76
+Ventura,2011,117.07
+Ventura,2011,38.65
+Ventura,2011,48.18
+Ventura,2012,199.27
+Ventura,2012,49.04
+Ventura,2012,55.92
+Ventura,2012,108.99
+Ventura,2012,36.16
+Ventura,2012,74.42
+Ventura,2012,44.61
+Ventura,2012,49.79
+Ventura,2012,120.7
+Ventura,2012,36.65
+Ventura,2012,49.03
+Ventura,2013,236.09
+Ventura,2013,171.26
+Ventura,2013,44.97
+Ventura,2013,97.35
+Ventura,2013,36.79
+Ventura,2013,60.33
+Ventura,2013,48.84
+Ventura,2013,86.22
+Ventura,2013,36.86
+Ventura,2013,54.58
+Ventura,2014,402.68
+Ventura,2014,330.3
+Ventura,2014,145.75
+Ventura,2014,36.43
+Ventura,2014,59.55
+Ventura,2014,93.14
+Ventura,2014,45.65
+Ventura,2014,77.57
+Ventura,2014,39.18
+Ventura,2014,54.07
+Ventura,2014,65.56
+Ventura,2014,86.05
+Ventura,2014,44.71
+Ventura,2014,44.77
+Yolo,2005,111.48
+Yolo,2005,26.47
+Yolo,2005,51.06
+Yolo,2005,116.18
+Yolo,2005,19.98
+Yolo,2005,33.14
+Yolo,2006,126.95
+Yolo,2006,31.74
+Yolo,2006,44.25
+Yolo,2006,75.35
+Yolo,2006,26.77
+Yolo,2006,36.96
+Yolo,2007,46.7
+Yolo,2007,69.95
+Yolo,2007,34.54
+Yolo,2007,100.46
+Yolo,2007,39.21
+Yolo,2007,30.53
+Yolo,2008,66.88
+Yolo,2008,84.63
+Yolo,2008,19.37
+Yolo,2008,28.9
+Yolo,2008,125.0
+Yolo,2008,24.24
+Yolo,2008,43.62
+Yolo,2009,48.54
+Yolo,2009,84.43
+Yolo,2009,24.41
+Yolo,2009,50.23
+Yolo,2009,64.49
+Yolo,2009,114.84
+Yolo,2009,38.16
+Yolo,2009,51.87
+Yolo,2010,310.85
+Yolo,2010,44.08
+Yolo,2010,120.68
+Yolo,2010,33.91
+Yolo,2010,63.98
+Yolo,2010,107.88
+Yolo,2010,130.32
+Yolo,2010,43.99
+Yolo,2010,62.88
+Yolo,2011,50.63
+Yolo,2011,95.27
+Yolo,2011,34.94
+Yolo,2011,55.76
+Yolo,2011,102.74
+Yolo,2011,32.4
+Yolo,2011,48.25
+Yolo,2012,85.12
+Yolo,2012,45.69
+Yolo,2012,53.39
+Yolo,2012,81.86
+Yolo,2012,29.33
+Yolo,2012,58.57
+Yolo,2013,55.27
+Yolo,2013,87.19
+Yolo,2013,42.46
+Yolo,2013,69.57
+Yolo,2013,73.37
+Yolo,2013,28.3
+Yolo,2013,61.43
+Yolo,2014,83.26
+Yolo,2014,123.36
+Yolo,2014,60.11
+Yolo,2014,61.19
+Yolo,2014,51.3
+Yolo,2014,40.9
+Yolo,2014,57.1
