@@ -3,3 +3,5 @@ Prevalence of pediatric asthma dependence on demographic and environmental condi
 
  - Determine what conditions correlate with pediatric asthma, as measured by the emergency department (ED) visits by children with a diagnosis of asthma
  - Set machine learning algorithms to predict the number of ED visits in the next few years
+
+The data and machine learning tools are in https://github.com/joao-r-santos/BreathingEasy.
